@@ -1,0 +1,8326 @@
+999
+Index: 0
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <discourse: 1 Y>
+#1: <greet: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+EPs: 
+CFG: S => <greet>@1
+
+Index: 1
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <thing: 1 Y>
+#1: <which_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <what>@-1
+
+Index: 2
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_id: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 3
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: S/NP => N@0 || V@1
+
+Index: 4
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_q_dem: 1 Y>
+#1: <generic_entity: 0 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 5
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <S/NP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/PT => S/NP@1 || N@0
+
+Index: 6
+No semantic part
+CFG: PT => ?@-1
+
+Index: 7
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <S/NP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => S/NP@1 || N@0 || ?@-1
+
+Index: 8
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 1 Y>
+#1: <proper_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <named>@0
+
+Index: 9
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_at: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 10
+No semantic part
+CFG: PT => !@-1
+
+Index: 11
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_at: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 12
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 
+CFG: S => <$X>@0
+
+Index: 13
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 14
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_at: 0 Y>
+EPs: 
+CFG: S => <$X>@0
+
+Index: 15
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 16
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 0
+CFG: XP => <$X>@0 || !@-1
+
+Index: 17
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 18
+HRG-RHS: NodeCount=5 EdgeCount=8
+#0: <_X_a_1: 1 Y>
+#1: <def_implicit_q: 3 Y>
+#2: <loc_nonsp: 0 Y>
+#3: <place_n: 2 Y>
+#4: <unknown: 4 Y>
+#5: <ARG1: 1 -- 2 Y>
+#6: <ARG2: 0 -- 2 Y>
+#7: <BV: 3 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 19
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q_dem: 1 Y>
+#1: <generic_entity: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 20
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q_dem: 1 Y>
+#1: <generic_entity: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 21
+No semantic part
+CFG: ADV => ah@-1
+
+Index: 22
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <card: 0 Y>
+#1: <loc_nonsp: 2 Y>
+#2: <number_q: 1 Y>
+#3: <ARG2: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: ADJ => <card>@0
+
+Index: 23
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <card: 0 Y>
+#1: <loc_nonsp: 2 Y>
+#2: <number_q: 1 Y>
+#3: <ARG2: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => ah@-1 || <card>@0
+
+Index: 24
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 25
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 26
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <loc_nonsp: 2 Y>
+#1: <place_n: 0 Y>
+#2: <which_q: 1 Y>
+#3: <ARG2: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 2
+CFG: NP => <what>@-1
+
+Index: 27
+No semantic part
+CFG: V => ’s@-1
+
+Index: 28
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <loc_nonsp: 2 Y>
+#1: <place_n: 0 Y>
+#2: <which_q: 1 Y>
+#3: <ARG2: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 2
+CFG: S/NP => <what>@-1
+
+Index: 29
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <named: 0 Y>
+#1: <proper_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <named>@0
+
+Index: 30
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_you/nn_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 31
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 32
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 33
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 34
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 35
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_a_1: 0 Y>
+#1: <unknown: 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 36
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 37
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 38
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 39
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 40
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p_dir: 0 Y>
+EPs: 0
+CFG: PP => <$X>@0
+
+Index: 41
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || PP@0
+
+Index: 42
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <discourse: 0 Y>
+#1: <excl: 1 Y>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: ADV => <excl>@1
+
+Index: 43
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP => ADV@0 || ADV@1
+
+Index: 44
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 0 Y>
+#1: <unknown: 1 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 45
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@0 || ADV@1
+
+Index: 46
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 47
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 48
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 49
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <unknown: 0 Y>
+EPs: 0
+CFG: ADV => uh@-1
+
+Index: 50
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_x: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 51
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@1 || ADV@0
+
+Index: 52
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_at-for-of: 0 Y>
+EPs: 0
+CFG: ADJ => <$X>@0
+
+Index: 53
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 54
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADJ@0 || N@1
+
+Index: 55
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_p_per: 1 Y>
+#1: <udef_q: 0 Y>
+EPs: 0 -- 1
+CFG: P => <$X>@0
+
+Index: 56
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_n_of: 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 57
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG2: 1 -- 0 Y>
+#2: <BV: 2 -- 0 Y>
+#3: <P: 2 -- 1 N>
+EPs: 1
+CFG: XP => P@3 || N@0
+
+Index: 58
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 0 Y>
+#1: <unknown: 1 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 59
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <discourse: 1 Y>
+#1: <greet: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+EPs: 0
+CFG: ADV => <greet>@1
+
+Index: 60
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <discourse: 1 Y>
+#1: <greet: 0 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: ADV => <greet>@1
+
+Index: 61
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 62
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_to: 0 Y>
+EPs: 
+CFG: S => <$X>@0
+
+Index: 63
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG2: 1 -- 0 Y>
+#2: <BV: 2 -- 0 Y>
+#3: <P: 2 -- 1 N>
+EPs: 1
+CFG: PP/PT => P@3 || N@0
+
+Index: 64
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG2: 1 -- 0 Y>
+#2: <BV: 2 -- 0 Y>
+#3: <P: 2 -- 1 N>
+EPs: 1
+CFG: XP => P@3 || N@0 || !@-1
+
+Index: 65
+No semantic part
+CFG: V => does@-1
+
+Index: 66
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <thing: 1 Y>
+#1: <which_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: S/NP/VP/N => <what>@-1 || do@-1
+
+Index: 67
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <pron: 0 Y>
+#1: <pronoun_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: NP => <pron>@-1
+
+Index: 68
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <NP: 0 N>
+#1: <S/NP/VP/N: 1 N>
+EPs: 1 -- 0
+CFG: S/VP/N => S/NP/VP/N@1 || NP@0
+
+Index: 69
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 70
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 2 N>
+#1: <ARG1: 2 -- 1 Y>
+#2: <ARG2: 2 -- 0 Y>
+#3: <S/VP/N: 0 -- 1 N>
+EPs: 0
+CFG: S/PT => S/VP/N@3 || V@0
+
+Index: 71
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 2 N>
+#1: <ARG1: 2 -- 1 Y>
+#2: <ARG2: 2 -- 0 Y>
+#3: <S/VP/N: 0 -- 1 N>
+EPs: 
+CFG: S => S/VP/N@3 || V@0 || ?@-1
+
+Index: 72
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 2 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 73
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 2 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: S => <$X>@0 || !@-1
+
+Index: 74
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 75
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 76
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 77
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 78
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 79
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => AP@0 || N@1
+
+Index: 80
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: S/NP => NP@0 || V@1
+
+Index: 81
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <S/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => S/NP@1 || N@0
+
+Index: 82
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 83
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_v_to: 1 Y>
+#1: <unknown: 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 84
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 85
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 86
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 87
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/XP => ADV@1 || ADV@0
+
+Index: 88
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <XP/XP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => XP/XP@1 || ADV@0
+
+Index: 89
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_q_dem: 0 Y>
+EPs: 0
+CFG: DET => <$X>@0
+
+Index: 90
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_of: 0 Y>
+#1: <unknown: 1 Y>
+#2: <ARG: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 91
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 1 N>
+#1: <N: 0 N>
+#2: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => DET@0 || N@1
+
+Index: 92
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_q: 0 Y>
+EPs: 0
+CFG: DET => <$X>@0
+
+Index: 93
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_1: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 94
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 95
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_v_at: 0 Y>
+#1: <unknown: 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 96
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 97
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 98
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 99
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <pron: 0 Y>
+#1: <pronoun_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: S/VP => <pron>@-1
+
+Index: 100
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <S/VP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => S/VP@0 || V@1
+
+Index: 101
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 102
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 103
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 104
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 105
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 106
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 107
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 108
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 109
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <discourse: 1 Y>
+#1: <greet: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: ADV => <greet>@1
+
+Index: 110
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 111
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <N: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@0 || N@1
+
+Index: 112
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_v_1: 0 Y>
+#1: <unknown: 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 113
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_v_1: 1 Y>
+#1: <unknown: 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 114
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <named: 0 Y>
+#1: <unknown: 1 Y>
+#2: <ARG: 1 -- 0 Y>
+EPs: 0
+CFG: N => <named>@0
+
+Index: 115
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: ADV => <$X>@0
+
+Index: 116
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 117
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_of-for: 0 Y>
+EPs: 0
+CFG: ADJ => <$X>@0
+
+Index: 118
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 
+CFG: S => <$X>@0 || ?@-1
+
+Index: 119
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p: 0 Y>
+EPs: 0
+CFG: PP => <$X>@0
+
+Index: 120
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p: 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 121
+No semantic part
+CFG: PT => ,@-1
+
+Index: 122
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0 || ,@-1
+
+Index: 123
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 0 N>
+#1: <N: 1 N>
+EPs: 0 -- 1
+CFG: XP/PT/ADV => ADV@0 || N@1
+
+Index: 124
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 0 N>
+#1: <N: 1 N>
+EPs: 0 -- 1
+CFG: XP/ADV => ADV@0 || N@1 || ,@-1
+
+Index: 125
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <ADV: 2 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG1: 2 -- 0 Y>
+#3: <XP/ADV: 1 -- 0 N>
+EPs: 
+CFG: XP => XP/ADV@3 || ADV@0
+
+Index: 126
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <neg: 0 Y>
+EPs: 0
+CFG: V => <neg>@0
+
+Index: 127
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <NP: 1 N>
+#1: <V: 0 N>
+EPs: 1 -- 0
+CFG: S/VP => NP@0 || V@1
+
+Index: 128
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 2 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG1: 2 -- 0 Y>
+#3: <S/VP: 0 -- 1 N>
+EPs: 
+CFG: S => S/VP@3 || V@0
+
+Index: 129
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_q_dem: 0 Y>
+#1: <generic_entity: 1 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 130
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => NP@0 || V@1
+
+Index: 131
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 0
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 132
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <AP: 0 N>
+#1: <DET: 1 N>
+EPs: 1 -- 0
+CFG: NP/N => DET@1 || AP@0
+
+Index: 133
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <card: 1 Y>
+#1: <loc_nonsp: 0 Y>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 1
+CFG: ADJ => <card>@0
+
+Index: 134
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <ADJ: 0 N>
+#1: <ARG1: 1 -- 0 Y>
+#2: <BV: 2 -- 0 Y>
+#3: <NP/N: 2 -- 1 N>
+EPs: 
+CFG: XP => NP/N@3 || ADJ@0
+
+Index: 135
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <dofm: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG: 0 -- 1 Y>
+EPs: 1
+CFG: N => <dofm>@0
+
+Index: 136
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 2 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 2
+CFG: V => <$X>@0
+
+Index: 137
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || N@0
+
+Index: 138
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_n_1: 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 139
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 140
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || NP@0
+
+Index: 141
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_2: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 142
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 1 Y>
+#1: <subord: 0 Y>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 143
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || AP@0
+
+Index: 144
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <_X_a_1: 3 Y>
+#1: <def_implicit_q: 2 Y>
+#2: <loc_nonsp: 1 Y>
+#3: <place_n: 0 Y>
+#4: <ARG1: 3 -- 0 Y>
+#5: <ARG2: 1 -- 0 Y>
+#6: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 145
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <_X_a_1: 3 Y>
+#1: <def_implicit_q: 2 Y>
+#2: <loc_nonsp: 1 Y>
+#3: <place_n: 0 Y>
+#4: <ARG1: 3 -- 0 Y>
+#5: <ARG2: 1 -- 0 Y>
+#6: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 146
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 0 N>
+#1: <N: 1 N>
+EPs: 0 -- 1
+CFG: XP/ADV => ADV@0 || N@1
+
+Index: 147
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 148
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 149
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 150
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 1 Y>
+#1: <proper_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: N => <named>@0
+
+Index: 151
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 1 Y>
+#1: <proper_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <named>@0 || !@-1
+
+Index: 152
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_gone/nn_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 153
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <ellipsis_expl: 0 Y>
+EPs: 0
+CFG: V => ???@-1
+
+Index: 154
+No semantic part
+CFG: NP-X => it@-1
+
+Index: 155
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <ellipsis_expl: 0 Y>
+EPs: 
+CFG: S => it@-1
+
+Index: 156
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of-2: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 157
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <_X_a_1: 3 Y>
+#1: <def_implicit_q: 2 Y>
+#2: <loc_nonsp: 1 Y>
+#3: <place_n: 0 Y>
+#4: <ARG1: 3 -- 0 Y>
+#5: <ARG2: 1 -- 0 Y>
+#6: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 158
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <card: 3 Y>
+#1: <generic_entity: 1 Y>
+#2: <udef_q: 2 Y>
+#3: <unknown: 0 Y>
+#4: <ARG: 0 -- 1 Y>
+#5: <ARG1: 3 -- 1 Y>
+#6: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <card>@0
+
+Index: 159
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q_dem: 0 Y>
+#1: <generic_entity: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 160
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q_dem: 0 Y>
+#1: <generic_entity: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 161
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <every_q: 2 Y>
+#1: <thing: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => everything@-1
+
+Index: 162
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <DET: 0 N>
+EPs: 1 -- 0
+CFG: XP/N => ADV@0 || DET@1
+
+Index: 163
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_1: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG: 0 -- 1 Y>
+EPs: 0 -- 1
+CFG: N => <$X>@0
+
+Index: 164
+HRG-RHS: NodeCount=4 EdgeCount=4
+#0: <ARG1: 3 -- 1 Y>
+#1: <BV: 0 -- 2 Y>
+#2: <N: 1 -- 2 N>
+#3: <XP/N: 3 -- 0 N>
+EPs: 
+CFG: XP => XP/N@3 || N@2
+
+Index: 165
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 166
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ellipsis_ref: 1 Y>
+#1: <neg: 0 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => don’t@-1
+
+Index: 167
+No semantic part
+CFG: COMP => to@-1
+
+Index: 168
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 2
+CFG: N/VP/N => <$X>@0 || to@-1
+
+Index: 169
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N/VP/N: 0 N>
+#1: <V: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 
+CFG: XP => N/VP/N@0 || V@1
+
+Index: 170
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_about: 0 Y>
+EPs: 
+CFG: S => <$X>@0
+
+Index: 171
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ellipsis_ref: 1 Y>
+#1: <neg: 0 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: V => don’t@-1
+
+Index: 172
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ellipsis_ref: 1 Y>
+#1: <neg: 0 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => don’t@-1 || !@-1
+
+Index: 173
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 1 Y>
+#1: <proper_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <named>@0 || ?@-1
+
+Index: 174
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 1 Y>
+#1: <def_implicit_q: 2 Y>
+#2: <place_n: 0 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 175
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_a_1: 1 Y>
+#1: <unknown: 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 176
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <card: 3 Y>
+#1: <generic_entity: 1 Y>
+#2: <udef_q: 0 Y>
+#3: <unknown: 2 Y>
+#4: <ARG: 2 -- 1 Y>
+#5: <ARG1: 3 -- 1 Y>
+#6: <BV: 0 -- 1 Y>
+EPs: 2
+CFG: ADJ => <card>@0
+
+Index: 177
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <ADV: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADJ@0 || ADV@1
+
+Index: 178
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q: 1 Y>
+#1: <generic_entity: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 2
+CFG: DET => <$X>@0
+
+Index: 179
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 0 N>
+#1: <V: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 
+CFG: XP => DET@0 || V@1
+
+Index: 180
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <S/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => S/NP@1 || NP@0
+
+Index: 181
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_boy/nn_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 182
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 183
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 184
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 185
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_v_cause: 0 Y>
+#1: <unknown: 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 186
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p_state: 0 Y>
+EPs: 0
+CFG: PP => <$X>@0
+
+Index: 187
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <card: 0 Y>
+#1: <loc_nonsp: 2 Y>
+#2: <number_q: 1 Y>
+#3: <ARG2: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 2
+CFG: ADJ => <card>@0
+
+Index: 188
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <AP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP => AP@1 || ADJ@0
+
+Index: 189
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 190
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => ADV@0 || V@1
+
+Index: 191
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_boo/nn_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 192
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_with: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 193
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_x_subord: 0 Y>
+#1: <unknown: 1 Y>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0 -- 1
+CFG: P => <$X>@0
+
+Index: 194
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <NP: 2 N>
+#1: <ARG: 1 -- 2 Y>
+#2: <P: 0 -- 1 N>
+EPs: 0
+CFG: XP => P@2 || NP@0
+
+Index: 195
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_cause: 0 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 196
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 197
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 198
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 199
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 200
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 0 Y>
+#1: <unknown: 1 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: AP => <$X>@0
+
+Index: 201
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <AP: 0 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADV@0 || AP@1
+
+Index: 202
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a: 0 Y>
+EPs: 0
+CFG: PP => <$X>@0
+
+Index: 203
+HRG-RHS: NodeCount=5 EdgeCount=9
+#0: <generic_entity: 2 Y>
+#1: <more_comp: 3 Y>
+#2: <much-many_a: 0 Y>
+#3: <udef_q: 1 Y>
+#4: <unknown: 4 Y>
+#5: <ARG: 4 -- 2 Y>
+#6: <ARG1: 0 -- 2 Y>
+#7: <ARG1: 3 -- 0 Y>
+#8: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: ADJ => more@-1
+
+Index: 204
+HRG-RHS: NodeCount=5 EdgeCount=9
+#0: <generic_entity: 2 Y>
+#1: <more_comp: 3 Y>
+#2: <much-many_a: 0 Y>
+#3: <udef_q: 1 Y>
+#4: <unknown: 4 Y>
+#5: <ARG: 4 -- 2 Y>
+#6: <ARG1: 0 -- 2 Y>
+#7: <ARG1: 3 -- 0 Y>
+#8: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => more@-1 || ?@-1
+
+Index: 205
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: AP => <$X>@0
+
+Index: 206
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 1 N>
+#1: <PP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => PP@1 || AP@0
+
+Index: 207
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 2 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 2
+CFG: V => <$X>@0
+
+Index: 208
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <DET: 1 N>
+#1: <V: 0 N>
+EPs: 0 -- 1
+CFG: VP/N => V@1 || DET@0
+
+Index: 209
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <named: 0 Y>
+EPs: 0
+CFG: N => <named>@0
+
+Index: 210
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG2: 1 -- 0 Y>
+#2: <BV: 2 -- 0 Y>
+#3: <VP/N: 1 -- 2 N>
+EPs: 
+CFG: S => VP/N@3 || N@0
+
+Index: 211
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_cause: 0 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 212
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_v_qmodal: 1 Y>
+#1: <ellipsis_ref: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => <$X>@0
+
+Index: 213
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG: 0 -- 1 Y>
+EPs: 1
+CFG: AP => <$X>@0
+
+Index: 214
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <DET: 1 N>
+#2: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => DET@1 || AP@0
+
+Index: 215
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <AP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => AP@1 || ADJ@0
+
+Index: 216
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_of: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 217
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_1: 0 Y>
+#1: <unknown: 1 Y>
+#2: <ARG: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 218
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 219
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 220
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_at: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 221
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_at: 0 Y>
+EPs: 
+CFG: S => <$X>@0 || !@-1
+
+Index: 222
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_p: 1 Y>
+#1: <unknown: 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 223
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_c: 0 Y>
+EPs: 0
+CFG: CONJ => <$X>@0
+
+Index: 224
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <CONJ: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 
+CFG: S => CONJ@0 || V@1
+
+Index: 225
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <DET: 0 N>
+#1: <PP: 1 N>
+EPs: 0
+CFG: XP/N => PP@1 || DET@0
+
+Index: 226
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <XP/N: 0 N>
+#2: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => XP/N@1 || N@0
+
+Index: 227
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 228
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 229
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 230
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@0 || V@1
+
+Index: 231
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 232
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p_loc: 0 Y>
+EPs: 0
+CFG: PP => <$X>@0
+
+Index: 233
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 234
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 235
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p: 0 Y>
+EPs: 0
+CFG: P => <$X>@0
+
+Index: 236
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => P@0 || PP@1
+
+Index: 237
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_x_deg: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 238
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <ADV: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: XP => ADV@1 || ADJ@0
+
+Index: 239
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 240
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: S => <$X>@0 || !@-1
+
+Index: 241
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q_dem: 0 Y>
+#1: <generic_entity: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 242
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADV@0 || N@1
+
+Index: 243
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <discourse: 0 Y>
+#1: <excl: 1 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: ADV => <excl>@1
+
+Index: 244
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 245
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <ellipsis_ref: 0 Y>
+EPs: 0
+CFG: V => ???@-1
+
+Index: 246
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/PT => V@1 || N@0
+
+Index: 247
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || N@0 || ?@-1
+
+Index: 248
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/NP => ADV@1 || ADV@0
+
+Index: 249
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <DET: 1 N>
+#1: <XP/NP: 0 N>
+EPs: 0 -- 1
+CFG: XP/N => XP/NP@1 || DET@0
+
+Index: 250
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <S/NP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => S/NP@1 || N@0
+
+Index: 251
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 252
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_at-for-of: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 253
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 254
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => me*me@-1
+
+Index: 255
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_state: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 256
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <V: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1 -- 0
+CFG: VP/VP => V@1 || V@0
+
+Index: 257
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0 -- 2
+CFG: V => <$X>@0
+
+Index: 258
+HRG-RHS: NodeCount=4 EdgeCount=5
+#0: <ARG1: 0 -- 1 Y>
+#1: <ARG1: 2 -- 1 Y>
+#2: <ARG2: 2 -- 3 Y>
+#3: <V: 3 -- 1 N>
+#4: <VP/VP: 0 -- 2 N>
+EPs: 
+CFG: S => VP/VP@4 || V@3
+
+Index: 259
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <_X_a_1: 1 Y>
+#1: <def_implicit_q: 3 Y>
+#2: <place_n: 2 Y>
+#3: <unknown: 0 Y>
+#4: <ARG: 0 -- 2 Y>
+#5: <ARG1: 1 -- 2 Y>
+#6: <BV: 3 -- 2 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 260
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 261
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: VP/PT => V@1 || PP@0
+
+Index: 262
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || PP@0 || !@-1
+
+Index: 263
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 264
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 265
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 266
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_to: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: ADJ => <$X>@0
+
+Index: 267
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => V@1 || ADJ@0
+
+Index: 268
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: VP => V@1 || ADJ@0
+
+Index: 269
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <VP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => VP@1 || ADJ@0
+
+Index: 270
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 271
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <person: 1 Y>
+#1: <which_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <what>@-1
+
+Index: 272
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 0 N>
+#1: <S/NP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => S/NP@1 || NP@0
+
+Index: 273
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_cause: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 274
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <AP: 0 N>
+#1: <AP: 1 N>
+EPs: 0 -- 1
+CFG: N/N => AP@1 || AP@0
+
+Index: 275
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG1: 1 -- 0 Y>
+#2: <ARG1: 2 -- 0 Y>
+#3: <N/N: 1 -- 2 N>
+EPs: 
+CFG: XP => N/N@3 || N@0
+
+Index: 276
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <compound: 2 Y>
+#2: <udef_q: 1 Y>
+#3: <ARG2: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 277
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_to: 0 Y>
+EPs: 0
+CFG: ADJ => <$X>@0
+
+Index: 278
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP => N@1 || ADJ@0
+
+Index: 279
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <card: 3 Y>
+#1: <generic_entity: 2 Y>
+#2: <udef_q: 1 Y>
+#3: <unknown: 0 Y>
+#4: <ARG: 0 -- 2 Y>
+#5: <ARG1: 3 -- 2 Y>
+#6: <BV: 1 -- 2 Y>
+EPs: 2
+CFG: N => <card>@0
+
+Index: 280
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 2 Y>
+#1: <proper_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: N => <named>@0
+
+Index: 281
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/NP => ADV@0 || V@1
+
+Index: 282
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <XP/NP: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 
+CFG: XP => XP/NP@1 || N@0
+
+Index: 283
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <N: 1 N>
+#1: <PP: 0 N>
+EPs: 
+CFG: XP => PP@1 || N@0
+
+Index: 284
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_a_1: 0 Y>
+#1: <unknown: 1 Y>
+EPs: 1
+CFG: ADV => <$X>@0
+
+Index: 285
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 286
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 1
+CFG: AP => <$X>@0
+
+Index: 287
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <AP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADV@0 || AP@1
+
+Index: 288
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 289
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: S/NP => N@0 || V@1
+
+Index: 290
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => V@1 || N@0
+
+Index: 291
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_2: 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 292
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_modal: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 293
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <discourse: 1 Y>
+#1: <greet: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: ADV => <greet>@1 || ,@-1
+
+Index: 294
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <named>@0
+
+Index: 295
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <card: 0 Y>
+EPs: 0
+CFG: ADJ => <card>@0
+
+Index: 296
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <loc_nonsp: 1 Y>
+#2: <udef_q: 0 Y>
+#3: <ARG2: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 297
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 298
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 0
+CFG: AP => ah@-1 || <$X>@0
+
+Index: 299
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 1 N>
+#1: <N: 0 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 
+CFG: XP => AP@0 || N@1
+
+Index: 300
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 301
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <XP/XP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => XP/XP@1 || N@0
+
+Index: 302
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => N@1 || ADV@0
+
+Index: 303
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_q: 0 Y>
+EPs: 0
+CFG: NP/N => ah@-1 || <$X>@0
+
+Index: 304
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <NP/N: 1 N>
+#2: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => NP/N@1 || N@0
+
+Index: 305
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => N@0 || V@1
+
+Index: 306
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 2 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 2
+CFG: VP => ah@-1 || <$X>@0
+
+Index: 307
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_v_1: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 308
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 1 N>
+#1: <VP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => VP@1 || V@0
+
+Index: 309
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => N@0 || V@1
+
+Index: 310
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: S/PP => ADV@0 || V@1
+
+Index: 311
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 1 N>
+#1: <S/PP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => S/PP@1 || PP@0
+
+Index: 312
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 0
+CFG: ADJ => <$X>@0
+
+Index: 313
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <loc_nonsp: 1 Y>
+#2: <udef_q: 0 Y>
+#3: <ARG2: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 314
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 2 Y>
+#1: <pronoun_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: NP => ya@-1
+
+Index: 315
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <NP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => NP@1 || ADV@0
+
+Index: 316
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <neg: 0 Y>
+EPs: 0
+CFG: ADV => <neg>@0
+
+Index: 317
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_p: 1 Y>
+#1: <reason: 2 Y>
+#2: <which_q: 0 Y>
+#3: <ARG2: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: PP => <$X>@0
+
+Index: 318
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: XP => PP@1 || PP@0
+
+Index: 319
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_for: 0 Y>
+EPs: 0
+CFG: ADJ => <$X>@0
+
+Index: 320
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_u_unknown: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 321
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 322
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 323
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 324
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 325
+HRG-RHS: NodeCount=3 EdgeCount=2
+#0: <ADV: 0 N>
+#1: <P: 2 -- 1 N>
+EPs: 0 -- 1 -- 2
+CFG: XP/N => ADV@0 || P@1
+
+Index: 326
+HRG-RHS: NodeCount=4 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG2: 2 -- 0 Y>
+#2: <BV: 1 -- 0 Y>
+#3: <XP/N: 3 -- 2 -- 1 N>
+EPs: 2 -- 3
+CFG: XP => XP/N@3 || N@0
+
+Index: 327
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <CONJ: 2 N>
+#1: <ARG2: 2 -- 1 Y>
+#2: <P: 0 -- 1 N>
+EPs: 0 -- 1
+CFG: PP/N => CONJ@0 || P@2
+
+Index: 328
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 2 N>
+#1: <ARG2: 1 -- 2 Y>
+#2: <BV: 0 -- 2 Y>
+#3: <PP/N: 0 -- 1 N>
+EPs: 1
+CFG: S => PP/N@3 || N@0
+
+Index: 329
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_2: 0 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 330
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 331
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <XP/N: 0 N>
+#2: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: XP/PT => XP/N@1 || N@0
+
+Index: 332
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <XP/N: 0 N>
+#2: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => XP/N@1 || N@0 || ?@-1
+
+Index: 333
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => PP@0 || V@1
+
+Index: 334
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <P: 0 N>
+EPs: 1 -- 0
+CFG: XP/NP => ADV@0 || P@1
+
+Index: 335
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <N: 2 N>
+#1: <ARG2: 0 -- 2 Y>
+#2: <XP/NP: 1 -- 0 N>
+EPs: 1 -- 0
+CFG: XP => XP/NP@2 || N@0
+
+Index: 336
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_dir: 0 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 337
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 338
+No semantic part
+CFG: V => is@-1
+
+Index: 339
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 0
+CFG: XP => ah@-1 || <$X>@0
+
+Index: 340
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 341
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 342
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0 -- 2
+CFG: N => <$X>@0
+
+Index: 343
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <N: 2 -- 1 N>
+EPs: 1
+CFG: XP/PP => ADV@0 || N@2
+
+Index: 344
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_also: 0 Y>
+EPs: 0
+CFG: PP => <$X>@0
+
+Index: 345
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 1 N>
+#1: <XP/PP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => XP/PP@1 || PP@0
+
+Index: 346
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADJ: 1 N>
+#1: <NP: 0 N>
+EPs: 1 -- 0
+CFG: AP/VP => ADJ@0 || NP@1
+
+Index: 347
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 0 N>
+#1: <AP/VP: 2 -- 1 N>
+#2: <ARG1: 0 -- 1 Y>
+#3: <ARG1: 2 -- 0 Y>
+EPs: 
+CFG: XP => AP/VP@1 || V@0
+
+Index: 348
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_u_unknown: 0 Y>
+#1: <unknown: 1 Y>
+#2: <ARG: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 349
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 1 Y>
+#1: <proper_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => ah@-1 || <named>@0
+
+Index: 350
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 1 Y>
+#1: <proper_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <named>@0
+
+Index: 351
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <DET: 1 N>
+#1: <S/NP: 0 N>
+EPs: 0 -- 1
+CFG: S/N => S/NP@1 || DET@0
+
+Index: 352
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG2: 2 -- 0 Y>
+#2: <BV: 1 -- 0 Y>
+#3: <S/N: 2 -- 1 N>
+EPs: 0
+CFG: S/PT => S/N@3 || N@0
+
+Index: 353
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG2: 2 -- 0 Y>
+#2: <BV: 1 -- 0 Y>
+#3: <S/N: 2 -- 1 N>
+EPs: 
+CFG: S => S/N@3 || N@0 || ?@-1
+
+Index: 354
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 355
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_qmodal: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 356
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@0 || V@1
+
+Index: 357
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/PT/XP => ADV@1 || ADV@0
+
+Index: 358
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/XP => ADV@1 || ADV@0 || ,@-1
+
+Index: 359
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <XP/XP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => XP/XP@1 || AP@0
+
+Index: 360
+No semantic part
+CFG: ADV => uh@-1
+
+Index: 361
+No semantic part
+CFG: S/PT/S => ADV@-1 || ADV@-1
+
+Index: 362
+No semantic part
+CFG: S/S => S/PT/S@-1 || PT@-1
+
+Index: 363
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: S/PP => uh@-1 || uh@-1 || ,@-1 || <$X>@0
+
+Index: 364
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 0
+CFG: S/PT/S => uh@-1 || uh@-1 || ,@-1 || <$X>@0
+
+Index: 365
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 0
+CFG: S/S => uh@-1 || uh@-1 || ,@-1 || <$X>@0 || ,@-1
+
+Index: 366
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <S/S: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: S/PP => S/S@0 || V@1
+
+Index: 367
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 2 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 368
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 2 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: S => <$X>@0 || !@-1
+
+Index: 369
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 370
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 371
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 372
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <PP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => N@0 || PP@1
+
+Index: 373
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 374
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 1 N>
+#1: <N: 0 N>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: NP/PT => DET@0 || N@1
+
+Index: 375
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 1 N>
+#1: <N: 0 N>
+#2: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => DET@0 || N@1 || ?@-1
+
+Index: 376
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || PP@0 || ?@-1
+
+Index: 377
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: S/PP => N@0 || V@1
+
+Index: 378
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG2: 2 -- 0 Y>
+#2: <BV: 1 -- 0 Y>
+#3: <S/N: 2 -- 1 N>
+EPs: 
+CFG: S => S/N@3 || N@0
+
+Index: 379
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 0 N>
+#1: <N: 1 N>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: NP => DET@0 || N@1
+
+Index: 380
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 381
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <thing: 0 Y>
+#1: <unknown: 2 Y>
+#2: <which_q: 1 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <what>@-1
+
+Index: 382
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <thing: 0 Y>
+#1: <unknown: 2 Y>
+#2: <which_q: 1 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <what>@-1 || ?@-1
+
+Index: 383
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 384
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 385
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <S/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: S/PT => S/NP@1 || N@0
+
+Index: 386
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <S/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => S/NP@1 || N@0 || ?@-1
+
+Index: 387
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <generic_entity: 2 Y>
+#1: <little-few_a: 1 Y>
+#2: <udef_q: 3 Y>
+#3: <unknown: 0 Y>
+#4: <ARG: 0 -- 2 Y>
+#5: <ARG1: 1 -- 2 Y>
+#6: <BV: 3 -- 2 Y>
+EPs: 0
+CFG: ADJ => little@-1
+
+Index: 388
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_wow/nn_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 389
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/PT => V@1 || NP@0
+
+Index: 390
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || NP@0 || ?@-1
+
+Index: 391
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q: 2 Y>
+#1: <generic_entity: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 392
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_a_1: 1 Y>
+#1: <unknown: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 393
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 394
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 395
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: S => <$X>@0 || !@-1
+
+Index: 396
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <thing: 0 Y>
+#1: <unknown: 2 Y>
+#2: <which_q: 1 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <what>@-1 || !@-1
+
+Index: 397
+No semantic part
+CFG: V => ’m@-1
+
+Index: 398
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_woof/nn_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 399
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 0
+CFG: S/NP => <$X>@0
+
+Index: 400
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 401
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => PP@0 || PP@1
+
+Index: 402
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <AP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => AP@0 || AP@1
+
+Index: 403
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_baa/nn_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 404
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <P: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: PP/PP => P@0 || P@1
+
+Index: 405
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 0 N>
+#1: <PP/PP: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => PP/PP@1 || PP@0
+
+Index: 406
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_you/nn_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 407
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_you/nn_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 408
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 409
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_wow/nn_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 410
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 0
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 411
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: S => <$X>@0 || !@-1
+
+Index: 412
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || N@0
+
+Index: 413
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/PT => ADV@0 || N@1
+
+Index: 414
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADV@0 || N@1 || !@-1
+
+Index: 415
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG2: 1 -- 0 Y>
+#2: <BV: 2 -- 0 Y>
+#3: <P: 2 -- 1 N>
+EPs: 1
+CFG: XP => P@3 || N@0 || ?@-1
+
+Index: 416
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <PP: 0 N>
+#1: <PP: 1 N>
+EPs: 0
+CFG: PP => PP@1 || PP@0
+
+Index: 417
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <PP: 0 N>
+#1: <PP: 1 N>
+EPs: 
+CFG: XP => PP@0 || PP@1
+
+Index: 418
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 1 N>
+#1: <PP/PP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: PP/PP => PP/PP@1 || PP@0
+
+Index: 419
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p: 0 Y>
+EPs: 0
+CFG: PP => <$X>@0 || ,@-1
+
+Index: 420
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <PP: 0 N>
+#1: <PP: 1 N>
+EPs: 
+CFG: XP => PP@1 || PP@0
+
+Index: 421
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 2
+CFG: AP => <$X>@0
+
+Index: 422
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <V: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 
+CFG: S => V@1 || AP@0
+
+Index: 423
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_unspec: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 424
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1 -- 2
+CFG: V => <$X>@0
+
+Index: 425
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1 -- 2
+CFG: V => <$X>@0 || ,@-1
+
+Index: 426
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <V: 0 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <V: 1 -- 2 N>
+EPs: 0 -- 1
+CFG: S => V@2 || V@0
+
+Index: 427
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 428
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_also-2: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 429
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_v_to: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 430
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 0
+CFG: V => <$X>@0 || ,@-1
+
+Index: 431
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0 -- 1
+CFG: S/VP => NP@0 || V@1
+
+Index: 432
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 2 N>
+#1: <ARG1: 2 -- 0 Y>
+#2: <ARG2: 1 -- 2 Y>
+#3: <S/VP: 1 -- 0 N>
+EPs: 2
+CFG: S/PP => S/VP@3 || V@0
+
+Index: 433
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 434
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p: 0 Y>
+EPs: 0
+CFG: P => <$X>@0 || ,@-1
+
+Index: 435
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: PP/PT/PP => P@0 || PP@1
+
+Index: 436
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: PP/PP => P@0 || PP@1 || ,@-1
+
+Index: 437
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 0
+CFG: NP/N => ah@-1 || <$X>@0
+
+Index: 438
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <NP/N: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => NP/N@1 || N@0
+
+Index: 439
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 
+CFG: S => <$X>@0
+
+Index: 440
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <pron: 1 Y>
+#1: <pronoun_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: V => let*’s@-1
+
+Index: 441
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <V: 0 N>
+#1: <V: 1 N>
+EPs: 0
+CFG: S/PT => V@1 || V@0
+
+Index: 442
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <V: 0 N>
+#1: <V: 1 N>
+EPs: 
+CFG: S => V@1 || V@0 || !@-1
+
+Index: 443
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_wow/nn_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 444
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_wow/nn_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 445
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 
+CFG: S => <$X>@0 || !@-1
+
+Index: 446
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <N: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: XP/PT => ADV@0 || N@1
+
+Index: 447
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <N: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@0 || N@1 || !@-1
+
+Index: 448
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_woof_woof/nn_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 449
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: N/PT => AP@0 || N@1
+
+Index: 450
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => AP@0 || N@1 || !@-1
+
+Index: 451
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 452
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 453
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_woof_woof_woof_woof/nn_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 454
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_baa/nn_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 455
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_baa/nn_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 456
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_kitty/nn_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 457
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_woof/nn_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 458
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_woof/nn_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 459
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 2 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 2
+CFG: V => <$X>@0 || ,@-1
+
+Index: 460
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_there: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 461
+No semantic part
+CFG: ADV => that*is@-1
+
+Index: 462
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_there: 0 Y>
+EPs: 0
+CFG: V/NP => <$X>@0 || that*is@-1
+
+Index: 463
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V/NP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V/NP@1 || N@0
+
+Index: 464
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <AP: 0 N>
+EPs: 1 -- 0
+CFG: XP/N => ADV@0 || AP@1
+
+Index: 465
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0 -- 2
+CFG: N => <$X>@0
+
+Index: 466
+HRG-RHS: NodeCount=4 EdgeCount=4
+#0: <ARG1: 1 -- 2 Y>
+#1: <ARG1: 3 -- 0 Y>
+#2: <N: 2 -- 0 N>
+#3: <XP/N: 1 -- 3 N>
+EPs: 
+CFG: XP => XP/N@3 || N@2
+
+Index: 467
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG1: 2 -- 0 Y>
+#2: <BV: 1 -- 0 Y>
+#3: <S/N: 2 -- 1 N>
+EPs: 
+CFG: S => S/N@3 || N@0
+
+Index: 468
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <P: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: XP => P@1 || N@0
+
+Index: 469
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: XP => N@0 || V@1
+
+Index: 470
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <V: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 0
+CFG: VP/NP/PP => V@1 || V@0
+
+Index: 471
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <VP/NP/PP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: VP/PP => VP/NP/PP@1 || NP@0
+
+Index: 472
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 1 N>
+#1: <VP/PP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: VP/PT => VP/PP@1 || PP@0
+
+Index: 473
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 1 N>
+#1: <VP/PP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => VP/PP@1 || PP@0 || ?@-1
+
+Index: 474
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_v_1: 1 Y>
+#1: <subord: 0 Y>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 475
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => AP@0 || V@1
+
+Index: 476
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 477
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p_state: 0 Y>
+EPs: 0
+CFG: PP => <$X>@0 || ,@-1
+
+Index: 478
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_q: 0 Y>
+#1: <generic_entity: 1 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: DET => <$X>@0
+
+Index: 479
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/NP => DET@0 || V@1
+
+Index: 480
+No semantic part
+CFG: ADV => like@-1
+
+Index: 481
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/NP => DET@0 || V@1 || like@-1
+
+Index: 482
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 483
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || V@0
+
+Index: 484
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1 -- 2
+CFG: VP => <$X>@0 || ,@-1
+
+Index: 485
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <V: 2 N>
+#1: <ARG1: 2 -- 0 Y>
+#2: <VP: 1 -- 0 N>
+EPs: 1 -- 2
+CFG: S => VP@2 || V@0
+
+Index: 486
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <card: 0 Y>
+#1: <number_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: ADJ => <card>@0
+
+Index: 487
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || ADJ@0
+
+Index: 488
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_cause: 2 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 2
+CFG: V => <$X>@0
+
+Index: 489
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_cause: 2 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 2
+CFG: V => <$X>@0 || ,@-1
+
+Index: 490
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || ADV@0
+
+Index: 491
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_u_unknown: 1 Y>
+#1: <unknown: 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 492
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <named: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <named>@0
+
+Index: 493
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 0 N>
+#1: <N: 1 N>
+EPs: 1 -- 0
+CFG: S/VP => N@1 || ADV@0
+
+Index: 494
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 495
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_meas: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 496
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_dir: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 497
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <card: 0 Y>
+#1: <number_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: ADJ => <card>@0
+
+Index: 498
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <ADV: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@1 || ADJ@0
+
+Index: 499
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/S => ADV@1 || ADV@0
+
+Index: 500
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 1 N>
+#1: <XP/S: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => XP/S@1 || V@0
+
+Index: 501
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 502
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_v_modal: 1 Y>
+#1: <ellipsis_ref: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 503
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_p: 1 Y>
+#1: <reason: 2 Y>
+#2: <which_q: 0 Y>
+#3: <ARG2: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 504
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q_dem: 0 Y>
+#1: <generic_entity: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 505
+No semantic part
+CFG: ADV => yes@-1
+
+Index: 506
+No semantic part
+CFG: S => ADV@-1 || PT@-1
+
+Index: 507
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <discourse: 0 Y>
+#1: <greet: 1 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: ADV => <greet>@1
+
+Index: 508
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <discourse: 0 Y>
+#1: <greet: 1 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => <greet>@1 || !@-1
+
+Index: 509
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 0 N>
+#1: <S/NP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: S/PT => S/NP@1 || NP@0
+
+Index: 510
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 0 N>
+#1: <S/NP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => S/NP@1 || NP@0 || ?@-1
+
+Index: 511
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q: 1 Y>
+#1: <thing: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 512
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_for: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 513
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <_X_a_1: 3 Y>
+#1: <def_implicit_q: 0 Y>
+#2: <loc_nonsp: 1 Y>
+#3: <place_n: 2 Y>
+#4: <ARG1: 3 -- 2 Y>
+#5: <ARG2: 1 -- 2 Y>
+#6: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 514
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <_X_a_1: 3 Y>
+#1: <def_implicit_q: 0 Y>
+#2: <loc_nonsp: 1 Y>
+#3: <place_n: 2 Y>
+#4: <ARG1: 3 -- 2 Y>
+#5: <ARG2: 1 -- 2 Y>
+#6: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: S/VP/PP => <$X>@0 || it@-1
+
+Index: 515
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <S/VP/PP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: S/PT => S/VP/PP@0 || V@1
+
+Index: 516
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <S/VP/PP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => S/VP/PP@0 || V@1 || !@-1
+
+Index: 517
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 518
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/PT => ADV@1 || ADV@0
+
+Index: 519
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP => ADV@1 || ADV@0 || !@-1
+
+Index: 520
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: VP/PT => V@1 || NP@0
+
+Index: 521
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || NP@0 || !@-1
+
+Index: 522
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <polite: 0 Y>
+EPs: 0
+CFG: ADV => <polite>@0
+
+Index: 523
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@0 || PP@1
+
+Index: 524
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <pron: 0 Y>
+#1: <pronoun_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: S/AP => <pron>@-1
+
+Index: 525
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <S/AP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => S/AP@1 || ADJ@0
+
+Index: 526
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP => ADV@1 || ADV@0 || ?@-1
+
+Index: 527
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_of: 0 Y>
+EPs: 
+CFG: S => <$X>@0
+
+Index: 528
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <card: 0 Y>
+#1: <loc_nonsp: 2 Y>
+#2: <number_q: 1 Y>
+#3: <ARG2: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => uh@-1 || <card>@0
+
+Index: 529
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_knock/nn_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 530
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: PP/PT => P@0 || PP@1
+
+Index: 531
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => P@0 || PP@1 || !@-1
+
+Index: 532
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <AP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => AP@1 || ADV@0
+
+Index: 533
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 1
+CFG: AP => <$X>@0
+
+Index: 534
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 535
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_capacity: 1 Y>
+#1: <loc_nonsp: 2 Y>
+#2: <udef_q: 0 Y>
+#3: <ARG2: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 536
+HRG-RHS: NodeCount=5 EdgeCount=9
+#0: <generic_entity: 2 Y>
+#1: <more_comp: 3 Y>
+#2: <much-many_a: 0 Y>
+#3: <udef_q: 1 Y>
+#4: <unknown: 4 Y>
+#5: <ARG: 4 -- 2 Y>
+#6: <ARG1: 0 -- 2 Y>
+#7: <ARG1: 3 -- 0 Y>
+#8: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => more@-1 || !@-1
+
+Index: 537
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <generic_entity: 0 Y>
+#1: <little-few_a: 3 Y>
+#2: <udef_q: 1 Y>
+#3: <unknown: 2 Y>
+#4: <ARG: 2 -- 0 Y>
+#5: <ARG1: 3 -- 0 Y>
+#6: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: ADJ => little@-1
+
+Index: 538
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <generic_entity: 0 Y>
+#1: <little-few_a: 3 Y>
+#2: <udef_q: 1 Y>
+#3: <unknown: 2 Y>
+#4: <ARG: 2 -- 0 Y>
+#5: <ARG1: 3 -- 0 Y>
+#6: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => little@-1 || ?@-1
+
+Index: 539
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 540
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/NP => AP@0 || V@1
+
+Index: 541
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 542
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_with: 0 Y>
+EPs: 0
+CFG: ADJ => <$X>@0
+
+Index: 543
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_with: 0 Y>
+EPs: 0
+CFG: XP => <$X>@0 || !@-1
+
+Index: 544
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_of-for: 0 Y>
+EPs: 0
+CFG: XP => <$X>@0 || !@-1
+
+Index: 545
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_down: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 546
+No semantic part
+CFG: P => down@-1
+
+Index: 547
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_down: 0 Y>
+EPs: 
+CFG: S => <$X>@0 || down@-1
+
+Index: 548
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_to: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 549
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 550
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 551
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 552
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_who/nn_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 553
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_in: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 554
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 555
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 1 N>
+#1: <N: 0 N>
+#2: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => DET@0 || N@1 || !@-1
+
+Index: 556
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: XP => ADV@0 || ADV@1
+
+Index: 557
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <XP: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => XP@1 || ADV@0
+
+Index: 558
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_n_of-to: 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 559
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 560
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: N => <$X>@0 || ,@-1
+
+Index: 561
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <PP/PP: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: PP/PP => PP/PP@1 || P@0
+
+Index: 562
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_v_cause: 1 Y>
+#1: <unknown: 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 563
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_x_comp: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 564
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: ADV/PT => ADV@1 || ADV@0
+
+Index: 565
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@1 || ADV@0 || ?@-1
+
+Index: 566
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 567
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || ,@-1
+
+Index: 568
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <much-many_a: 0 Y>
+EPs: 0
+CFG: ADJ => many@-1
+
+Index: 569
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <generic_entity: 1 Y>
+#1: <much-many_a: 2 Y>
+#2: <udef_q: 0 Y>
+#3: <unknown: 3 Y>
+#4: <ARG: 3 -- 1 Y>
+#5: <ARG1: 2 -- 1 Y>
+#6: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: ADJ => many@-1
+
+Index: 570
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 0 N>
+#1: <ADJ: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADJ@1 || ADJ@0
+
+Index: 571
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || NP@0 || ?@-1
+
+Index: 572
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <discourse: 0 Y>
+#1: <excl: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG1: 0 -- 2 Y>
+EPs: 1
+CFG: ADV => <excl>@1
+
+Index: 573
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <generic_entity: 2 Y>
+#1: <more_comp: 0 Y>
+#2: <much-many_a: 3 Y>
+#3: <udef_q: 1 Y>
+#4: <ARG1: 0 -- 3 Y>
+#5: <ARG1: 3 -- 2 Y>
+#6: <BV: 1 -- 2 Y>
+EPs: 2
+CFG: ADJ => more@-1
+
+Index: 574
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => ADJ@0 || V@1
+
+Index: 575
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 576
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of-about: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 577
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_state: 0 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0 -- 2
+CFG: V => <$X>@0
+
+Index: 578
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 1 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG2: 0 -- 1 Y>
+#3: <V: 0 -- 2 N>
+EPs: 0
+CFG: VP/PT => V@3 || V@0
+
+Index: 579
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 1 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG2: 0 -- 1 Y>
+#3: <V: 0 -- 2 N>
+EPs: 
+CFG: S => V@3 || V@0 || !@-1
+
+Index: 580
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <NP: 0 N>
+#1: <NP: 1 N>
+EPs: 0 -- 1
+CFG: S/VP/N => NP@0 || NP@1
+
+Index: 581
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 2 N>
+#1: <ARG1: 2 -- 1 Y>
+#2: <ARG2: 2 -- 0 Y>
+#3: <S/VP/N: 0 -- 1 N>
+EPs: 
+CFG: S => S/VP/N@3 || V@0
+
+Index: 582
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <N: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@0 || N@1 || ?@-1
+
+Index: 583
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: ADJ => <$X>@0
+
+Index: 584
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_1: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: ADJ => <$X>@0 || ,@-1
+
+Index: 585
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => ADJ@0 || V@1
+
+Index: 586
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: V => <$X>@0 || ,@-1
+
+Index: 587
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 588
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: VP => <$X>@0 || ,@-1
+
+Index: 589
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <VP: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => VP@1 || AP@0
+
+Index: 590
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 
+CFG: S => <$X>@0 || ,@-1
+
+Index: 591
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 592
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => N@1 || AP@0
+
+Index: 593
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADV@0 || N@1 || ?@-1
+
+Index: 594
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <more_comp: 0 Y>
+#1: <much-many_a: 1 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: ADJ => more@-1
+
+Index: 595
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 0 N>
+#1: <ADJ: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADJ@0 || ADJ@1
+
+Index: 596
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_u_unknown: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 597
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 2 Y>
+#1: <pronoun_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: NP => you@-1
+
+Index: 598
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N/VP => <$X>@0 || to@-1
+
+Index: 599
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_v_1: 1 Y>
+#1: <eventuality: 0 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 600
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N/VP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => N/VP@0 || V@1
+
+Index: 601
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 2 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 2 -- 0
+CFG: V => <$X>@0
+
+Index: 602
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <AP: 1 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG2: 0 -- 1 Y>
+#3: <V: 0 -- 2 N>
+EPs: 
+CFG: S => V@3 || AP@0
+
+Index: 603
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: ADV => ADV@0 || ADV@1
+
+Index: 604
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <N: 1 N>
+#1: <PP: 0 N>
+EPs: 1
+CFG: XP/PP => PP@1 || N@0
+
+Index: 605
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <named: 0 Y>
+#1: <proper_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: S/PP => <named>@0
+
+Index: 606
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p_loc: 0 Y>
+EPs: 0
+CFG: P => <$X>@0
+
+Index: 607
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <S/PP: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/NP => S/PP@1 || P@0
+
+Index: 608
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_n_unit: 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 609
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => N@1 || ADJ@0
+
+Index: 610
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <compound: 0 Y>
+#1: <named: 1 Y>
+#2: <udef_q: 2 Y>
+#3: <ARG2: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: N => <named>@1
+
+Index: 611
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => N@0 || V@1
+
+Index: 612
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/PT => N@1 || ADV@0
+
+Index: 613
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => N@1 || ADV@0 || !@-1
+
+Index: 614
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: XP/ADV => N@1 || ADV@0
+
+Index: 615
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <XP/ADV: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => XP/ADV@1 || ADV@0
+
+Index: 616
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@1 || ADV@0 || !@-1
+
+Index: 617
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 618
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <V: 1 N>
+#2: <ARG3: 1 -- 0 Y>
+EPs: 1
+CFG: V => V@1 || N@0
+
+Index: 619
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <AP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP => ADV@0 || AP@1
+
+Index: 620
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 
+CFG: S => to@-1 || <$X>@0
+
+Index: 621
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 622
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_cause: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: V => <$X>@0 || ,@-1
+
+Index: 623
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_a_1: 1 Y>
+#1: <unknown: 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 624
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <N: 1 N>
+#1: <PP: 0 N>
+EPs: 0
+CFG: XP/PT => PP@1 || N@0
+
+Index: 625
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <N: 1 N>
+#1: <PP: 0 N>
+EPs: 
+CFG: XP => PP@1 || N@0 || !@-1
+
+Index: 626
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_c: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: CONJ => <$X>@0
+
+Index: 627
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <CONJ: 0 N>
+#1: <N: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: N/PT => CONJ@0 || N@1
+
+Index: 628
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <CONJ: 0 N>
+#1: <N: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => CONJ@0 || N@1 || ?@-1
+
+Index: 629
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_2: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 630
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <PP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: N/PT => N@0 || PP@1
+
+Index: 631
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <PP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => N@0 || PP@1 || ?@-1
+
+Index: 632
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <PP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => N@0 || PP@1 || !@-1
+
+Index: 633
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q_dem: 2 Y>
+#1: <generic_entity: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 634
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: NP => you@-1
+
+Index: 635
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => ah@-1 || you@-1
+
+Index: 636
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <S/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: S/PT => S/NP@1 || NP@0
+
+Index: 637
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <S/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => S/NP@1 || NP@0 || ?@-1
+
+Index: 638
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || ,@-1
+
+Index: 639
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: N/PT => ADJ@0 || N@1
+
+Index: 640
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADJ@0 || N@1 || ?@-1
+
+Index: 641
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: XP => V@1 || N@0
+
+Index: 642
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_from: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 643
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_v_to: 1 Y>
+#1: <unknown: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 644
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <V: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@0 || V@1
+
+Index: 645
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q: 0 Y>
+#1: <person: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 646
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: S => <$X>@0 || !@-1
+
+Index: 647
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => you@-1 || !@-1
+
+Index: 648
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: AP => <$X>@0
+
+Index: 649
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 650
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <CONJ: 0 N>
+EPs: 1
+CFG: ADV/ADV => ADV@0 || CONJ@1
+
+Index: 651
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <ADV/ADV: 0 N>
+EPs: 0 -- 1
+CFG: XP => ADV/ADV@1 || ADV@0
+
+Index: 652
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_up: 2 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 653
+No semantic part
+CFG: P => up@-1
+
+Index: 654
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_up: 2 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: S => <$X>@0 || up@-1
+
+Index: 655
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ,@-1
+
+Index: 656
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_a_1: 1 Y>
+#1: <udef_q: 0 Y>
+EPs: 0 -- 1
+CFG: AP => <$X>@0
+
+Index: 657
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <ADJ: 0 N>
+#1: <AP: 2 -- 1 N>
+#2: <ARG2: 1 -- 0 Y>
+#3: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: XP => ADJ@0 || AP@1
+
+Index: 658
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 659
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_up: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 660
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/P => NP@0 || V@1
+
+Index: 661
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => NP@0 || V@1 || up@-1
+
+Index: 662
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_to: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 663
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_2: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: AP => <$X>@0
+
+Index: 664
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <ellipsis_ref: 0 Y>
+EPs: 0
+CFG: VP => to@-1
+
+Index: 665
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <VP: 1 N>
+#1: <ARG1: 1 -- 0 Y>
+#2: <ARG2: 2 -- 1 Y>
+#3: <S/VP: 2 -- 0 N>
+EPs: 
+CFG: S => S/VP@3 || VP@0
+
+Index: 666
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 1
+CFG: VP/S/S => V@1 || N@0
+
+Index: 667
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <VP/S/S: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: VP/S => VP/S/S@1 || V@0
+
+Index: 668
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <VP/S: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => VP/S@1 || V@0
+
+Index: 669
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p_dir: 0 Y>
+EPs: 0
+CFG: PP => <$X>@0 || ,@-1
+
+Index: 670
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <P: 0 N>
+#1: <PP: 1 N>
+EPs: 0
+CFG: PP/NP => PP@1 || P@0
+
+Index: 671
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <DET: 0 N>
+#1: <PP/NP: 1 N>
+EPs: 1 -- 0
+CFG: PP/N => PP/NP@1 || DET@0
+
+Index: 672
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 1 N>
+#1: <ARG2: 2 -- 1 Y>
+#2: <BV: 0 -- 1 Y>
+#3: <PP/N: 2 -- 0 N>
+EPs: 
+CFG: XP => PP/N@3 || N@0
+
+Index: 673
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ,@-1
+
+Index: 674
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => AP@0 || N@1 || ,@-1
+
+Index: 675
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: VP/NP => V@1 || P@0
+
+Index: 676
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <VP/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: VP/PT => VP/NP@1 || N@0
+
+Index: 677
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <VP/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => VP/NP@1 || N@0 || ?@-1
+
+Index: 678
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_v_modal: 0 Y>
+#1: <ellipsis_ref: 1 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 679
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 1 Y>
+#1: <proper_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: NP/PT => ah@-1 || <named>@0
+
+Index: 680
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 1 Y>
+#1: <proper_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => ah@-1 || <named>@0 || !@-1
+
+Index: 681
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of-2: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 682
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 683
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_may/nn_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 684
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_may/nn_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 685
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <ellipsis_ref: 0 Y>
+EPs: 0
+CFG: V => do@-1
+
+Index: 686
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <AP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: AP/PT => AP@0 || AP@1
+
+Index: 687
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <AP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => AP@0 || AP@1 || !@-1
+
+Index: 688
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: S/ADV => NP@0 || V@1
+
+Index: 689
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <S/ADV: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => S/ADV@1 || ADV@0
+
+Index: 690
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_q: 0 Y>
+EPs: 0
+CFG: DET => <$X>@0 || ,@-1
+
+Index: 691
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: PP => P@0 || PP@1
+
+Index: 692
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: XP/PT => N@1 || AP@0
+
+Index: 693
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => N@1 || AP@0 || ?@-1
+
+Index: 694
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP => AP@0 || PP@1
+
+Index: 695
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <XP/XP: 0 N>
+EPs: 0 -- 1
+CFG: XP/ADV => XP/XP@1 || ADV@0
+
+Index: 696
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_knock/nn_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 697
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_knock/nn_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 698
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <_X_v_1: 1 Y>
+#1: <nominalization: 3 Y>
+#2: <udef_q: 2 Y>
+#3: <unknown: 0 Y>
+#4: <ARG: 0 -- 3 Y>
+#5: <ARG1: 3 -- 1 Y>
+#6: <BV: 2 -- 3 Y>
+EPs: 3
+CFG: V => <$X>@0
+
+Index: 699
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => V@1 || V@0
+
+Index: 700
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0 -- 1
+CFG: V => <$X>@0
+
+Index: 701
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0 -- 1
+CFG: V => <$X>@0 || ,@-1
+
+Index: 702
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || ,@-1
+
+Index: 703
+HRG-RHS: NodeCount=4 EdgeCount=6
+#0: <_X_v_1: 3 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 1 Y>
+#3: <udef_q: 0 Y>
+#4: <ARG1: 3 -- 2 Y>
+#5: <BV: 1 -- 2 Y>
+EPs: 0 -- 3
+CFG: V => <$X>@0
+
+Index: 704
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 2 N>
+#1: <ARG3: 0 -- 2 Y>
+#2: <BV: 1 -- 2 Y>
+#3: <V: 1 -- 0 N>
+EPs: 
+CFG: S => V@3 || N@0
+
+Index: 705
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG2: 1 -- 0 Y>
+#2: <BV: 2 -- 0 Y>
+#3: <P: 2 -- 1 N>
+EPs: 1
+CFG: PP => P@3 || N@0
+
+Index: 706
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_also: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 707
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <PP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: PP/PT => PP@1 || ADV@0
+
+Index: 708
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <PP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP => PP@1 || ADV@0 || ?@-1
+
+Index: 709
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <card: 2 Y>
+#1: <number_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 2
+CFG: ADJ => <card>@0
+
+Index: 710
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <AP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: XP/PT => ADJ@0 || AP@1
+
+Index: 711
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <AP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADJ@0 || AP@1 || !@-1
+
+Index: 712
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 1 N>
+#1: <N: 0 N>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: NP-WH/PT => DET@0 || N@1
+
+Index: 713
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADJ: 1 N>
+#1: <AP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADJ@0 || AP@1 || ?@-1
+
+Index: 714
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: S => <$X>@0 || ,@-1
+
+Index: 715
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0 || ,@-1
+
+Index: 716
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <V: 0 N>
+#1: <V: 1 N>
+EPs: 
+CFG: S => V@1 || V@0
+
+Index: 717
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q: 1 Y>
+#1: <person: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 718
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_for: 0 Y>
+EPs: 0
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 719
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <_X_p: 0 Y>
+#1: <def_implicit_q: 2 Y>
+#2: <loc_nonsp: 3 Y>
+#3: <place_n: 1 Y>
+#4: <ARG1: 0 -- 1 Y>
+#5: <ARG2: 3 -- 1 Y>
+#6: <BV: 2 -- 1 Y>
+EPs: 3
+CFG: N => <$X>@0
+
+Index: 720
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || N@0
+
+Index: 721
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/NP/VP => ADV@0 || V@1
+
+Index: 722
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <pron: 0 Y>
+#1: <pronoun_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: NP => ya@-1
+
+Index: 723
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <NP: 0 N>
+#1: <XP/NP/VP: 1 N>
+EPs: 1 -- 0
+CFG: XP/VP => XP/NP/VP@1 || NP@0
+
+Index: 724
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 1 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG2: 0 -- 1 Y>
+#3: <XP/VP: 0 -- 2 N>
+EPs: 0
+CFG: XP/PT => XP/VP@3 || V@0
+
+Index: 725
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 1 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG2: 0 -- 1 Y>
+#3: <XP/VP: 0 -- 2 N>
+EPs: 
+CFG: XP => XP/VP@3 || V@0 || !@-1
+
+Index: 726
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: NP => ya@-1
+
+Index: 727
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: NP/PT => ah@-1 || ya@-1
+
+Index: 728
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => ah@-1 || ya@-1 || !@-1
+
+Index: 729
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <CONJ: 0 N>
+#1: <N: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => CONJ@0 || N@1
+
+Index: 730
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_2: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 731
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <PP: 0 N>
+#1: <PP: 1 N>
+EPs: 0
+CFG: PP/PP => PP@1 || PP@0
+
+Index: 732
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 733
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: N => <$X>@0 || ,@-1
+
+Index: 734
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_may/rb_u_unknown: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 735
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_cause: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 736
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 1
+CFG: N => N@0 || V@1
+
+Index: 737
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: VP/PT => V@1 || N@0
+
+Index: 738
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || N@0 || ,@-1
+
+Index: 739
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 0 N>
+#1: <N: 1 N>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: NP/PT => DET@0 || N@1
+
+Index: 740
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <DET: 0 N>
+#1: <N: 1 N>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: NP => DET@0 || N@1 || ,@-1
+
+Index: 741
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <DET: 0 N>
+#1: <NP: 1 N>
+EPs: 1 -- 0
+CFG: S/VP/N => NP@1 || DET@0
+
+Index: 742
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_transfer: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 743
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG3: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || N@0
+
+Index: 744
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <AP: 1 N>
+#1: <V: 0 N>
+EPs: 0 -- 1
+CFG: VP/N => V@1 || AP@0
+
+Index: 745
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 2 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG2: 0 -- 2 Y>
+#3: <VP/N: 0 -- 1 N>
+EPs: 
+CFG: S => VP/N@3 || N@0
+
+Index: 746
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 1 N>
+#1: <V: 0 N>
+#2: <ARG3: 0 -- 1 Y>
+EPs: 0 -- 1
+CFG: V => V@1 || PP@0
+
+Index: 747
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 1 N>
+#1: <ARG1: 2 -- 1 Y>
+#2: <ARG2: 0 -- 1 Y>
+#3: <V: 0 -- 2 N>
+EPs: 
+CFG: S => V@3 || N@0
+
+Index: 748
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_2: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 749
+No semantic part
+CFG: NP => that@-1
+
+Index: 750
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_id: 1 Y>
+#1: <generic_entity: 0 Y>
+#2: <udef_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 751
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_id: 1 Y>
+#1: <generic_entity: 0 Y>
+#2: <udef_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: S/NP => <what>@-1 || <$X>@0
+
+Index: 752
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/PT => NP@0 || V@1
+
+Index: 753
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => NP@0 || V@1 || !@-1
+
+Index: 754
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 2 Y>
+#1: <pronoun_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: NP => ye@-1
+
+Index: 755
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <NP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/PT => ADV@0 || NP@1
+
+Index: 756
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <NP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADV@0 || NP@1 || !@-1
+
+Index: 757
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_v_1: 0 Y>
+#1: <unknown: 1 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 758
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 759
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <named>@0
+
+Index: 760
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <named>@0 || ,@-1
+
+Index: 761
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_cause: 0 Y>
+EPs: 0
+CFG: V => <$X>@0 || ,@-1
+
+Index: 762
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || N@0 || ?@-1
+
+Index: 763
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: XP/PT => ADV@0 || V@1
+
+Index: 764
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => ADV@0 || V@1 || ?@-1
+
+Index: 765
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: VP/NP => V@1 || V@0
+
+Index: 766
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <VP/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => VP/NP@1 || N@0
+
+Index: 767
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/PT => N@0 || V@1
+
+Index: 768
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => N@0 || V@1 || ?@-1
+
+Index: 769
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1 -- 0
+CFG: N => <$X>@0
+
+Index: 770
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <PP: 0 N>
+EPs: 1 -- 0
+CFG: XP => ADV@0 || PP@1
+
+Index: 771
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: VP => V@0 || V@1
+
+Index: 772
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_of: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 773
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 774
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_of: 1 Y>
+#1: <subord: 0 Y>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: ADJ => <$X>@0
+
+Index: 775
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <ADJ: 1 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG2: 0 -- 1 Y>
+#3: <V: 0 -- 2 N>
+EPs: 
+CFG: S => V@3 || ADJ@0
+
+Index: 776
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: VP => V@1 || ADV@0
+
+Index: 777
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <VP: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => VP@1 || ADV@0
+
+Index: 778
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_x_deg: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0 || ,@-1
+
+Index: 779
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: ADV/PT => ADV@1 || ADV@0
+
+Index: 780
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: ADV => ADV@1 || ADV@0 || ,@-1
+
+Index: 781
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q: 1 Y>
+#1: <generic_entity: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 1
+CFG: DET => <$X>@0
+
+Index: 782
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <DET: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADV@0 || DET@1
+
+Index: 783
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_u_unknown: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG: 0 -- 1 Y>
+EPs: 1
+CFG: AP => <$X>@0
+
+Index: 784
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <pron: 0 Y>
+#1: <pronoun_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: NP => i*i@-1
+
+Index: 785
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <AP: 0 N>
+EPs: 1 -- 0
+CFG: XP/PT => ADV@0 || AP@1
+
+Index: 786
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <AP: 0 N>
+EPs: 1 -- 0
+CFG: XP => ADV@0 || AP@1 || ?@-1
+
+Index: 787
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <compound: 2 Y>
+#2: <udef_q: 0 Y>
+#3: <ARG2: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 788
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: AP/PT => N@0 || V@1
+
+Index: 789
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => N@0 || V@1 || !@-1
+
+Index: 790
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_at: 0 Y>
+EPs: 0
+CFG: ADJ => <$X>@0
+
+Index: 791
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => AP@0 || N@1 || ?@-1
+
+Index: 792
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_sea: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 793
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: N => AP@0 || N@1
+
+Index: 794
+No semantic part
+CFG: V => are@-1
+
+Index: 795
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_u_unknown: 1 Y>
+#1: <unknown: 0 Y>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 796
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <N: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => N@1 || ADV@0 || ?@-1
+
+Index: 797
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <card: 2 Y>
+#1: <number_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 1
+CFG: ADJ => <card>@0
+
+Index: 798
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_with: 0 Y>
+EPs: 
+CFG: S => <$X>@0
+
+Index: 799
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <NP: 1 N>
+#1: <V: 0 N>
+EPs: 0 -- 1
+CFG: V => V@1 || NP@0
+
+Index: 800
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 1 N>
+#1: <ARG1: 1 -- 0 Y>
+#2: <ARG1: 2 -- 1 Y>
+#3: <V: 2 -- 0 N>
+EPs: 0
+CFG: S/PT => V@3 || V@0
+
+Index: 801
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 1 N>
+#1: <ARG1: 1 -- 0 Y>
+#2: <ARG1: 2 -- 1 Y>
+#3: <V: 2 -- 0 N>
+EPs: 
+CFG: S => V@3 || V@0 || ?@-1
+
+Index: 802
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 0
+CFG: VP => ah@-1 || <$X>@0
+
+Index: 803
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 0 N>
+#1: <N: 1 N>
+EPs: 1 -- 0
+CFG: N/AP => N@1 || ADV@0
+
+Index: 804
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <AP: 2 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG1: 2 -- 0 Y>
+#3: <N/AP: 0 -- 1 N>
+EPs: 
+CFG: XP => N/AP@3 || AP@0
+
+Index: 805
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <PP: 0 N>
+#1: <PP: 1 N>
+EPs: 0 -- 1
+CFG: PP/PP => PP@1 || PP@0
+
+Index: 806
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <PP: 1 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <PP/PP: 2 -- 0 N>
+EPs: 0
+CFG: PP => PP/PP@2 || PP@0
+
+Index: 807
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0 || ,@-1
+
+Index: 808
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => N@0 || V@1
+
+Index: 809
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_may/nn_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 810
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <V: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => ADV@0 || V@1
+
+Index: 811
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <V: 0 N>
+#1: <V: 1 N>
+EPs: 0 -- 1
+CFG: VP/N => V@0 || V@1
+
+Index: 812
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 2 N>
+#1: <ARG2: 0 -- 2 Y>
+#2: <ARG2: 1 -- 2 Y>
+#3: <VP/N: 0 -- 1 N>
+EPs: 0 -- 1
+CFG: VP => VP/N@3 || N@0
+
+Index: 813
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <pron: 0 Y>
+#1: <pronoun_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: S/PP => <pron>@-1
+
+Index: 814
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_p: 0 Y>
+#1: <unknown: 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 815
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 0
+CFG: VP/NP => <$X>@0 || like@-1
+
+Index: 816
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <VP/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => VP/NP@1 || NP@0
+
+Index: 817
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 2
+CFG: NP => you@-1
+
+Index: 818
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <NP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADV@0 || NP@1
+
+Index: 819
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: NP => them@-1
+
+Index: 820
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => them@-1 || !@-1
+
+Index: 821
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <XP/XP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: XP/XP => XP/XP@1 || ADV@0
+
+Index: 822
+No semantic part
+CFG: ADV => kind*of@-1
+
+Index: 823
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => kind*of@-1 || <$X>@0
+
+Index: 824
+No semantic part
+CFG: V => do@-1
+
+Index: 825
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <pron: 0 Y>
+#1: <pronoun_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: V => do@-1 || <pron>@-1
+
+Index: 826
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: S/NP => V@0 || V@1
+
+Index: 827
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 2 Y>
+#1: <pron: 1 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: S => <$X>@0 || ,@-1
+
+Index: 828
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 2 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <BV: 1 -- 2 Y>
+#3: <NP/N: 1 -- 0 N>
+EPs: 
+CFG: XP => NP/N@3 || N@0
+
+Index: 829
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_2: 0 Y>
+EPs: 0
+CFG: AP => <$X>@0 || ,@-1
+
+Index: 830
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_2: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: AP => <$X>@0
+
+Index: 831
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <AP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => AP@0 || AP@1 || ?@-1
+
+Index: 832
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p_state: 0 Y>
+EPs: 0
+CFG: P => <$X>@0
+
+Index: 833
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: PP/NP => PP@1 || P@0
+
+Index: 834
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <PP/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: PP/PT => PP/NP@1 || N@0
+
+Index: 835
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <PP/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: XP => PP/NP@1 || N@0 || ?@-1
+
+Index: 836
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of-n: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 837
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of-n: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 838
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_to: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: ADJ => <$X>@0 || ,@-1
+
+Index: 839
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 2 Y>
+#1: <pronoun_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: NP => it@-1
+
+Index: 840
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG1: 2 -- 0 Y>
+#2: <BV: 1 -- 0 Y>
+#3: <S/N: 2 -- 1 N>
+EPs: 0
+CFG: S/PT => S/N@3 || N@0
+
+Index: 841
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <N: 0 N>
+#1: <ARG1: 2 -- 0 Y>
+#2: <BV: 1 -- 0 Y>
+#3: <S/N: 2 -- 1 N>
+EPs: 
+CFG: S => S/N@3 || N@0 || ?@-1
+
+Index: 842
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+EPs: 1
+CFG: S/PT => ADV@1 || ADV@0
+
+Index: 843
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+EPs: 1
+CFG: S => ADV@1 || ADV@0 || ?@-1
+
+Index: 844
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 845
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 2 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <ARG1: 2 -- 1 Y>
+#3: <S/VP: 1 -- 0 N>
+EPs: 2 -- 1
+CFG: S/VP => S/VP@3 || V@0
+
+Index: 846
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 1 N>
+#1: <ARG1: 1 -- 0 Y>
+#2: <ARG2: 2 -- 1 Y>
+#3: <S/VP: 2 -- 0 N>
+EPs: 
+CFG: S => S/VP@3 || V@0
+
+Index: 847
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <P: 0 N>
+#1: <PP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => P@0 || PP@1 || ,@-1
+
+Index: 848
+No semantic part
+CFG: NP => who@-1
+
+Index: 849
+HRG-RHS: NodeCount=3 EdgeCount=2
+#0: <AP: 1 N>
+#1: <VP/N: 2 -- 0 N>
+EPs: 0 -- 1 -- 2
+CFG: VP/N => VP/N@1 || AP@0
+
+Index: 850
+HRG-RHS: NodeCount=4 EdgeCount=5
+#0: <N: 1 N>
+#1: <ARG1: 0 -- 1 Y>
+#2: <ARG1: 3 -- 1 Y>
+#3: <ARG2: 2 -- 1 Y>
+#4: <VP/N: 3 -- 0 -- 2 N>
+EPs: 
+CFG: S => VP/N@4 || N@0
+
+Index: 851
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_u_unknown: 0 Y>
+#1: <unknown: 1 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 852
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <loc_nonsp: 0 Y>
+#1: <place_n: 2 Y>
+#2: <which_q: 1 Y>
+#3: <ARG2: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: NP => <what>@-1
+
+Index: 853
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <loc_nonsp: 0 Y>
+#1: <place_n: 2 Y>
+#2: <which_q: 1 Y>
+#3: <ARG2: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <what>@-1 || ?@-1
+
+Index: 854
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 2 Y>
+#1: <compound: 1 Y>
+#2: <udef_q: 0 Y>
+#3: <ARG2: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 855
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <N: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP => N@1 || AP@0
+
+Index: 856
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <P: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: PP/PT => P@1 || N@0
+
+Index: 857
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <P: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: XP => P@1 || N@0 || ?@-1
+
+Index: 858
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => NP@0 || V@1 || ?@-1
+
+Index: 859
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 860
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 0
+CFG: XP/VP => <$X>@0 || do@-1
+
+Index: 861
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <XP/VP: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => XP/VP@1 || V@0
+
+Index: 862
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <dofw: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <dofw>@0
+
+Index: 863
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_grm: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 864
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <DET: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: NP/PT => ADV@0 || DET@1
+
+Index: 865
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <DET: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADV@0 || DET@1 || ?@-1
+
+Index: 866
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || N@0 || !@-1
+
+Index: 867
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <_X_a_1: 1 Y>
+#1: <def_implicit_q: 2 Y>
+#2: <loc_nonsp: 0 Y>
+#3: <place_n: 3 Y>
+#4: <ARG1: 1 -- 3 Y>
+#5: <ARG2: 0 -- 3 Y>
+#6: <BV: 2 -- 3 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 868
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <_X_a_1: 1 Y>
+#1: <def_implicit_q: 2 Y>
+#2: <loc_nonsp: 0 Y>
+#3: <place_n: 3 Y>
+#4: <ARG1: 1 -- 3 Y>
+#5: <ARG2: 0 -- 3 Y>
+#6: <BV: 2 -- 3 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 869
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_at: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 870
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: V => V@1 || NP@0
+
+Index: 871
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || NP@0 || up@-1
+
+Index: 872
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_of-about: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 873
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_nv: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 874
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <NP: 1 N>
+#1: <V: 0 N>
+EPs: 0 -- 1
+CFG: VP/VP => V@1 || NP@0
+
+Index: 875
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 0 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <ARG2: 1 -- 0 Y>
+#3: <VP/VP: 1 -- 2 N>
+EPs: 0
+CFG: VP/PT => VP/VP@3 || V@0
+
+Index: 876
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 0 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <ARG2: 1 -- 0 Y>
+#3: <VP/VP: 1 -- 2 N>
+EPs: 
+CFG: S => VP/VP@3 || V@0 || ?@-1
+
+Index: 877
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_of-for: 0 Y>
+EPs: 0
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 878
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <person: 0 Y>
+#1: <unknown: 1 Y>
+#2: <which_q: 2 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <what>@-1
+
+Index: 879
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <person: 0 Y>
+#1: <unknown: 1 Y>
+#2: <which_q: 2 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <what>@-1 || ?@-1
+
+Index: 880
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <P: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: XP => P@1 || NP@0
+
+Index: 881
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_from_truck/nn_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 882
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_q: 0 Y>
+#1: <thing: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 2
+CFG: N => <$X>@0
+
+Index: 883
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || !@-1
+
+Index: 884
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_of: 2 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0 || ,@-1
+
+Index: 885
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <named: 0 Y>
+#1: <proper_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: S/VP => <named>@0
+
+Index: 886
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_up: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 887
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_up: 1 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 0 Y>
+#3: <ARG1: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 1
+CFG: V => <$X>@0 || up@-1
+
+Index: 888
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 2 -- 1
+CFG: N => <$X>@0
+
+Index: 889
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <V: 0 N>
+EPs: 0 -- 1
+CFG: VP/ADV => V@1 || ADV@0
+
+Index: 890
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <ADV: 2 N>
+#1: <ARG1: 1 -- 2 Y>
+#2: <ARG1: 2 -- 0 Y>
+#3: <VP/ADV: 0 -- 1 N>
+EPs: 
+CFG: S => VP/ADV@3 || ADV@0
+
+Index: 891
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_for: 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 892
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: ADV => ADV@1 || ADV@0
+
+Index: 893
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_of: 0 Y>
+EPs: 0
+CFG: ADJ => <$X>@0
+
+Index: 894
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || NP@0
+
+Index: 895
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 0 Y>
+#1: <proper_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1 -- 0
+CFG: N => <named>@0
+
+Index: 896
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP/PT => ADV@0 || ADV@1
+
+Index: 897
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 0
+CFG: XP => ADV@0 || ADV@1 || !@-1
+
+Index: 898
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_x_then: 0 Y>
+#1: <unknown: 1 Y>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0 -- 1
+CFG: P => <$X>@0
+
+Index: 899
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_weensy/nn_u_unknown: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 900
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0
+CFG: V => <$X>@0 || ,@-1
+
+Index: 901
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <N: 2 N>
+#1: <ARG: 1 -- 2 Y>
+#2: <P: 0 -- 1 N>
+EPs: 0
+CFG: XP => P@2 || N@0
+
+Index: 902
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_bye/nn_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 903
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <$X>@0 || ,@-1
+
+Index: 904
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 0 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <ARG2: 1 -- 0 Y>
+#3: <V: 1 -- 2 N>
+EPs: 0
+CFG: VP/PP => V@3 || V@0
+
+Index: 905
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 1 N>
+#1: <VP/PP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => VP/PP@1 || PP@0
+
+Index: 906
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 907
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <PP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/PT => V@1 || PP@0
+
+Index: 908
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_n_1: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0 || ,@-1
+
+Index: 909
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: N => <named>@0
+
+Index: 910
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <named: 1 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 0
+CFG: N => <named>@0 || ,@-1
+
+Index: 911
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <P: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1 -- 0
+CFG: PP/PT/PP => P@1 || N@0
+
+Index: 912
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <P: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1 -- 0
+CFG: PP/PP => P@1 || N@0 || ,@-1
+
+Index: 913
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <PP: 0 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <PP/PP: 1 -- 2 N>
+EPs: 1
+CFG: XP => PP/PP@2 || PP@0
+
+Index: 914
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_boy/jj_u_unknown: 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 915
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_boy/nn_u_unknown: 0 Y>
+#1: <udef_q: 1 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 916
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_2: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1
+CFG: V => <$X>@0
+
+Index: 917
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_v_at: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1 -- 0
+CFG: V => <$X>@0
+
+Index: 918
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <V: 2 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <V: 0 -- 1 N>
+EPs: 1
+CFG: VP/PP => V@0 || V@2
+
+Index: 919
+No semantic part
+CFG: P => at@-1
+
+Index: 920
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <V: 2 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <V: 0 -- 1 N>
+EPs: 1
+CFG: VP/NP => V@0 || V@2 || at@-1
+
+Index: 921
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <VP/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: VP/PT => VP/NP@1 || NP@0
+
+Index: 922
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <VP/NP: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 
+CFG: S => VP/NP@1 || NP@0 || !@-1
+
+Index: 923
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 0 Y>
+#1: <pron: 2 Y>
+#2: <pronoun_q: 1 Y>
+#3: <ARG1: 0 -- 2 Y>
+#4: <BV: 1 -- 2 Y>
+EPs: 0 -- 2
+CFG: V => <$X>@0 || ,@-1
+
+Index: 924
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_with: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: ADJ => <$X>@0
+
+Index: 925
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || ?@-1
+
+Index: 926
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <DET: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: XP => ADV@0 || DET@1 || ,@-1
+
+Index: 927
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <P: 1 N>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1 -- 0
+CFG: PP/PP => P@1 || N@0
+
+Index: 928
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_you/jj_u_unknown: 0 Y>
+EPs: 0
+CFG: AP => <$X>@0
+
+Index: 929
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_you/nn_u_unknown: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <$X>@0
+
+Index: 930
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => V@1 || ADV@0
+
+Index: 931
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_1: 0 Y>
+EPs: 0
+CFG: AP => <$X>@0 || ,@-1
+
+Index: 932
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <AP: 1 N>
+#1: <ARG1: 0 -- 1 Y>
+#2: <ARG1: 2 -- 1 Y>
+#3: <N/N: 0 -- 2 N>
+EPs: 
+CFG: XP => N/N@3 || AP@0
+
+Index: 933
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 2 Y>
+#1: <def_implicit_q: 1 Y>
+#2: <place_n: 0 Y>
+#3: <ARG1: 2 -- 0 Y>
+#4: <BV: 1 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 934
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_1: 0 Y>
+EPs: 0
+CFG: VP => <$X>@0 || ,@-1
+
+Index: 935
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <V: 0 N>
+#1: <VP: 1 N>
+EPs: 1 -- 0
+CFG: VP/PT => VP@1 || V@0
+
+Index: 936
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <V: 0 N>
+#1: <VP: 1 N>
+EPs: 1 -- 0
+CFG: S => VP@1 || V@0 || !@-1
+
+Index: 937
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_at: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: ADJ => <$X>@0
+
+Index: 938
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_n_1: 0 Y>
+#1: <idiom_q_i: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: N => <$X>@0
+
+Index: 939
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <season: 1 Y>
+#1: <udef_q: 0 Y>
+#2: <BV: 0 -- 1 Y>
+EPs: 1
+CFG: N => <season>@0
+
+Index: 940
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_p: 0 Y>
+#1: <udef_q: 1 Y>
+EPs: 0 -- 1
+CFG: P => <$X>@0
+
+Index: 941
+HRG-RHS: NodeCount=3 EdgeCount=2
+#0: <AP: 1 N>
+#1: <P: 2 -- 0 N>
+EPs: 0 -- 1 -- 2
+CFG: PP/N => P@1 || AP@0
+
+Index: 942
+HRG-RHS: NodeCount=4 EdgeCount=5
+#0: <N: 1 N>
+#1: <ARG1: 2 -- 1 Y>
+#2: <ARG2: 0 -- 1 Y>
+#3: <BV: 3 -- 1 Y>
+#4: <PP/N: 3 -- 2 -- 0 N>
+EPs: 0
+CFG: XP => PP/N@4 || N@0
+
+Index: 943
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_a_1: 0 Y>
+#1: <udef_q: 2 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 2
+CFG: AP => <$X>@0
+
+Index: 944
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <DET: 1 N>
+#1: <V: 0 N>
+EPs: 0 -- 1
+CFG: S/N => V@1 || DET@0
+
+Index: 945
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_off: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 946
+No semantic part
+CFG: P => off@-1
+
+Index: 947
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_off: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 
+CFG: S => <$X>@0 || off@-1
+
+Index: 948
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <pron: 1 Y>
+#1: <pronoun_q: 2 Y>
+#2: <unknown: 0 Y>
+#3: <ARG: 0 -- 1 Y>
+#4: <BV: 2 -- 1 Y>
+EPs: 1
+CFG: NP => me@-1
+
+Index: 949
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <PP: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: XP => NP@0 || PP@1
+
+Index: 950
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1 -- 0
+CFG: V => <$X>@0
+
+Index: 951
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_v_1: 1 Y>
+#1: <pron: 0 Y>
+#2: <pronoun_q: 2 Y>
+#3: <ARG1: 1 -- 0 Y>
+#4: <BV: 2 -- 0 Y>
+EPs: 1 -- 0
+CFG: VP => <$X>@0 || ,@-1
+
+Index: 952
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_cause: 0 Y>
+EPs: 
+CFG: S => <$X>@0
+
+Index: 953
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+EPs: 1
+CFG: S => ADV@1 || ADV@0 || !@-1
+
+Index: 954
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <_X_v_buy: 0 Y>
+#1: <unknown: 1 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 955
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0 -- 1
+CFG: ADV/PT => ADV@0 || ADV@1
+
+Index: 956
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ADV: 0 N>
+#1: <ADV: 1 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0 -- 1
+CFG: ADV => ADV@0 || ADV@1 || ,@-1
+
+Index: 957
+HRG-RHS: NodeCount=3 EdgeCount=3
+#0: <ADV: 1 N>
+#1: <ADV: 0 -- 2 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 2
+CFG: XP => ADV@1 || ADV@0
+
+Index: 958
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 1
+CFG: S/ADV => N@0 || V@1
+
+Index: 959
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0 -- 1
+CFG: S/VP/PP => NP@0 || V@1
+
+Index: 960
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 2 N>
+#1: <ARG1: 2 -- 1 Y>
+#2: <ARG2: 0 -- 2 Y>
+#3: <S/VP/PP: 0 -- 1 N>
+EPs: 0
+CFG: S/PP => S/VP/PP@3 || V@0
+
+Index: 961
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/PT => NP@0 || V@1 || up@-1
+
+Index: 962
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <NP: 1 N>
+#1: <V: 0 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => NP@0 || V@1 || up@-1 || ?@-1
+
+Index: 963
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <P: 0 N>
+#2: <ARG2: 0 -- 1 Y>
+EPs: 0
+CFG: PP => P@1 || N@0
+
+Index: 964
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <basic_numbered_hour: 1 Y>
+#1: <def_implicit_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 0
+CFG: NP => <basic_numbered_hour>@0
+
+Index: 965
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <basic_numbered_hour: 1 Y>
+#1: <def_implicit_q: 0 Y>
+#2: <unknown: 2 Y>
+#3: <ARG: 2 -- 1 Y>
+#4: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => <basic_numbered_hour>@0 || ?@-1
+
+Index: 966
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <N: 1 N>
+#1: <XP/N: 0 N>
+#2: <BV: 0 -- 1 Y>
+EPs: 
+CFG: XP => XP/N@1 || N@0 || !@-1
+
+Index: 967
+HRG-RHS: NodeCount=4 EdgeCount=5
+#0: <N: 1 N>
+#1: <ARG1: 3 -- 1 Y>
+#2: <ARG2: 2 -- 1 Y>
+#3: <BV: 0 -- 1 Y>
+#4: <PP/N: 2 -- 3 -- 0 N>
+EPs: 2
+CFG: PP/PT => PP/N@4 || N@0
+
+Index: 968
+HRG-RHS: NodeCount=4 EdgeCount=5
+#0: <N: 1 N>
+#1: <ARG1: 3 -- 1 Y>
+#2: <ARG2: 2 -- 1 Y>
+#3: <BV: 0 -- 1 Y>
+#4: <PP/N: 2 -- 3 -- 0 N>
+EPs: 2
+CFG: XP => PP/N@4 || N@0 || ?@-1
+
+Index: 969
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_a_thus: 0 Y>
+EPs: 0
+CFG: ADV => <$X>@0
+
+Index: 970
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_at-for-of: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: ADJ => <$X>@0
+
+Index: 971
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_go-of: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 972
+No semantic part
+CFG: P => go@-1
+
+Index: 973
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_go-of: 0 Y>
+EPs: 0
+CFG: VP/PT => <$X>@0 || go@-1
+
+Index: 974
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_go-of: 0 Y>
+EPs: 0
+CFG: VP => <$X>@0 || go@-1 || ,@-1
+
+Index: 975
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <V: 0 N>
+#1: <VP: 1 N>
+EPs: 1 -- 0
+CFG: VP/P => VP@1 || V@0
+
+Index: 976
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <V: 0 N>
+#1: <VP: 1 N>
+EPs: 1 -- 0
+CFG: S => VP@1 || V@0 || go@-1
+
+Index: 977
+HRG-RHS: NodeCount=3 EdgeCount=5
+#0: <_X_offbeads/nns_u_unknown: 2 Y>
+#1: <udef_q: 0 Y>
+#2: <unknown: 1 Y>
+#3: <ARG: 1 -- 2 Y>
+#4: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => <$X>@0
+
+Index: 978
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <_X_a_of: 0 Y>
+#1: <subord: 1 Y>
+#2: <ARG2: 1 -- 0 Y>
+EPs: 1
+CFG: ADJ => <$X>@0
+
+Index: 979
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 0
+CFG: S/PT => V@1 || V@0
+
+Index: 980
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <V: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 
+CFG: S => V@1 || V@0 || ?@-1
+
+Index: 981
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 0 N>
+#1: <V: 1 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => AP@0 || V@1
+
+Index: 982
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_x_subord: 0 Y>
+EPs: 0
+CFG: P => <$X>@0
+
+Index: 983
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <N: 1 N>
+#1: <P: 0 N>
+EPs: 0 -- 1
+CFG: P => P@1 || N@0
+
+Index: 984
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 2 N>
+#1: <ARG2: 0 -- 2 Y>
+#2: <ARG2: 2 -- 1 Y>
+#3: <P: 0 -- 1 N>
+EPs: 0
+CFG: XP => P@3 || V@0
+
+Index: 985
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_go-of: 0 Y>
+EPs: 
+CFG: S => <$X>@0 || go@-1
+
+Index: 986
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_yield: 0 Y>
+EPs: 0
+CFG: V => <$X>@0
+
+Index: 987
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_v_yield: 0 Y>
+EPs: 
+CFG: S => <$X>@0 || ?@-1
+
+Index: 988
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <ellipsis_ref: 1 Y>
+#1: <neg: 0 Y>
+#2: <ARG1: 0 -- 1 Y>
+EPs: 1
+CFG: V => don’t@-1
+
+Index: 989
+HRG-RHS: NodeCount=2 EdgeCount=2
+#0: <ADV: 1 N>
+#1: <NP: 0 N>
+EPs: 0 -- 1
+CFG: S/VP => NP@1 || ADV@0
+
+Index: 990
+HRG-RHS: NodeCount=3 EdgeCount=4
+#0: <V: 0 N>
+#1: <ARG1: 0 -- 2 Y>
+#2: <ARG1: 1 -- 0 Y>
+#3: <S/VP: 2 -- 1 N>
+EPs: 0
+CFG: S/PP => S/VP@3 || V@0
+
+Index: 991
+No semantic part
+CFG: NP-X => there@-1
+
+Index: 992
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p_dir: 0 Y>
+EPs: 0
+CFG: XP/PT => <$X>@0 || there@-1
+
+Index: 993
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_p_dir: 0 Y>
+EPs: 
+CFG: XP => <$X>@0 || there@-1 || ?@-1
+
+Index: 994
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <property: 2 Y>
+#1: <prpstn_to_prop: 3 Y>
+#2: <unspec_a: 1 Y>
+#3: <which_q: 0 Y>
+#4: <ARG1: 3 -- 1 Y>
+#5: <ARG2: 3 -- 2 Y>
+#6: <BV: 0 -- 2 Y>
+EPs: 0
+CFG: AP => how@-1
+
+Index: 995
+HRG-RHS: NodeCount=4 EdgeCount=7
+#0: <property: 2 Y>
+#1: <prpstn_to_prop: 3 Y>
+#2: <unspec_a: 1 Y>
+#3: <which_q: 0 Y>
+#4: <ARG1: 3 -- 1 Y>
+#5: <ARG2: 3 -- 2 Y>
+#6: <BV: 0 -- 2 Y>
+EPs: 
+CFG: XP => how@-1 || ?@-1
+
+Index: 996
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 0
+CFG: AP/PT => ah@-1 || <$X>@0
+
+Index: 997
+HRG-RHS: NodeCount=1 EdgeCount=1
+#0: <_X_u_unknown: 0 Y>
+EPs: 0
+CFG: XP => ah@-1 || <$X>@0 || !@-1
+
+Index: 998
+HRG-RHS: NodeCount=2 EdgeCount=3
+#0: <AP: 1 N>
+#1: <S/AP: 0 N>
+#2: <ARG1: 1 -- 0 Y>
+EPs: 
+CFG: S => S/AP@1 || AP@0
+

@@ -1,0 +1,14548 @@
+1293
+1
+3 5
+named 1 1 Y
+proper_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+6
+0 249 3593
+XP 1 <named> 0
+
+12 18 3593
+XP 2 <named> 0 ! -1
+
+179 27 3593
+XP 2 <named> 0 ? -1
+
+528 3 3593
+XP 2 ah -1 <named> 0
+
+804 1 3593
+XP 4 ah -1 ah -1 <named> 0 ! -1
+
+1328 1 3593
+XP 3 sorry -1 , -1 <named> 0
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+2 1 0
+1
+1 3 32
+V 1 <$X> 0
+
+1
+1 1
+_X_v_1 1 0 Y
+1 0
+2
+2 746 1801
+V 1 <$X> 0
+
+537 10 1801
+V 2 <$X> 0 , -1
+
+1
+3 4
+V 1 1 N
+ARG1 2 1 2 Y
+ARG2 2 0 1 Y
+V 2 0 2 N
+0 
+2
+3 6 1872
+S 2 V 3 V 0
+
+1508 1 1872
+S 3 V 3 V 0 in -1
+
+1
+3 5
+_X_n_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+3
+4 132 3593
+XP 1 <$X> 0
+
+102 15 3593
+XP 2 <$X> 0 ! -1
+
+288 18 3593
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+pron 1 0 Y
+pronoun_q 1 1 Y
+BV 2 1 0 Y
+1 0
+4
+5 649 744
+NP 1 <pron> -1
+
+817 9 744
+NP 2 <pron> -1 , -1
+
+1343 1 744
+NP 1 me*me -1
+
+1462 1 744
+NP 1 you*you -1
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+4
+6 146 359
+S/NP 2 NP 0 V 1
+
+1006 2 359
+S/NP 3 NP 0 V 1 , -1
+
+1096 2 359
+S/NP 3 NP 0 V 1 on -1
+
+1317 1 359
+S/NP 3 NP 0 V 1 out -1
+
+1
+2 3
+NP 1 1 N
+S/NP 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+7 9 110
+S/PT 2 S/NP 1 NP 0
+
+0
+3
+8 360 1161
+PT 1 ! -1
+
+24 590 1161
+PT 1 ? -1
+
+133 211 1161
+PT 1 , -1
+
+1
+2 3
+NP 1 1 N
+S/NP 1 0 N
+ARG2 2 0 1 Y
+0 
+3
+9 3 1872
+S 3 S/NP 1 NP 0 ! -1
+
+94 62 1872
+S 2 S/NP 1 NP 0
+
+436 6 1872
+S 3 S/NP 1 NP 0 ? -1
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+3
+10 62 3593
+XP 1 <$X> 0
+
+42 6 3593
+XP 2 <$X> 0 ! -1
+
+461 4 3593
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+named 1 1 Y
+proper_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+11 60 2715
+N 1 <named> 0
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+3
+13 99 3593
+XP 1 <$X> 0
+
+46 22 3593
+XP 2 <$X> 0 ! -1
+
+244 25 3593
+XP 2 <$X> 0 ? -1
+
+0
+15
+14 17 39
+ADV 1 ah -1
+
+231 3 39
+ADV 1 yes -1
+
+598 1 39
+ADV 1 really -1
+
+745 1 39
+ADV 1 eh -1
+
+857 3 39
+ADV 1 um -1
+
+957 1 39
+ADV 1 you*see -1
+
+988 1 39
+ADV 1 uh -1
+
+1029 5 39
+ADV 1 like -1
+
+1040 1 39
+ADV 1 say -1
+
+1132 1 39
+ADV 1 amen -1
+
+1239 1 39
+ADV 1 oh*yes -1
+
+1242 1 39
+ADV 1 you*know -1
+
+1326 1 39
+ADV 1 sorry -1
+
+1327 1 39
+ADV 2 ADV -1 PT -1
+
+1613 1 39
+ADV 1 i*guess -1
+
+1
+3 5
+card 1 0 Y
+loc_nonsp 1 2 Y
+number_q 1 1 Y
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+15 6 180
+ADJ 1 <card> 0
+
+1
+3 5
+card 1 0 Y
+loc_nonsp 1 2 Y
+number_q 1 1 Y
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+0 
+2
+16 2 3593
+XP 2 ah -1 <card> 0
+
+1240 1 3593
+XP 2 oh*yes -1 <card> 0
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+17 51 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+3
+18 20 3593
+XP 2 <$X> 0 ! -1
+
+29 27 3593
+XP 2 <$X> 0 ? -1
+
+88 146 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_q 1 0 Y
+1 0
+2
+19 448 630
+DET 1 <$X> 0
+
+889 10 630
+DET 2 <$X> 0 , -1
+
+1
+2 3
+named 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+20 58 2715
+N 1 <named> 0
+
+1
+2 3
+DET 1 1 N
+N 1 0 N
+BV 2 1 0 Y
+0 
+4
+21 237 3593
+XP 2 DET 0 N 1
+
+368 17 3593
+XP 3 DET 0 N 1 ? -1
+
+375 7 3593
+XP 3 DET 0 N 1 ! -1
+
+535 1 3593
+XP 3 DET 0 N 1 , -1
+
+1
+2 3
+NP 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+0 
+8
+22 70 1872
+S 2 NP 0 V 1
+
+435 4 1872
+S 2 V 1 NP 0
+
+600 1 1872
+S 4 V 1 NP 0 really -1 ? -1
+
+1058 1 1872
+S 3 NP 0 V 1 go -1
+
+1151 2 1872
+S 3 NP 0 V 1 ? -1
+
+1250 2 1872
+S 3 NP 0 V 1 off -1
+
+1614 1 1872
+S 3 NP 0 V 1 i*guess -1
+
+1619 2 1872
+S 3 NP 0 V 1 ! -1
+
+1
+3 5
+_X_a_1 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+23 5 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_a_1 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+2
+25 2 3593
+XP 2 <$X> 0 ? -1
+
+933 1 3593
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+3
+26 135 3593
+XP 1 <$X> 0
+
+239 12 3593
+XP 2 <$X> 0 ? -1
+
+334 11 3593
+XP 2 <$X> 0 ! -1
+
+1
+2 3
+_X_q_dem 1 0 Y
+generic_entity 1 1 Y
+BV 2 0 1 Y
+1 1
+1
+27 67 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+S/NP 1 0 N
+ARG2 2 0 1 Y
+0 
+3
+28 112 1872
+S 2 S/NP 1 N 0
+
+550 15 1872
+S 3 S/NP 1 N 0 ? -1
+
+910 2 1872
+S 3 S/NP 1 N 0 ! -1
+
+1
+2 2
+_X_p_per 1 1 Y
+udef_q 1 0 Y
+2 0 1
+1
+30 319 331
+P 1 <$X> 0
+
+1
+1 1
+_X_n_1 1 0 Y
+1 0
+1
+31 381 2715
+N 1 <$X> 0
+
+1
+3 4
+N 1 0 N
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+P 2 2 1 N
+1 1
+4
+32 245 482
+XP 2 P 3 N 0
+
+151 32 482
+XP 3 P 3 N 0 ? -1
+
+154 13 482
+XP 3 P 3 N 0 ! -1
+
+567 1 482
+XP 3 P 3 N 0 , -1
+
+1
+1 1
+_X_v_1 1 0 Y
+0 
+5
+33 228 1872
+S 1 <$X> 0
+
+95 31 1872
+S 2 <$X> 0 ? -1
+
+658 9 1872
+S 2 <$X> 0 ! -1
+
+1244 1 1872
+S 3 <$X> 0 you*know -1 ? -1
+
+1511 2 1872
+S 2 do -1 <$X> 0
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+4
+34 149 3593
+XP 1 <$X> 0
+
+119 28 3593
+XP 2 <$X> 0 ! -1
+
+338 28 3593
+XP 2 <$X> 0 ? -1
+
+777 1 3593
+XP 2 <$X> 0 , -1
+
+1
+3 5
+_X_v_1 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 2
+2
+35 67 1801
+V 1 <$X> 0
+
+1164 1 1801
+V 2 <$X> 0 , -1
+
+1
+2 3
+_X_n_1 1 1 Y
+udef_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+36 99 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+0 
+8
+37 169 1872
+S 2 V 1 N 0
+
+525 16 1872
+S 3 V 1 N 0 ? -1
+
+533 6 1872
+S 2 N 0 V 1
+
+570 4 1872
+S 3 V 1 N 0 ! -1
+
+909 1 1872
+S 4 V 1 N 0 , -1 on -1
+
+929 1 1872
+S 3 V 1 N 0 off -1
+
+1004 1 1872
+S 3 V 1 N 0 in -1
+
+1603 1 1872
+S 3 V 1 N 0 on -1
+
+1
+1 1
+_X_u_unknown 1 0 Y
+1 0
+1
+38 169 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+39 32 2715
+N 1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+N 1 1 N
+ARG1 2 0 1 Y
+0 
+6
+40 209 3593
+XP 2 AP 0 N 1
+
+801 3 3593
+XP 3 AP 0 N 1 ! -1
+
+882 16 3593
+XP 3 AP 0 N 1 ? -1
+
+1024 6 3593
+XP 2 N 1 AP 0
+
+1053 1 3593
+XP 3 N 1 AP 0 ! -1
+
+1675 1 3593
+XP 3 N 1 AP 0 ? -1
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+41 11 2715
+N 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+0 
+1
+43 41 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+3
+44 122 3593
+XP 1 <$X> 0
+
+202 19 3593
+XP 2 <$X> 0 ? -1
+
+390 8 3593
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+45 47 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+3
+47 48 3593
+XP 1 <$X> 0
+
+186 7 3593
+XP 2 <$X> 0 ! -1
+
+225 4 3593
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+pron 1 1 Y
+pronoun_q 1 0 Y
+BV 2 0 1 Y
+1 0
+1
+48 3 1801
+V 1 let*’s -1
+
+1
+3 5
+_X_v_1 1 2 Y
+pron 1 1 Y
+pronoun_q 1 0 Y
+ARG1 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+49 6 1801
+V 1 <$X> 0
+
+1
+2 2
+V 1 0 N
+V 1 1 N
+0 
+1
+50 3 1872
+S 2 V 1 V 0
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+3
+51 74 3593
+XP 1 <$X> 0
+
+90 6 3593
+XP 2 <$X> 0 ! -1
+
+120 4 3593
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+3
+52 52 3593
+XP 1 <$X> 0
+
+67 7 3593
+XP 2 <$X> 0 ? -1
+
+260 10 3593
+XP 2 <$X> 0 ! -1
+
+1
+2 3
+_X_n_of 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+53 19 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+54 4 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+55 4 1872
+S 2 <$X> 0 ! -1
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+2
+56 251 537
+AP 1 <$X> 0
+
+670 2 537
+AP 2 <$X> 0 , -1
+
+1
+3 5
+card 1 0 Y
+loc_nonsp 1 2 Y
+number_q 1 1 Y
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+57 10 180
+ADJ 1 <card> 0
+
+1
+2 3
+ADJ 1 1 N
+AP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+58 4 3593
+XP 2 AP 1 ADJ 0
+
+1
+1 1
+neg 1 0 Y
+1 0
+1
+59 26 1801
+V 1 <neg> 0
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+3
+60 5 1872
+S 2 V 0 V 1
+
+728 5 1872
+S 2 V 1 V 0
+
+905 1 1872
+S 3 V 0 V 1 ! -1
+
+1
+1 1
+_X_p_dir 1 0 Y
+1 0
+2
+61 97 419
+PP 1 <$X> 0
+
+769 2 419
+PP 2 <$X> 0 , -1
+
+1
+2 3
+PP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+4
+62 94 1872
+S 2 V 1 PP 0
+
+458 4 1872
+S 3 V 1 PP 0 ? -1
+
+510 4 1872
+S 2 PP 0 V 1
+
+755 3 1872
+S 3 V 1 PP 0 ! -1
+
+1
+1 1
+card 1 0 Y
+1 0
+1
+63 12 180
+ADJ 1 <card> 0
+
+1
+3 5
+_X_n_of 1 2 Y
+loc_nonsp 1 1 Y
+udef_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 2
+1
+64 1 2715
+N 1 <$X> 0
+
+1
+2 3
+ADJ 1 1 N
+N 1 0 N
+ARG1 2 1 0 Y
+0 
+5
+65 28 3593
+XP 2 ADJ 0 N 1
+
+419 2 3593
+XP 3 ADJ 0 N 1 ? -1
+
+1098 6 3593
+XP 2 N 1 ADJ 0
+
+1134 2 3593
+XP 3 N 1 ADJ 0 ? -1
+
+1451 1 3593
+XP 3 ADJ 0 N 1 ! -1
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+66 17 2715
+N 1 <$X> 0
+
+1
+1 1
+_X_p 1 0 Y
+1 0
+2
+68 136 419
+PP 1 <$X> 0
+
+411 2 419
+PP 2 <$X> 0 , -1
+
+1
+2 3
+PP 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+69 1 85
+VP/PT 2 V 1 PP 0
+
+1
+2 3
+PP 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+70 1 1872
+S 3 V 1 PP 0 ? -1
+
+1
+1 1
+ellipsis_ref 1 0 Y
+1 0
+2
+71 31 1801
+V 1 ??? -1
+
+434 8 1801
+V 1 do -1
+
+1
+2 3
+_X_q_dem 1 1 Y
+generic_entity 1 0 Y
+BV 2 1 0 Y
+1 0
+1
+72 88 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+0 
+5
+73 10 1872
+S 2 V 1 N 0
+
+241 44 1872
+S 2 N 0 V 1
+
+844 1 1872
+S 3 N 0 V 1 back -1
+
+881 3 1872
+S 3 N 0 V 1 ? -1
+
+1322 1 1872
+S 3 N 0 V 1 ! -1
+
+1
+2 3
+ellipsis_ref 1 0 Y
+neg 1 1 Y
+ARG1 2 1 0 Y
+1 1
+1
+74 3 1801
+V 1 don’t -1
+
+1
+1 1
+_X_p 1 0 Y
+1 0
+2
+75 41 99
+P 1 <$X> 0
+
+712 6 99
+P 2 <$X> 0 , -1
+
+1
+2 3
+P 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+76 17 40
+VP/NP 2 V 1 P 0
+
+1
+2 3
+N 1 1 N
+VP/NP 1 0 N
+ARG2 2 0 1 Y
+0 
+3
+77 20 1872
+S 2 VP/NP 1 N 0
+
+1174 5 1872
+S 3 VP/NP 1 N 0 ? -1
+
+1529 1 1872
+S 3 VP/NP 1 N 0 ! -1
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+4
+78 30 482
+XP 2 <$X> 0 ! -1
+
+211 19 482
+XP 2 <$X> 0 ? -1
+
+757 1 482
+XP 3 ah -1 <$X> 0 ! -1
+
+935 1 482
+XP 3 <$X> 0 ah -1 ! -1
+
+1
+3 5
+loc_nonsp 1 2 Y
+place_n 1 0 Y
+which_q 1 1 Y
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+1 2
+2
+79 29 744
+NP 1 <what> -1
+
+1372 1 744
+NP 2 <what> -1 , -1
+
+0
+14
+80 27 177
+V 1 is -1
+
+111 19 177
+V 1 ’m -1
+
+166 91 177
+V 1 ’s -1
+
+277 7 177
+V 1 are -1
+
+313 4 177
+V 1 be -1
+
+518 5 177
+V 1 will -1
+
+723 1 177
+V 1 have -1
+
+724 4 177
+V 1 did -1
+
+891 6 177
+V 1 ’ll -1
+
+902 4 177
+V 1 ’re -1
+
+1113 1 177
+V 1 am -1
+
+1229 2 177
+V 1 was -1
+
+1268 5 177
+V 1 do -1
+
+1552 1 177
+V 2 V -1 NP-X -1
+
+1
+3 5
+loc_nonsp 1 2 Y
+place_n 1 0 Y
+which_q 1 1 Y
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+1 2
+3
+81 27 359
+S/NP 1 <what> -1
+
+1141 1 359
+S/NP 2 <what> -1 , -1
+
+1374 1 359
+S/NP 3 <what> -1 , -1 , -1
+
+1
+2 3
+NP 1 0 N
+S/NP 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+82 6 110
+S/PT 2 S/NP 1 NP 0
+
+1
+2 3
+NP 1 0 N
+S/NP 1 1 N
+ARG1 2 1 0 Y
+0 
+2
+83 6 1872
+S 3 S/NP 1 NP 0 ? -1
+
+100 4 1872
+S 2 S/NP 1 NP 0
+
+1
+3 5
+_X_gone/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+2
+84 5 3593
+XP 1 <$X> 0
+
+1673 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_X_v_1 1 2 Y
+pron 1 1 Y
+pronoun_q 1 0 Y
+ARG1 2 2 1 Y
+BV 2 0 1 Y
+1 2
+2
+85 72 1801
+V 1 <$X> 0
+
+931 2 1801
+V 2 <$X> 0 , -1
+
+1
+2 3
+_X_n_1 1 0 Y
+udef_q 1 1 Y
+BV 2 1 0 Y
+1 0
+2
+86 92 2715
+N 1 <$X> 0
+
+495 3 2715
+N 2 <$X> 0 , -1
+
+1
+2 3
+NP 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+0 
+8
+87 156 1872
+S 2 V 1 NP 0
+
+138 15 1872
+S 3 V 1 NP 0 ? -1
+
+274 4 1872
+S 3 V 1 NP 0 on -1
+
+483 1 1872
+S 3 V 1 NP 0 up -1
+
+796 3 1872
+S 3 V 1 NP 0 ! -1
+
+1131 1 1872
+S 4 V 1 NP 0 off -1 ? -1
+
+1215 2 1872
+S 3 V 1 NP 0 in -1
+
+1680 1 1872
+S 4 V 1 NP 0 up -1 ? -1
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+89 15 2715
+N 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+1 0
+1
+91 12 537
+AP 1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+AP 1 1 N
+ARG1 2 1 0 Y
+0 
+1
+92 23 3593
+XP 2 AP 0 AP 1
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 1
+2
+93 75 1801
+V 1 <$X> 0
+
+1265 3 1801
+V 2 <$X> 0 , -1
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+2
+96 51 2715
+N 1 <$X> 0
+
+472 1 2715
+N 2 <$X> 0 , -1
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+0 
+2
+97 13 3593
+XP 2 N 0 V 1
+
+620 11 3593
+XP 2 V 1 N 0
+
+1
+1 1
+_X_v_to 1 0 Y
+0 
+1
+98 8 1872
+S 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+2
+99 66 2715
+N 1 <$X> 0
+
+718 1 2715
+N 2 <$X> 0 , -1
+
+1
+3 5
+_X_n_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+101 61 2715
+N 1 <$X> 0
+
+0
+1
+103 62 62
+NP 1 that -1
+
+1
+3 5
+_X_v_id 1 1 Y
+generic_entity 1 0 Y
+udef_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+104 46 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_id 1 1 Y
+generic_entity 1 0 Y
+udef_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 1
+2
+105 42 359
+S/NP 2 <what> -1 <$X> 0
+
+1018 4 359
+S/NP 3 <what> -1 <$X> 0 , -1
+
+1
+2 3
+_X_u_unknown 1 0 Y
+udef_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+106 19 2715
+N 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+107 40 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+3
+108 12 3593
+XP 1 <$X> 0
+
+234 3 3593
+XP 2 <$X> 0 ? -1
+
+351 2 3593
+XP 2 <$X> 0 ! -1
+
+1
+1 1
+_X_x_deg 1 0 Y
+1 0
+2
+109 45 900
+ADV 1 <$X> 0
+
+643 3 900
+ADV 2 <$X> 0 , -1
+
+1
+2 3
+ADV 1 1 N
+AP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+110 14 482
+XP 2 ADV 0 AP 1
+
+1
+2 3
+pron 1 0 Y
+pronoun_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+112 20 35
+S/AP 1 <pron> -1
+
+1
+1 1
+_X_a_for 1 0 Y
+1 0
+1
+113 4 537
+AP 1 <$X> 0
+
+1
+2 3
+AP 1 1 N
+S/AP 1 0 N
+ARG1 2 1 0 Y
+0 
+2
+114 20 1872
+S 2 S/AP 1 AP 0
+
+1459 2 1872
+S 3 S/AP 1 AP 0 ? -1
+
+1
+1 1
+_X_a_2 1 0 Y
+1 0
+2
+115 6 900
+ADV 1 <$X> 0
+
+608 1 900
+ADV 2 <$X> 0 , -1
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+116 10 13
+XP/NP 2 ADV 0 V 1
+
+1
+2 3
+NP 1 0 N
+XP/NP 1 1 N
+ARG2 2 1 0 Y
+0 
+2
+117 6 3593
+XP 2 XP/NP 1 NP 0
+
+1300 1 3593
+XP 3 XP/NP 1 NP 0 ! -1
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+118 74 2715
+N 1 <$X> 0
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+2
+121 516 900
+ADV 1 <$X> 0
+
+345 24 900
+ADV 2 <$X> 0 , -1
+
+1
+3 5
+named 1 2 Y
+proper_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+122 101 2715
+N 1 <named> 0
+
+1
+2 3
+ADV 1 1 N
+N 1 0 N
+ARG1 2 1 0 Y
+0 
+5
+123 171 3593
+XP 2 ADV 0 N 1
+
+156 49 3593
+XP 2 N 1 ADV 0
+
+380 8 3593
+XP 3 ADV 0 N 1 ? -1
+
+731 3 3593
+XP 3 ADV 0 N 1 ! -1
+
+956 3 3593
+XP 3 N 1 ADV 0 ? -1
+
+1
+1 1
+_X_p_state 1 0 Y
+1 0
+1
+124 114 419
+PP 1 <$X> 0
+
+1
+2 2
+DET 1 1 N
+S/NP 1 0 N
+2 0 1
+2
+125 110 120
+S/N 2 S/NP 1 DET 0
+
+1227 3 120
+S/N 3 S/NP 1 DET 0 , -1
+
+1
+3 4
+N 1 0 N
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+S/N 2 2 1 N
+0 
+3
+126 89 1872
+S 2 S/N 3 N 0
+
+364 4 1872
+S 3 S/N 3 N 0 ? -1
+
+1561 1 1872
+S 3 S/N 3 N 0 ! -1
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+4
+127 44 3593
+XP 1 <$X> 0
+
+210 7 3593
+XP 2 <$X> 0 ? -1
+
+289 3 3593
+XP 2 <$X> 0 ! -1
+
+1541 1 3593
+XP 2 <$X> 0 , -1
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+1
+128 12 2715
+N 1 <$X> 0
+
+1
+2 3
+thing 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+129 66 2715
+N 1 <what> -1
+
+1
+1 1
+_X_v_id 1 0 Y
+1 0
+1
+130 105 1801
+V 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+2
+131 23 359
+S/NP 2 N 0 V 1
+
+1225 1 359
+S/NP 3 N 0 V 1 , -1
+
+1
+2 3
+N 1 1 N
+S/NP 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+132 16 110
+S/PT 2 S/NP 1 N 0
+
+1
+2 3
+N 1 1 N
+S/NP 1 0 N
+ARG1 2 0 1 Y
+0 
+3
+134 1 1872
+S 3 S/NP 1 N 0 , -1
+
+167 13 1872
+S 2 S/NP 1 N 0
+
+290 15 1872
+S 3 S/NP 1 N 0 ? -1
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+2
+135 60 359
+S/NP 2 N 0 V 1
+
+548 6 359
+S/NP 3 N 0 V 1 , -1
+
+1
+1 1
+_X_v_buy 1 0 Y
+0 
+1
+136 2 1872
+S 1 <$X> 0
+
+1
+2 3
+NP 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+3
+137 18 85
+VP/PT 2 V 1 NP 0
+
+1130 1 85
+VP/PT 3 V 1 NP 0 off -1
+
+1679 1 85
+VP/PT 3 V 1 NP 0 up -1
+
+1
+3 5
+_X_v_cause 1 2 Y
+pron 1 1 Y
+pronoun_q 1 0 Y
+ARG1 2 2 1 Y
+BV 2 0 1 Y
+1 2
+2
+139 15 1801
+V 1 <$X> 0
+
+1080 3 1801
+V 2 <$X> 0 , -1
+
+1
+3 5
+_X_q 1 0 Y
+generic_entity 1 1 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+2
+140 1 3593
+XP 1 <$X> 0
+
+814 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 2
+1
+141 36 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+3
+142 15 3593
+XP 1 <$X> 0
+
+188 3 3593
+XP 2 <$X> 0 ? -1
+
+884 3 3593
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+1 1
+2
+143 92 1801
+V 1 <$X> 0
+
+293 6 1801
+V 2 <$X> 0 , -1
+
+1
+2 3
+AP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+3
+144 10 1872
+S 2 V 1 AP 0
+
+283 1 1872
+S 3 V 1 AP 0 ! -1
+
+663 1 1872
+S 3 V 1 AP 0 ? -1
+
+1
+3 5
+_X_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 2
+2
+145 18 2715
+N 1 <$X> 0
+
+1162 1 2715
+N 2 <$X> 0 , -1
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+2
+146 28 2715
+N 1 <$X> 0
+
+661 1 2715
+N 2 <$X> 0 , -1
+
+1
+3 5
+_X_n_of-2 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 2
+1
+147 3 2715
+N 1 <$X> 0
+
+1
+1 1
+_X_q_dem 1 0 Y
+1 0
+2
+148 132 630
+DET 1 <$X> 0
+
+571 2 630
+DET 2 <$X> 0 , -1
+
+1
+2 3
+_X_n_1 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+149 94 2715
+N 1 <$X> 0
+
+1
+3 4
+N 1 0 N
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+P 2 2 1 N
+1 1
+1
+150 46 57
+PP/PT 2 P 3 N 0
+
+1
+2 3
+P 1 0 N
+PP 1 1 N
+ARG1 2 1 0 Y
+0 
+1
+152 7 3593
+XP 2 P 0 PP 1
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+3
+153 57 3593
+XP 1 <$X> 0
+
+213 13 3593
+XP 2 <$X> 0 ! -1
+
+243 6 3593
+XP 2 <$X> 0 ? -1
+
+1
+1 1
+_X_u_unknown 1 0 Y
+1 0
+1
+155 37 900
+ADV 1 <$X> 0
+
+1
+1 1
+_X_a_2 1 0 Y
+1 0
+1
+157 10 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+158 30 2715
+N 1 <$X> 0
+
+1
+2 2
+_X_p 1 1 Y
+unknown 1 0 Y
+0 
+1
+159 10 3593
+XP 1 <$X> 0
+
+1
+3 2
+AP 1 1 N
+P 2 2 0 N
+3 0 1 2
+1
+160 13 17
+PP/N 2 P 1 AP 0
+
+1
+4 5
+N 1 1 N
+ARG1 2 3 1 Y
+ARG2 2 2 1 Y
+BV 2 0 1 Y
+PP/N 3 2 3 0 N
+1 2
+1
+161 13 482
+XP 2 PP/N 4 N 0
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 0
+2
+162 50 2715
+N 1 <$X> 0
+
+1172 1 2715
+N 2 <$X> 0 , -1
+
+1
+2 2
+_X_a_1 1 0 Y
+unknown 1 1 Y
+0 
+1
+163 18 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+164 24 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+165 10 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_q 1 1 Y
+generic_entity 1 2 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+1
+168 3 630
+DET 1 <$X> 0
+
+1
+2 3
+DET 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+169 3 3593
+XP 2 DET 0 V 1
+
+1
+4 7
+card 1 3 Y
+generic_entity 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+ARG1 2 3 1 Y
+BV 2 0 1 Y
+1 2
+1
+170 11 180
+ADJ 1 <card> 0
+
+1
+2 3
+ADJ 1 1 N
+ADV 1 0 N
+ARG1 2 0 1 Y
+0 
+2
+171 12 3593
+XP 2 ADJ 0 ADV 1
+
+323 5 3593
+XP 2 ADV 1 ADJ 0
+
+1
+1 1
+_X_u_unknown 1 0 Y
+1 0
+1
+172 2 482
+XP 2 ah -1 <$X> 0
+
+1
+3 5
+_X_v_cause 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+173 6 1801
+V 1 <$X> 0
+
+1
+1 1
+_X_v_out 1 0 Y
+1 0
+1
+174 5 1801
+V 1 <$X> 0
+
+0
+10
+175 7 58
+P 1 out -1
+
+273 18 58
+P 1 on -1
+
+328 3 58
+P 1 down -1
+
+387 7 58
+P 1 off -1
+
+482 9 58
+P 1 up -1
+
+1003 10 58
+P 1 in -1
+
+1057 1 58
+P 1 go -1
+
+1124 1 58
+P 1 for -1
+
+1254 1 58
+P 1 of -1
+
+1596 1 58
+P 1 to -1
+
+1
+1 1
+_X_v_out 1 0 Y
+0 
+1
+176 2 3593
+XP 2 <$X> 0 out -1
+
+1
+2 3
+pron 1 0 Y
+pronoun_q 1 1 Y
+BV 2 1 0 Y
+1 0
+3
+177 40 58
+S/VP 1 <pron> -1
+
+1404 1 58
+S/VP 2 yes -1 <pron> -1
+
+1642 1 58
+S/VP 2 <pron> -1 like -1
+
+1
+2 3
+S/VP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+0 
+2
+178 30 1872
+S 2 S/VP 0 V 1
+
+1474 1 1872
+S 3 S/VP 0 V 1 ? -1
+
+1
+3 5
+_X_v_1 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 0
+2
+180 84 1801
+V 1 <$X> 0
+
+736 3 1801
+V 2 <$X> 0 , -1
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+181 21 2715
+N 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 0 Y
+subord 1 1 Y
+ARG2 2 1 0 Y
+1 1
+1
+182 15 537
+AP 1 <$X> 0
+
+1
+1 1
+_X_a_for 1 0 Y
+1 0
+1
+183 9 180
+ADJ 1 <$X> 0
+
+1
+2 3
+ADJ 1 1 N
+S/AP 1 0 N
+ARG1 2 1 0 Y
+0 
+2
+184 6 1872
+S 2 S/AP 1 ADJ 0
+
+1045 1 1872
+S 3 S/AP 1 ADJ 0 ? -1
+
+1
+3 5
+_X_q_dem 1 1 Y
+generic_entity 1 2 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 1
+1
+185 2 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+187 11 2715
+N 1 <$X> 0
+
+1
+4 7
+generic_entity 1 2 Y
+more_comp 1 0 Y
+much-many_a 1 3 Y
+udef_q 1 1 Y
+ARG1 2 0 3 Y
+ARG1 2 3 2 Y
+BV 2 1 2 Y
+1 2
+1
+189 6 180
+ADJ 1 more -1
+
+1
+2 3
+ADJ 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+0 
+2
+190 5 1872
+S 2 ADJ 0 V 1
+
+1442 1 1872
+S 2 V 1 ADJ 0
+
+1
+1 1
+_X_p 1 0 Y
+0 
+1
+191 2 3593
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+named 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+2
+192 19 3593
+XP 1 <named> 0
+
+1149 1 3593
+XP 2 <named> 0 ? -1
+
+1
+2 3
+_X_n_of 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+193 31 2715
+N 1 <$X> 0
+
+1
+3 4
+_X_a_than-from 1 2 Y
+comp 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 2 Y
+0 
+1
+194 2 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_u_unknown 1 0 Y
+1 0
+1
+195 49 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+0 
+2
+196 15 3593
+XP 2 V 1 N 0
+
+378 18 3593
+XP 2 N 0 V 1
+
+1
+1 1
+_X_a_at-for-of 1 0 Y
+1 0
+2
+197 6 900
+ADV 1 <$X> 0
+
+1051 1 900
+ADV 2 <$X> 0 , -1
+
+1
+2 3
+ADV 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+5
+198 50 1872
+S 2 ADV 0 V 1
+
+217 11 1872
+S 2 V 1 ADV 0
+
+611 2 1872
+S 3 ADV 0 V 1 ! -1
+
+1097 1 1872
+S 3 ADV 0 V 1 ? -1
+
+1537 1 1872
+S 3 V 1 ADV 0 ! -1
+
+1
+3 5
+_X_n_1 1 0 Y
+compound 1 2 Y
+udef_q 1 1 Y
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+199 2 2715
+N 1 <$X> 0
+
+1
+2 3
+AP 1 1 N
+N 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+200 2 10
+AP/PT 2 N 1 AP 0
+
+1
+2 3
+AP 1 1 N
+N 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+201 2 3593
+XP 3 N 1 AP 0 ? -1
+
+1
+2 3
+discourse 1 0 Y
+excl 1 1 Y
+ARG1 2 0 1 Y
+1 0
+2
+203 35 900
+ADV 1 <excl> 1
+
+1272 1 900
+ADV 2 <excl> 1 , -1
+
+1
+2 3
+ADV 1 0 N
+V 1 1 N
+ARG2 2 0 1 Y
+0 
+1
+204 6 1872
+S 2 ADV 0 V 1
+
+1
+3 5
+_X_v_1 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+2 2 0
+1
+205 1 32
+V 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+2 2 0
+1
+206 1 2
+VP 2 <$X> 0 , -1
+
+1
+3 3
+V 1 2 N
+ARG1 2 2 0 Y
+VP 2 1 0 N
+2 1 2
+1
+207 2 5
+S 2 VP 2 V 0
+
+1
+3 5
+_X_p 1 1 Y
+reason 1 2 Y
+which_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+208 3 419
+PP 1 <$X> 0
+
+1
+3 5
+_X_p 1 1 Y
+reason 1 2 Y
+which_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+209 2 482
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+212 19 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_q_dem 1 1 Y
+generic_entity 1 2 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+214 9 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_who/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+215 2 3593
+XP 1 <$X> 0
+
+1
+2 3
+discourse 1 0 Y
+excl 1 1 Y
+ARG2 2 0 1 Y
+1 0
+1
+216 41 900
+ADV 1 <excl> 1
+
+1
+1 1
+ellipsis_expl 1 0 Y
+1 0
+1
+218 7 1801
+V 1 ??? -1
+
+0
+2
+219 10 20
+NP-X 1 it -1
+
+520 10 20
+NP-X 1 there -1
+
+1
+1 1
+ellipsis_expl 1 0 Y
+0 
+2
+220 4 1872
+S 1 it -1
+
+972 1 1872
+S 1 there -1
+
+1
+1 1
+_X_v_state 1 0 Y
+1 0
+1
+221 12 1801
+V 1 <$X> 0
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+2 1 0
+1
+222 2 4
+VP/VP 2 V 1 V 0
+
+1
+3 5
+_X_v_1 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+2 0 2
+2
+223 4 32
+V 1 <$X> 0
+
+674 1 32
+V 2 <$X> 0 , -1
+
+1
+4 5
+ARG1 2 0 1 Y
+ARG1 2 2 1 Y
+ARG2 2 2 3 Y
+V 2 3 1 N
+VP/VP 2 0 2 N
+0 
+1
+224 2 1872
+S 2 VP/VP 4 V 3
+
+1
+3 5
+_X_n_of-about 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+226 2 3593
+XP 1 <$X> 0
+
+1
+2 3
+PP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 1
+2
+227 1 21
+VP 2 V 1 PP 0
+
+1476 1 21
+VP 3 V 1 PP 0 , -1
+
+1
+2 3
+ADV 1 0 N
+VP 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+228 5 3593
+XP 2 VP 1 ADV 0
+
+1
+3 5
+_X_n_of 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+229 12 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+3
+230 4 3593
+XP 2 <$X> 0 ? -1
+
+352 9 3593
+XP 1 <$X> 0
+
+356 5 3593
+XP 2 <$X> 0 ! -1
+
+0
+1
+232 3 3
+S 2 ADV -1 PT -1
+
+1
+3 5
+_X_n_of 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+233 15 2715
+N 1 <$X> 0
+
+1
+3 5
+thing 1 0 Y
+unknown 1 2 Y
+which_q 1 1 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+235 7 2715
+N 1 <what> -1
+
+1
+3 5
+thing 1 0 Y
+unknown 1 2 Y
+which_q 1 1 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+4
+236 3 3593
+XP 2 <what> -1 ? -1
+
+400 1 3593
+XP 2 <what> -1 ! -1
+
+739 1 3593
+XP 3 <what> -1 else -1 ? -1
+
+849 2 3593
+XP 2 <what> -1 else -1
+
+1
+2 3
+person 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+237 7 2715
+N 1 <what> -1
+
+1
+3 5
+_X_n_of 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+1
+238 16 2715
+N 1 <$X> 0
+
+1
+2 3
+named 1 0 Y
+udef_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+240 10 2715
+N 1 <named> 0
+
+1
+3 5
+_X_n_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+242 20 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 2 Y
+pron 1 1 Y
+pronoun_q 1 0 Y
+ARG1 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+245 3 1872
+S 2 <$X> 0 ! -1
+
+1
+4 7
+_X_p 1 0 Y
+def_implicit_q 1 3 Y
+loc_nonsp 1 2 Y
+place_n 1 1 Y
+ARG1 2 0 1 Y
+ARG2 2 2 1 Y
+BV 2 3 1 Y
+1 2
+1
+246 1 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+247 2 85
+VP/PT 2 V 1 N 0
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+2
+248 2 1872
+S 3 V 1 N 0 ? -1
+
+312 2 1872
+S 2 V 1 N 0
+
+1
+1 1
+neg 1 0 Y
+1 0
+1
+249 11 900
+ADV 1 <neg> 0
+
+1
+2 2
+ADV 1 1 N
+P 1 0 N
+2 1 0
+1
+250 7 7
+XP/NP 2 ADV 0 P 1
+
+1
+3 3
+N 1 2 N
+ARG2 2 0 2 Y
+XP/NP 2 1 0 N
+2 1 0
+1
+251 2 20
+XP 2 XP/NP 2 N 0
+
+1
+3 5
+_X_a_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 2
+1
+252 6 537
+AP 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+1 0
+1
+253 12 900
+ADV 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 0 1 Y
+0 
+3
+254 23 3593
+XP 2 ADV 0 ADV 1
+
+354 7 3593
+XP 2 ADV 1 ADV 0
+
+1050 1 3593
+XP 3 ADV 0 ADV 1 ? -1
+
+1
+1 1
+_X_n_of 1 0 Y
+1 0
+1
+255 94 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_boy/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+2
+256 2 3593
+XP 1 <$X> 0
+
+870 1 3593
+XP 2 <$X> 0 ! -1
+
+1
+2 2
+_X_v_cause 1 0 Y
+unknown 1 1 Y
+0 
+1
+257 10 3593
+XP 1 <$X> 0
+
+1
+2 3
+PP 1 0 N
+PP 1 1 N
+ARG1 2 1 0 Y
+0 
+1
+258 5 3593
+XP 2 PP 0 PP 1
+
+1
+3 5
+_X_v_1 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+1 0
+2
+259 57 1801
+V 1 <$X> 0
+
+987 6 1801
+V 2 <$X> 0 , -1
+
+1
+2 2
+DET 1 0 N
+PP 1 1 N
+1 0
+2
+261 52 54
+XP/N 2 PP 1 DET 0
+
+771 1 54
+XP/N 3 PP 1 DET 0 , -1
+
+1
+2 3
+_X_n_1 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+262 104 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+XP/N 1 0 N
+BV 2 0 1 Y
+0 
+3
+263 49 3593
+XP 2 XP/N 1 N 0
+
+607 2 3593
+XP 3 XP/N 1 N 0 ? -1
+
+1280 1 3593
+XP 3 XP/N 1 N 0 ! -1
+
+1
+3 5
+_X_woof/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+2
+264 2 3593
+XP 1 <$X> 0
+
+942 1 3593
+XP 2 <$X> 0 ! -1
+
+1
+4 7
+_X_a_1 1 1 Y
+def_implicit_q 1 2 Y
+loc_nonsp 1 0 Y
+place_n 1 3 Y
+ARG1 2 1 3 Y
+ARG2 2 0 3 Y
+BV 2 2 3 Y
+1 0
+1
+265 3 2715
+N 1 <$X> 0
+
+1
+4 7
+_X_a_1 1 1 Y
+def_implicit_q 1 2 Y
+loc_nonsp 1 0 Y
+place_n 1 3 Y
+ARG1 2 1 3 Y
+ARG2 2 0 3 Y
+BV 2 2 3 Y
+0 
+2
+266 2 3593
+XP 2 <$X> 0 ! -1
+
+1160 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+267 6 2715
+N 1 <$X> 0
+
+1
+2 3
+_X_q 1 0 Y
+generic_entity 1 1 Y
+BV 2 0 1 Y
+1 1
+1
+268 10 630
+DET 1 <$X> 0
+
+1
+2 3
+DET 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+0 
+2
+269 9 1872
+S 2 DET 0 V 1
+
+1605 1 1872
+S 2 V 1 DET 0
+
+1
+3 5
+every_q 1 1 Y
+place_n 1 2 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+270 1 3593
+XP 1 everywhere -1
+
+1
+3 5
+_X_v_on 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+1 1
+2
+271 2 1801
+V 1 <$X> 0
+
+906 1 1801
+V 2 <$X> 0 , -1
+
+1
+2 3
+NP 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+272 9 1801
+V 2 V 1 NP 0
+
+1
+2 3
+ADV 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+5
+275 28 3593
+XP 2 ADV 0 V 1
+
+538 3 3593
+XP 2 V 1 ADV 0
+
+922 2 3593
+XP 3 ADV 0 V 1 ? -1
+
+1011 1 3593
+XP 3 ADV 0 V 1 ! -1
+
+1222 1 3593
+XP 3 ADV 0 V 1 up -1
+
+1
+2 3
+named 1 0 Y
+proper_q 1 1 Y
+BV 2 1 0 Y
+1 0
+2
+276 127 2715
+N 1 <named> 0
+
+797 6 2715
+N 2 <named> 0 , -1
+
+1
+2 3
+_X_n_1 1 0 Y
+udef_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+278 1 58
+S/VP 1 <$X> 0
+
+1
+3 5
+compound 1 0 Y
+named 1 1 Y
+udef_q 1 2 Y
+ARG2 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+279 7 2715
+N 1 <named> 1
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+280 2 10
+AP/PT 2 N 0 V 1
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+2
+281 2 3593
+XP 3 N 0 V 1 ? -1
+
+452 5 3593
+XP 2 N 0 V 1
+
+1
+2 3
+AP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+282 2 85
+VP/PT 2 V 1 AP 0
+
+1
+2 2
+DET 1 1 N
+V 1 0 N
+2 0 1
+2
+284 58 72
+VP/N 2 V 1 DET 0
+
+1023 1 72
+VP/N 3 V 1 DET 0 , -1
+
+1
+3 4
+N 1 0 N
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+VP/N 2 1 2 N
+0 
+3
+285 63 1872
+S 2 VP/N 3 N 0
+
+469 3 1872
+S 3 VP/N 3 N 0 ? -1
+
+950 1 1872
+S 3 VP/N 3 N 0 ! -1
+
+1
+2 3
+_X_a_1 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+1 1
+1
+286 11 900
+ADV 1 <$X> 0
+
+1
+1 1
+_X_a_at-for-of 1 0 Y
+1 0
+1
+287 3 482
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+2
+291 47 2715
+N 1 <$X> 0
+
+782 2 2715
+N 2 <$X> 0 , -1
+
+1
+2 3
+dofm 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+292 6 2715
+N 1 <dofm> 0
+
+1
+3 5
+_X_q_dem 1 0 Y
+generic_entity 1 1 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+294 6 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_q_dem 1 0 Y
+generic_entity 1 1 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+3
+295 4 3593
+XP 2 <$X> 0 ? -1
+
+722 2 3593
+XP 1 <$X> 0
+
+1616 1 3593
+XP 2 <$X> 0 ! -1
+
+1
+2 3
+_X_q 1 1 Y
+thing 1 0 Y
+BV 2 1 0 Y
+1 0
+1
+296 2 2715
+N 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 1 0 Y
+1 0
+4
+297 21 482
+XP 2 ADV 0 ADV 1
+
+448 9 482
+XP 3 ADV 1 ADV 0 ! -1
+
+581 2 482
+XP 2 ADV 1 ADV 0
+
+1047 1 482
+XP 3 ADV 0 ADV 1 ! -1
+
+1
+2 3
+discourse 1 1 Y
+greet 1 0 Y
+ARG1 2 1 0 Y
+1 1
+2
+298 47 900
+ADV 1 <greet> 1
+
+939 7 900
+ADV 2 <greet> 1 , -1
+
+1
+2 3
+ADV 1 0 N
+N 1 1 N
+ARG2 2 0 1 Y
+1 0
+1
+299 5 53
+XP/PT 2 ADV 0 N 1
+
+1
+2 3
+ADV 1 0 N
+N 1 1 N
+ARG2 2 0 1 Y
+0 
+3
+300 2 3593
+XP 3 ADV 0 N 1 ! -1
+
+449 51 3593
+XP 2 ADV 0 N 1
+
+1421 3 3593
+XP 3 ADV 0 N 1 ? -1
+
+1
+3 5
+_X_v_1 1 2 Y
+nominalization 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+ARG1 2 1 2 Y
+1 1
+1
+301 2 1801
+V 1 <$X> 0
+
+1
+2 3
+DET 1 0 N
+V 1 1 N
+BV 2 0 1 Y
+1 0
+1
+302 2 9
+NP-WH/PT 2 DET 0 V 1
+
+1
+2 3
+DET 1 0 N
+V 1 1 N
+BV 2 0 1 Y
+0 
+2
+303 2 3593
+XP 3 DET 0 V 1 ? -1
+
+1212 1 3593
+XP 2 DET 0 V 1
+
+1
+3 5
+card 1 1 Y
+generic_entity 1 0 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+ARG1 2 1 0 Y
+1 0
+1
+304 5 180
+ADJ 1 <card> 0
+
+1
+2 3
+ADJ 1 0 N
+DET 1 1 N
+BV 2 1 0 Y
+0 
+1
+305 6 3593
+XP 2 DET 1 ADJ 0
+
+1
+2 3
+_X_v_qmodal 1 1 Y
+ellipsis_ref 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+306 3 1872
+S 1 <$X> 0
+
+1
+3 5
+_X_knock/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+307 1 3593
+XP 1 <$X> 0
+
+1
+3 5
+basic_numbered_hour 1 1 Y
+def_implicit_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+308 8 744
+NP 1 <basic_numbered_hour> 0
+
+1
+3 5
+basic_numbered_hour 1 1 Y
+def_implicit_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+2
+309 4 3593
+XP 2 <basic_numbered_hour> 0 ! -1
+
+818 4 3593
+XP 2 <basic_numbered_hour> 0 ? -1
+
+1
+1 1
+_X_u_unknown 1 0 Y
+0 
+2
+310 6 1872
+S 1 <$X> 0
+
+1556 1 1872
+S 2 <$X> 0 ! -1
+
+1
+4 7
+_X_a_1 1 0 Y
+def_implicit_q 1 1 Y
+loc_nonsp 1 2 Y
+place_n 1 3 Y
+ARG1 2 0 3 Y
+ARG2 2 2 3 Y
+BV 2 1 3 Y
+1 2
+1
+311 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_a_with-about-of 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+314 1 180
+ADJ 1 <$X> 0
+
+1
+3 5
+_X_a_with-about-of 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+315 1 1872
+S 1 <$X> 0
+
+1
+1 1
+_X_a_at-for-of 1 0 Y
+1 0
+1
+316 7 180
+ADJ 1 <$X> 0
+
+1
+3 2
+ADJ 1 1 N
+VP/N 2 2 0 N
+3 0 1 2
+1
+317 1 1
+VP/N 2 VP/N 1 ADJ 0
+
+1
+2 3
+_X_n_of 1 1 Y
+loc_nonsp 1 0 Y
+ARG2 2 0 1 Y
+2 0 1
+1
+318 2 25
+N 1 <$X> 0
+
+1
+5 5
+ARG1 2 1 3 Y
+ARG1 2 2 4 Y
+BV 2 0 3 Y
+N 2 2 3 N
+VP/N 3 0 1 4 N
+0 
+1
+319 1 1872
+S 2 VP/N 4 N 3
+
+1
+4 7
+card 1 3 Y
+generic_entity 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+ARG1 2 3 1 Y
+BV 2 2 1 Y
+0 
+2
+320 23 3593
+XP 1 <card> 0
+
+348 2 3593
+XP 3 ah -1 ah -1 <card> 0
+
+1
+1 1
+_X_a_also-2 1 0 Y
+1 0
+1
+321 14 900
+ADV 1 <$X> 0
+
+1
+4 7
+generic_entity 1 2 Y
+little-few_a 1 1 Y
+udef_q 1 3 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+ARG1 2 1 2 Y
+BV 2 3 2 Y
+1 0
+1
+322 2 180
+ADJ 1 little -1
+
+1
+1 1
+_X_x_comp 1 0 Y
+1 0
+1
+324 18 900
+ADV 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 1 0 Y
+1 0
+2
+325 6 900
+ADV 2 ADV 0 ADV 1
+
+531 9 900
+ADV 2 ADV 1 ADV 0
+
+1
+2 3
+_X_a_2 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+326 4 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_v_down 1 0 Y
+1 0
+1
+327 3 1801
+V 1 <$X> 0
+
+1
+1 1
+_X_v_down 1 0 Y
+0 
+1
+329 3 3593
+XP 2 <$X> 0 down -1
+
+1
+1 1
+_X_p_loc 1 0 Y
+1 0
+1
+330 31 419
+PP 1 <$X> 0
+
+1
+2 2
+_X_p 1 0 Y
+unknown 1 1 Y
+0 
+1
+331 5 3593
+XP 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 1 0 Y
+1 0
+2
+332 6 8
+XP/XP 2 ADV 1 ADV 0
+
+423 1 8
+XP/XP 3 ADV 1 ADV 0 , -1
+
+1
+2 3
+ADV 1 1 N
+XP/XP 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+333 6 3593
+XP 2 XP/XP 1 ADV 0
+
+1
+3 5
+_X_q 1 1 Y
+thing 1 2 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+335 3 3593
+XP 1 <$X> 0
+
+1
+3 5
+named 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+336 5 2715
+N 1 <named> 0
+
+1
+3 5
+_X_n_of 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+2
+337 18 3593
+XP 1 <$X> 0
+
+1482 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+339 2 13
+XP/NP 2 ADV 1 ADV 0
+
+1
+2 2
+DET 1 1 N
+XP/NP 1 0 N
+2 0 1
+1
+340 3 15
+XP/N 2 XP/NP 1 DET 0
+
+1
+2 3
+_X_n_1 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+2 0 1
+1
+341 8 25
+N 1 <$X> 0
+
+1
+4 4
+ARG1 2 3 1 Y
+BV 2 0 2 Y
+N 2 1 2 N
+XP/N 2 3 0 N
+0 
+2
+342 9 3593
+XP 2 XP/N 3 N 2
+
+1662 1 3593
+XP 3 XP/N 3 N 2 ! -1
+
+1
+2 3
+N 1 1 N
+PP 1 0 N
+ARG1 2 0 1 Y
+0 
+6
+343 44 3593
+XP 2 N 0 PP 1
+
+476 2 3593
+XP 3 PP 1 N 0 ? -1
+
+578 5 3593
+XP 3 N 0 PP 1 ? -1
+
+1452 1 3593
+XP 2 PP 1 N 0
+
+1559 1 3593
+XP 3 N 0 PP 1 , -1
+
+1584 1 3593
+XP 3 N 0 PP 1 ! -1
+
+1
+3 5
+_X_a_1 1 1 Y
+def_implicit_q 1 2 Y
+place_n 1 0 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+344 7 2715
+N 1 <$X> 0
+
+0
+1
+346 2 2
+ADJ/ADJ 2 ADV -1 ADV -1
+
+1
+4 7
+card 1 3 Y
+generic_entity 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+ARG1 2 3 1 Y
+BV 2 2 1 Y
+1 0
+1
+347 2 180
+ADJ 1 <card> 0
+
+1
+3 5
+pron 1 1 Y
+pronoun_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+5
+349 3 744
+NP 1 you -1
+
+432 6 744
+NP 1 it -1
+
+508 1 744
+NP 1 me -1
+
+1330 1 744
+NP 1 him -1
+
+1523 1 744
+NP 1 myself -1
+
+1
+2 2
+NP 1 1 N
+PP 1 0 N
+0 
+2
+350 9 3593
+XP 2 PP 1 NP 0
+
+1202 1 3593
+XP 3 PP 1 NP 0 ? -1
+
+1
+1 1
+unknown 1 0 Y
+1 0
+2
+353 2 900
+ADV 1 uh -1
+
+937 1 900
+ADV 1 ah -1
+
+1
+3 5
+_X_boo/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+355 1 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_v_cause 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+357 6 1801
+V 1 <$X> 0
+
+1
+3 5
+pron 1 1 Y
+pronoun_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+3
+358 3 744
+NP 1 me -1
+
+894 1 744
+NP 1 you -1
+
+977 1 744
+NP 1 him -1
+
+1
+2 3
+NP 1 1 N
+PP 1 0 N
+ARG1 2 0 1 Y
+0 
+2
+359 5 3593
+XP 2 NP 0 PP 1
+
+1155 1 3593
+XP 3 PP 1 NP 0 ? -1
+
+1
+1 1
+_X_a_1 1 0 Y
+0 
+3
+360 5 3593
+XP 2 <$X> 0 ? -1
+
+975 2 3593
+XP 2 <$X> 0 ! -1
+
+989 1 3593
+XP 2 uh -1 <$X> 0
+
+1
+3 5
+_X_v_to 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+361 4 1801
+V 1 <$X> 0
+
+1
+3 4
+discourse 1 1 Y
+greet 1 2 Y
+unknown 1 0 Y
+ARG1 2 1 2 Y
+0 
+1
+362 6 1872
+S 1 <greet> 1
+
+1
+3 4
+N 1 0 N
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+S/N 2 2 1 N
+1 0
+1
+363 5 110
+S/PT 2 S/N 3 N 0
+
+1
+3 5
+_X_v_cause 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+365 5 1801
+V 1 <$X> 0
+
+1
+2 3
+dofm 1 1 Y
+loc_nonsp 1 0 Y
+ARG2 2 0 1 Y
+1 1
+1
+366 3 2715
+N 1 <dofm> 0
+
+1
+2 3
+DET 1 1 N
+N 1 0 N
+BV 2 1 0 Y
+1 0
+1
+367 18 27
+NP/PT 2 DET 0 N 1
+
+1
+1 1
+_X_c 1 0 Y
+1 0
+1
+369 34 43
+CONJ 1 <$X> 0
+
+1
+3 3
+CONJ 1 2 N
+ARG2 2 2 1 Y
+P 2 0 1 N
+2 0 1
+1
+370 10 20
+PP/N 2 CONJ 0 P 2
+
+1
+3 4
+N 1 2 N
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+PP/N 2 0 1 N
+1 1
+1
+371 10 19
+S 2 PP/N 3 N 0
+
+1
+2 3
+_X_a_with 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+372 4 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_n_sea 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+373 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_sea 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+374 1 3593
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_X_n_of 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+2
+376 12 2715
+N 1 <$X> 0
+
+1072 2 2715
+N 2 <$X> 0 , -1
+
+1
+3 5
+named 1 1 Y
+proper_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+377 23 2715
+N 1 <named> 0
+
+1
+2 3
+ADV 1 1 N
+N 1 0 N
+ARG1 2 1 0 Y
+1 0
+2
+379 11 53
+XP/PT 2 ADV 0 N 1
+
+955 3 53
+XP/PT 2 N 1 ADV 0
+
+1
+2 3
+_X_a_to 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+381 8 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_yum/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+382 2 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_n_of-2 1 0 Y
+1 0
+1
+383 1 2715
+N 1 <$X> 0
+
+1
+2 2
+_X_v_to 1 1 Y
+unknown 1 0 Y
+0 
+1
+384 4 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+3
+385 8 3593
+XP 1 <$X> 0
+
+401 1 3593
+XP 2 <$X> 0 ! -1
+
+585 4 3593
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_X_v_off 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+386 2 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_off 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+388 2 1872
+S 2 <$X> 0 off -1
+
+1
+3 5
+_X_q 1 2 Y
+generic_entity 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+2
+389 1 3593
+XP 1 <$X> 0
+
+514 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_X_n_of 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+391 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+2
+392 1 3593
+XP 2 <$X> 0 ? -1
+
+420 6 3593
+XP 1 <$X> 0
+
+1
+4 7
+_X_p 1 1 Y
+def_implicit_q 1 3 Y
+loc_nonsp 1 2 Y
+place_n 1 0 Y
+ARG1 2 1 0 Y
+ARG2 2 2 0 Y
+BV 2 3 0 Y
+1 0
+1
+393 2 2715
+N 1 <$X> 0
+
+1
+4 7
+_X_p 1 1 Y
+def_implicit_q 1 3 Y
+loc_nonsp 1 2 Y
+place_n 1 0 Y
+ARG1 2 1 0 Y
+ARG2 2 2 0 Y
+BV 2 3 0 Y
+0 
+1
+394 2 3593
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+_X_a_to 1 0 Y
+subord 1 1 Y
+ARG2 2 1 0 Y
+1 1
+1
+395 6 180
+ADJ 1 <$X> 0
+
+1
+2 3
+ADJ 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+1 1
+1
+396 1 21
+VP 2 V 1 ADJ 0
+
+1
+2 3
+ADJ 1 1 N
+VP 1 0 N
+ARG1 2 1 0 Y
+0 
+2
+397 2 1872
+S 2 VP 1 ADJ 0
+
+1296 1 1872
+S 3 VP 1 ADJ 0 ? -1
+
+1
+2 3
+ADV 1 1 N
+XP/XP 1 0 N
+ARG1 2 0 1 Y
+1 1
+1
+398 1 8
+XP/XP 2 XP/XP 1 ADV 0
+
+1
+3 5
+_X_n_of-2 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+399 3 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_v_modal 1 0 Y
+1 0
+1
+402 7 1801
+V 1 <$X> 0
+
+1
+2 2
+NP 1 1 N
+V 1 0 N
+2 1 0
+2
+403 8 38
+S/VP 2 NP 0 V 1
+
+1367 1 38
+S/VP 3 NP 0 V 1 , -1
+
+1
+3 4
+V 1 2 N
+ARG1 2 0 2 Y
+ARG1 2 2 1 Y
+S/VP 2 1 0 N
+2 2 1
+2
+404 1 38
+S/VP 2 S/VP 3 V 0
+
+1369 1 38
+S/VP 3 S/VP 3 V 0 , -1
+
+1
+3 4
+V 1 1 N
+ARG1 2 1 0 Y
+ARG2 2 2 1 Y
+S/VP 2 2 0 N
+0 
+1
+405 7 1872
+S 2 S/VP 3 V 0
+
+1
+2 3
+_X_a_of 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+1 0
+1
+406 1 180
+ADJ 1 <$X> 0
+
+1
+2 3
+ADJ 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+0 
+2
+407 9 1872
+S 2 V 1 ADJ 0
+
+1186 1 1872
+S 2 ADJ 0 V 1
+
+1
+2 3
+_X_n_sea 1 0 Y
+udef_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+408 1 2715
+N 1 <$X> 0
+
+1
+2 2
+PP 1 0 N
+PP 1 1 N
+0 
+2
+409 3 3593
+XP 2 PP 1 PP 0
+
+945 1 3593
+XP 2 PP 0 PP 1
+
+1
+2 3
+NP 1 1 N
+VP/NP 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+410 4 1872
+S 2 VP/NP 1 NP 0
+
+1
+1 1
+_X_u_unknown 1 0 Y
+1 0
+1
+412 30 1801
+V 1 <$X> 0
+
+1
+2 3
+_X_u_unknown 1 0 Y
+subord 1 1 Y
+ARG2 2 1 0 Y
+1 1
+1
+413 1 537
+AP 1 <$X> 0
+
+1
+4 7
+_X_a_1 1 1 Y
+def_implicit_q 1 3 Y
+place_n 1 2 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+ARG1 2 1 2 Y
+BV 2 3 2 Y
+1 0
+1
+414 6 2715
+N 1 <$X> 0
+
+1
+1 1
+_X_a_to 1 0 Y
+1 0
+2
+415 13 180
+ADJ 1 <$X> 0
+
+1438 1 180
+ADJ 2 <$X> 0 , -1
+
+1
+3 5
+_X_v_1 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+416 4 1872
+S 2 <$X> 0 ! -1
+
+1
+3 5
+_X_n_1 1 0 Y
+loc_nonsp 1 1 Y
+udef_q 1 2 Y
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+417 1 2715
+N 1 <$X> 0
+
+1
+2 3
+ADJ 1 1 N
+N 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+418 3 32
+N/PT 2 ADJ 0 N 1
+
+1
+2 3
+_X_a_for 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+421 3 3593
+XP 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+422 1 1
+XP/PT/XP 2 ADV 1 ADV 0
+
+1
+2 2
+DET 1 0 N
+P 1 1 N
+2 1 0
+1
+424 8 20
+PP/N 2 P 1 DET 0
+
+1
+3 4
+N 1 0 N
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+PP/N 2 2 1 N
+1 2
+1
+425 7 482
+XP 2 PP/N 3 N 0
+
+1
+3 5
+_X_n_meas 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+426 2 3593
+XP 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+1 1
+1
+427 6 537
+AP 1 <$X> 0
+
+1
+2 3
+ADV 1 1 N
+AP 1 0 N
+ARG2 2 1 0 Y
+0 
+1
+428 6 3593
+XP 2 ADV 0 AP 1
+
+1
+2 2
+N 1 1 N
+PP 1 0 N
+0 
+3
+429 21 3593
+XP 2 PP 1 N 0
+
+764 1 3593
+XP 3 PP 1 N 0 ! -1
+
+1360 3 3593
+XP 3 PP 1 N 0 ? -1
+
+1
+2 2
+AP 1 0 N
+AP 1 1 N
+2 0 1
+1
+430 14 16
+N/N 2 AP 1 AP 0
+
+1
+3 4
+N 1 0 N
+ARG1 2 1 0 Y
+ARG1 2 2 0 Y
+N/N 2 1 2 N
+0 
+3
+431 13 3593
+XP 2 N/N 3 N 0
+
+642 1 3593
+XP 3 N/N 3 N 0 ! -1
+
+1542 1 3593
+XP 3 N/N 3 N 0 ? -1
+
+1
+2 2
+_X_v_1 1 0 Y
+unknown 1 1 Y
+0 
+1
+433 9 3593
+XP 1 <$X> 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 1 2 Y
+ARG1 2 2 0 Y
+S/VP 2 0 1 N
+0 
+3
+437 8 1872
+S 2 S/VP 3 V 0
+
+901 1 1872
+S 3 S/VP 3 V 0 ! -1
+
+1379 1 1872
+S 3 S/VP 3 V 0 ? -1
+
+1
+1 1
+_X_x 1 0 Y
+1 0
+1
+438 5 99
+P 1 <$X> 0
+
+1
+1 1
+_X_v_to 1 0 Y
+1 0
+1
+439 10 1801
+V 1 <$X> 0
+
+1
+2 3
+P 1 1 N
+V 1 0 N
+ARG2 2 1 0 Y
+1 1
+1
+440 3 482
+XP 2 P 0 V 1
+
+1
+1 1
+_X_v_of 1 0 Y
+0 
+1
+441 3 1872
+S 1 <$X> 0
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+1 1
+2
+442 7 21
+VP 2 V 1 NP 0
+
+1083 1 21
+VP 3 V 1 NP 0 , -1
+
+1
+1 1
+_X_a 1 0 Y
+1 0
+1
+443 13 419
+PP 1 <$X> 0
+
+1
+2 3
+PP 1 1 N
+VP 1 0 N
+ARG1 2 1 0 Y
+0 
+2
+444 4 1872
+S 2 VP 1 PP 0
+
+1394 1 1872
+S 3 VP 1 PP 0 ? -1
+
+1
+2 3
+card 1 0 Y
+number_q 1 1 Y
+BV 2 1 0 Y
+1 0
+2
+445 13 180
+ADJ 1 <card> 0
+
+1631 1 180
+ADJ 2 <card> 0 , -1
+
+1
+2 3
+ADJ 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+0 
+2
+446 10 1872
+S 2 V 1 ADJ 0
+
+1632 1 1872
+S 2 ADJ 0 V 1
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 1 0 Y
+1 0
+2
+447 9 53
+XP/PT 2 ADV 1 ADV 0
+
+1046 1 53
+XP/PT 2 ADV 0 ADV 1
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+450 14 2715
+N 1 <$X> 0
+
+1
+2 3
+AP 1 1 N
+PP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+451 1 3593
+XP 2 PP 1 AP 0
+
+1
+3 5
+_X_weensy/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+453 1 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+454 4 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+0 
+2
+455 3 1872
+S 2 <$X> 0 ! -1
+
+1257 1 1872
+S 2 <$X> 0 , -1
+
+1
+3 5
+_X_v_cause 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+456 2 1801
+V 1 <$X> 0
+
+1
+2 3
+PP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+457 7 85
+VP/PT 2 V 1 PP 0
+
+1
+2 2
+ADJ 1 0 N
+PP 1 1 N
+0 
+1
+459 2 3593
+XP 2 ADJ 0 PP 1
+
+1
+3 5
+every_q 1 0 Y
+person 1 2 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+460 2 3593
+XP 1 everybody -1
+
+1
+3 5
+person 1 0 Y
+unknown 1 1 Y
+which_q 1 2 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+462 2 2715
+N 1 <what> -1
+
+1
+3 5
+person 1 0 Y
+unknown 1 1 Y
+which_q 1 2 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+463 2 3593
+XP 2 <what> -1 ? -1
+
+1
+2 3
+ADV 1 0 N
+P 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+464 2 2
+PP/NP 2 ADV 0 P 1
+
+1
+2 3
+NP 1 1 N
+PP/NP 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+465 1 3593
+XP 2 PP/NP 1 NP 0
+
+1
+3 5
+_X_v_dir 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+466 2 1801
+V 1 <$X> 0
+
+1
+1 1
+_X_v_cause 1 0 Y
+1 0
+2
+467 20 1801
+V 1 <$X> 0
+
+1461 1 1801
+V 2 <$X> 0 , -1
+
+1
+3 4
+N 1 0 N
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+VP/N 2 1 2 N
+1 0
+1
+468 4 85
+VP/PT 2 VP/N 3 N 0
+
+1
+3 5
+_X_v_on 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+470 4 1801
+V 1 <$X> 0
+
+1
+1 1
+named 1 0 Y
+1 0
+1
+471 16 2715
+N 1 <named> 0
+
+1
+1 1
+_X_x_subord 1 0 Y
+1 0
+1
+473 6 99
+P 1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+P 1 1 N
+ARG2 2 1 0 Y
+1 1
+1
+474 2 419
+PP 2 P 1 AP 0
+
+1
+2 3
+N 1 1 N
+PP 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+475 2 53
+XP/PT 2 PP 1 N 0
+
+1
+2 3
+_X_a_for 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+1 0
+1
+477 1 537
+AP 1 <$X> 0
+
+1
+2 3
+ellipsis_ref 1 1 Y
+neg 1 0 Y
+ARG1 2 0 1 Y
+1 1
+2
+478 2 1801
+V 1 don’t -1
+
+1639 1 1801
+V 1 willn’t -1
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+479 5 7
+XP/PP 2 ADV 0 V 1
+
+1
+2 3
+PP 1 1 N
+XP/PP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+480 7 3593
+XP 2 XP/PP 1 PP 0
+
+1
+1 1
+_X_v_up 1 0 Y
+1 0
+2
+481 7 1801
+V 1 <$X> 0
+
+784 1 1801
+V 2 <$X> 0 up -1
+
+1
+3 5
+_X_u_unknown 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+484 2 1801
+V 1 <$X> 0
+
+1
+3 4
+N 1 0 N
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+S/N 2 2 1 N
+1 0
+1
+485 16 110
+S/PT 2 S/N 3 N 0
+
+1
+3 4
+N 1 0 N
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+S/N 2 2 1 N
+0 
+2
+486 16 1872
+S 3 S/N 3 N 0 ? -1
+
+516 9 1872
+S 2 S/N 3 N 0
+
+1
+2 2
+PP 1 0 N
+PP 1 1 N
+1 0
+1
+487 2 8
+PP/PP 2 PP 1 PP 0
+
+1
+2 3
+PP 1 0 N
+PP/PP 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+488 1 57
+PP/PT 2 PP/PP 1 PP 0
+
+1
+2 3
+PP 1 0 N
+PP/PP 1 1 N
+ARG1 2 0 1 Y
+0 
+2
+489 1 3593
+XP 3 PP/PP 1 PP 0 ! -1
+
+669 3 3593
+XP 2 PP/PP 1 PP 0
+
+1
+3 4
+discourse 1 1 Y
+greet 1 2 Y
+unknown 1 0 Y
+ARG1 2 1 2 Y
+1 0
+1
+490 3 900
+ADV 1 <greet> 1
+
+1
+2 3
+discourse 1 1 Y
+greet 1 0 Y
+ARG2 2 1 0 Y
+1 1
+1
+491 10 900
+ADV 1 <greet> 1
+
+1
+2 3
+_X_u_unknown 1 1 Y
+udef_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+492 17 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 0 N
+XP/NP 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+493 3 3593
+XP 2 XP/NP 1 N 0
+
+1
+2 3
+AP 1 1 N
+PP 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+494 1 3593
+XP 2 AP 0 PP 1
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+496 5 47
+S/PP 2 N 0 V 1
+
+1
+2 3
+PP 1 1 N
+S/PP 1 0 N
+ARG1 2 1 0 Y
+0 
+2
+497 26 1872
+S 2 S/PP 1 PP 0
+
+500 1 1872
+S 3 S/PP 1 PP 0 ? -1
+
+1
+2 3
+thing 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 1
+2
+498 3 47
+S/PP 1 <what> -1
+
+1465 1 47
+S/PP 2 <what> -1 , -1
+
+1
+2 3
+PP 1 1 N
+S/PP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+499 1 110
+S/PT 2 S/PP 1 PP 0
+
+1
+3 5
+_X_v_1 1 2 Y
+pron 1 1 Y
+pronoun_q 1 0 Y
+ARG1 2 2 1 Y
+BV 2 0 1 Y
+2 2 1
+2
+501 1 32
+V 1 <$X> 0
+
+502 1 32
+V 2 <$X> 0 , -1
+
+1
+3 3
+V 1 0 N
+ARG1 2 0 2 Y
+V 2 1 2 N
+2 0 1
+1
+503 3 5
+S 2 V 2 V 0
+
+1
+2 3
+CONJ 1 0 N
+PP 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+504 1 8
+PP/PP 2 PP 1 CONJ 0
+
+1
+2 3
+PP 1 0 N
+PP/PP 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+505 1 3593
+XP 2 PP/PP 1 PP 0
+
+1
+2 3
+_X_u_unknown 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+1 0
+1
+506 2 537
+AP 1 <$X> 0
+
+1
+2 3
+ADV 1 1 N
+AP 1 0 N
+ARG1 2 1 0 Y
+0 
+2
+507 17 3593
+XP 2 ADV 0 AP 1
+
+557 4 3593
+XP 2 AP 1 ADV 0
+
+1
+2 3
+ADV 1 1 N
+PP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+509 1 419
+PP 2 ADV 0 PP 1
+
+1
+2 2
+ADV 1 1 N
+DET 1 0 N
+2 1 0
+1
+511 7 15
+XP/N 2 ADV 0 DET 1
+
+1
+2 3
+_X_n_of 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+2 1 0
+1
+512 1 25
+N 1 <$X> 0
+
+1
+3 5
+_X_q 1 2 Y
+generic_entity 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+513 1 630
+DET 1 <$X> 0
+
+1
+2 2
+DET 1 1 N
+V 1 0 N
+2 0 1
+1
+515 7 120
+S/N 2 V 1 DET 0
+
+1
+3 5
+_X_v_to 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+517 1 1801
+V 1 <$X> 0
+
+1
+2 3
+S/VP 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+519 7 47
+S/PP 2 S/VP 0 V 1
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+3
+521 1 58
+S/VP 2 <$X> 0 there -1
+
+746 1 58
+S/VP 2 <$X> 0 eh -1
+
+1218 1 58
+S/VP 2 <$X> 0 it -1
+
+1
+2 3
+_X_v_there 1 1 Y
+ellipsis_expl 1 0 Y
+ARG1 2 1 0 Y
+1 0
+1
+522 2 1801
+V 1 <$X> 0
+
+1
+2 3
+S/VP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+523 2 1872
+S 2 S/VP 0 V 1
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+524 20 85
+VP/PT 2 V 1 N 0
+
+1
+2 2
+AP 1 1 N
+V 1 0 N
+2 0 1
+1
+526 1 72
+VP/N 2 V 1 AP 0
+
+1
+3 4
+N 1 2 N
+ARG1 2 1 2 Y
+ARG2 2 0 2 Y
+VP/N 2 0 1 N
+0 
+1
+527 2 1872
+S 2 VP/N 3 N 0
+
+1
+3 5
+_X_beep/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+529 1 3593
+XP 1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+0 
+2
+530 2 1872
+S 2 V 1 AP 0
+
+1389 1 1872
+S 2 AP 0 V 1
+
+1
+2 3
+_X_u_unknown 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+532 7 2715
+N 1 <$X> 0
+
+1
+2 3
+DET 1 1 N
+N 1 0 N
+BV 2 1 0 Y
+1 0
+1
+534 7 9
+NP-WH/PT 2 DET 0 N 1
+
+1
+2 3
+ADV 1 0 N
+PP 1 1 N
+ARG1 2 0 1 Y
+0 
+3
+536 4 3593
+XP 2 ADV 0 PP 1
+
+602 2 3593
+XP 2 PP 1 ADV 0
+
+886 1 3593
+XP 4 ADV 0 PP 1 there -1 ! -1
+
+1
+1 1
+_X_v_on 1 0 Y
+1 0
+1
+539 12 1801
+V 1 <$X> 0
+
+1
+2 2
+DET 1 1 N
+V 1 0 N
+2 0 1
+1
+540 4 5
+V/N 2 V 1 DET 0
+
+1
+3 4
+N 1 1 N
+ARG2 2 2 1 Y
+BV 2 0 1 Y
+V/N 2 2 0 N
+1 0
+1
+541 4 1801
+V 2 V/N 3 N 0
+
+1
+3 4
+N 1 1 N
+ARG2 2 2 1 Y
+BV 2 0 1 Y
+V/N 2 2 0 N
+0 
+2
+542 3 1872
+S 3 V/N 3 N 0 on -1
+
+1516 1 1872
+S 3 V/N 3 N 0 in -1
+
+1
+3 5
+_X_v_modal 1 2 Y
+ellipsis_ref 1 1 Y
+neg 1 0 Y
+ARG1 2 0 2 Y
+ARG1 2 2 1 Y
+0 
+1
+543 3 1872
+S 2 <$X> 0 <neg> 2
+
+1
+3 5
+pron 1 2 Y
+pronoun_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+5
+544 3 744
+NP 1 it -1
+
+554 2 744
+NP 1 you -1
+
+574 5 744
+NP 1 me -1
+
+1126 1 744
+NP 1 she -1
+
+1641 1 744
+NP 1 her -1
+
+1
+2 3
+ADV 1 1 N
+NP 1 0 N
+ARG1 2 1 0 Y
+0 
+2
+545 8 3593
+XP 2 ADV 0 NP 1
+
+761 5 3593
+XP 2 NP 1 ADV 0
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 2
+1
+546 12 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+547 6 16
+S/PT/NP 2 N 0 V 1
+
+1
+2 3
+N 1 1 N
+S/NP 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+549 17 110
+S/PT 2 S/NP 1 N 0
+
+1
+3 5
+_X_u_unknown 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+551 4 1801
+V 1 <$X> 0
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+552 1 3
+VP/VP 2 V 1 V 0
+
+1
+2 3
+V 1 0 N
+VP/VP 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+553 1 40
+VP/NP 2 VP/VP 1 V 0
+
+1
+2 3
+NP 1 1 N
+XP/XP 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+555 1 3593
+XP 2 XP/XP 1 NP 0
+
+1
+2 3
+_X_u_unknown 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+556 3 537
+AP 1 <$X> 0
+
+1
+2 3
+_X_q 1 1 Y
+generic_entity 1 0 Y
+BV 2 1 0 Y
+1 0
+1
+558 9 630
+DET 1 <$X> 0
+
+1
+2 2
+DET 1 1 N
+V 1 0 N
+2 0 1
+1
+559 1 4
+VP/VP 2 V 1 DET 0
+
+1
+3 4
+V 1 0 N
+ARG1 2 0 2 Y
+ARG2 2 1 0 Y
+VP/VP 2 1 2 N
+1 0
+1
+560 1 85
+VP/PT 2 VP/VP 3 V 0
+
+1
+3 4
+V 1 0 N
+ARG1 2 0 2 Y
+ARG2 2 1 0 Y
+VP/VP 2 1 2 N
+0 
+1
+561 1 1872
+S 3 VP/VP 3 V 0 ? -1
+
+1
+2 3
+ADV 1 1 N
+AP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+562 2 537
+AP 2 ADV 0 AP 1
+
+1
+1 1
+_X_p_loc 1 0 Y
+1 0
+2
+563 23 99
+P 1 <$X> 0
+
+1640 1 99
+P 2 <$X> 0 , -1
+
+1
+3 4
+N 1 2 N
+ARG2 2 0 2 Y
+BV 2 1 2 Y
+PP/N 2 0 1 N
+2 0 2
+1
+564 1 3
+PP/PP 2 PP/N 3 N 0
+
+1
+3 3
+PP 1 0 N
+ARG1 2 0 2 Y
+PP/PP 2 1 2 N
+1 1
+1
+565 2 482
+XP 2 PP/PP 2 PP 0
+
+1
+1 1
+_X_wa/jj_u_unknown 1 0 Y
+1 0
+1
+566 1 537
+AP 1 <$X> 0
+
+1
+1 1
+_X_p_state 1 0 Y
+1 0
+1
+568 12 99
+P 1 <$X> 0
+
+1
+2 2
+DET 1 0 N
+VP/NP 1 1 N
+2 1 0
+1
+569 9 72
+VP/N 2 VP/NP 1 DET 0
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+572 11 2715
+N 1 <$X> 0
+
+1
+2 3
+named 1 0 Y
+proper_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+573 5 58
+S/VP 1 <named> 0
+
+1
+2 3
+_X_a_2 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+1 0
+1
+575 2 900
+ADV 1 <$X> 0
+
+1
+1 1
+_X_v_at 1 0 Y
+0 
+1
+576 4 1872
+S 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+PP 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+577 7 32
+N/PT 2 N 0 PP 1
+
+1
+1 1
+_X_q_indiv 1 0 Y
+1 0
+2
+579 5 630
+DET 1 <$X> 0
+
+1397 2 630
+DET 2 <$X> 0 , -1
+
+1
+3 3
+NP 1 2 N
+ARG2 2 0 2 Y
+XP/NP 2 1 0 N
+2 1 0
+1
+580 1 20
+XP 2 XP/NP 2 NP 0
+
+1
+3 5
+holiday 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+582 1 2715
+N 1 <holiday> 0
+
+1
+2 3
+_X_u_unknown 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+583 7 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+584 4 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_at 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+586 1 2715
+N 1 <$X> 0
+
+1
+2 3
+person 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+587 1 47
+S/PP 1 <what> -1
+
+1
+2 3
+P 1 0 N
+S/PP 1 1 N
+ARG1 2 0 1 Y
+1 0
+2
+588 10 359
+S/NP 2 S/PP 1 P 0
+
+1467 1 359
+S/NP 3 S/PP 1 P 0 , -1
+
+1
+2 2
+_X_p 1 0 Y
+udef_q 1 1 Y
+2 0 1
+2
+589 3 331
+P 1 <$X> 0
+
+1324 2 331
+P 2 <$X> 0 , -1
+
+1
+3 3
+V 1 2 N
+ARG1 2 0 2 Y
+P 2 0 1 N
+2 0 1
+1
+590 1 72
+VP/N 2 V 0 P 2
+
+1
+3 5
+_X_q 1 1 Y
+generic_entity 1 0 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 1
+1
+591 1 630
+DET 1 <$X> 0
+
+1
+2 3
+ADV 1 1 N
+DET 1 0 N
+ARG1 2 1 0 Y
+0 
+2
+592 1 3593
+XP 2 ADV 0 DET 1
+
+877 1 3593
+XP 2 DET 1 ADV 0
+
+1
+3 5
+_X_n_of 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 2
+2
+593 9 2715
+N 1 <$X> 0
+
+708 2 2715
+N 2 <$X> 0 , -1
+
+1
+2 3
+AP 1 1 N
+P 1 0 N
+ARG1 2 0 1 Y
+2 0 1
+1
+594 2 3
+AP/NP 2 AP 0 P 1
+
+1
+3 2
+DET 1 0 N
+AP/NP 2 2 1 N
+3 0 1 2
+1
+595 2 2
+AP/N 2 AP/NP 1 DET 0
+
+1
+4 4
+N 1 2 N
+ARG2 2 0 2 Y
+BV 2 3 2 Y
+AP/N 3 3 1 0 N
+1 1
+1
+596 2 482
+XP 2 AP/N 3 N 0
+
+1
+2 3
+NP 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+1 0
+2
+597 1 19
+S 2 V 1 NP 0
+
+1612 1 19
+S 2 NP 0 V 1
+
+1
+2 3
+NP 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+1 0
+2
+599 1 110
+S/PT 3 V 1 NP 0 really -1
+
+1150 4 110
+S/PT 2 NP 0 V 1
+
+1
+2 2
+_X_p_loc 1 1 Y
+unknown 1 0 Y
+1 0
+1
+601 2 419
+PP 1 <$X> 0
+
+1
+2 3
+DET 1 0 N
+N 1 1 N
+BV 2 0 1 Y
+1 1
+1
+603 8 744
+NP 2 DET 0 N 1
+
+1
+2 3
+DET 1 0 N
+N 1 1 N
+BV 2 0 1 Y
+1 1
+1
+604 1 35
+S/AP 2 DET 0 N 1
+
+1
+1 1
+_X_a_with 1 0 Y
+1 0
+1
+605 7 180
+ADJ 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+XP/N 1 0 N
+BV 2 0 1 Y
+1 0
+1
+606 3 53
+XP/PT 2 XP/N 1 N 0
+
+1
+1 1
+_X_v_be 1 0 Y
+1 0
+1
+609 3 1801
+V 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+2
+610 3 85
+VP/PT 2 ADV 0 V 1
+
+1536 1 85
+VP/PT 2 V 1 ADV 0
+
+1
+3 5
+_X_v_1 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+612 3 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+0 
+2
+613 3 1872
+S 2 <$X> 0 ! -1
+
+1493 2 1872
+S 1 <$X> 0
+
+1
+2 2
+_X_a_1 1 1 Y
+unknown 1 0 Y
+1 0
+1
+614 5 537
+AP 1 <$X> 0
+
+1
+2 3
+NP 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+2 0 1
+2
+615 5 38
+S/VP 2 NP 0 V 1
+
+617 1 38
+S/VP 3 NP 0 V 1 to -1
+
+0
+2
+616 7 8
+COMP 1 to -1
+
+1156 1 8
+COMP 1 that -1
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+618 2 21
+VP 2 V 1 V 0
+
+1
+2 3
+ADV 1 0 N
+VP 1 1 N
+ARG1 2 0 1 Y
+0 
+2
+619 1 1872
+S 2 VP 1 ADV 0
+
+1521 1 1872
+S 3 VP 1 ADV 0 ? -1
+
+1
+2 3
+_X_v_1 1 0 Y
+subord 1 1 Y
+ARG2 2 1 0 Y
+1 1
+2
+621 2 1801
+V 1 <$X> 0
+
+622 1 1801
+V 2 <$X> 0 , -1
+
+1
+2 2
+NP 1 1 N
+V 1 0 N
+2 0 1
+1
+623 2 38
+S/VP 2 V 1 NP 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 0 2 Y
+ARG1 2 2 1 Y
+S/VP 2 0 1 N
+1 0
+1
+624 1 110
+S/PT 2 S/VP 3 V 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 0 2 Y
+ARG1 2 2 1 Y
+S/VP 2 0 1 N
+0 
+2
+625 1 1872
+S 3 S/VP 3 V 0 ! -1
+
+1349 1 1872
+S 3 S/VP 3 V 0 in -1
+
+1
+2 3
+_X_v_there 1 1 Y
+ellipsis_expl 1 0 Y
+ARG1 2 1 0 Y
+1 0
+1
+626 1 110
+S/PT 2 there -1 <$X> 0
+
+1
+2 3
+_X_v_there 1 1 Y
+ellipsis_expl 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+627 1 1872
+S 3 there -1 <$X> 0 ! -1
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+1
+628 2 180
+ADJ 1 <$X> 0
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+1
+629 1 1
+AP/VP 2 <$X> 0 to -1
+
+1
+2 3
+AP/VP 1 1 N
+V 1 0 N
+ARG2 2 1 0 Y
+0 
+1
+630 1 3593
+XP 2 AP/VP 0 V 1
+
+1
+1 1
+_X_a_true 1 0 Y
+1 0
+1
+631 1 537
+AP 1 <$X> 0
+
+1
+2 3
+_X_x_subord 1 0 Y
+unknown 1 1 Y
+ARG2 2 0 1 Y
+2 0 1
+1
+632 6 331
+P 1 <$X> 0
+
+1
+3 3
+N 1 2 N
+ARG 2 1 2 Y
+P 2 0 1 N
+1 0
+1
+633 1 482
+XP 2 P 2 N 0
+
+1
+2 2
+_X_a_2 1 1 Y
+unknown 1 0 Y
+0 
+1
+634 1 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_a_2 1 0 Y
+0 
+1
+635 4 3593
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+thing 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 1
+2
+636 7 12
+S/NP/VP/N 1 <what> -1
+
+1193 4 12
+S/NP/VP/N 2 <what> -1 do -1
+
+1
+2 2
+NP 1 0 N
+S/NP/VP/N 1 1 N
+2 1 0
+1
+637 7 13
+S/VP/N 2 S/NP/VP/N 1 NP 0
+
+1
+1 1
+_X_v_name 1 0 Y
+1 0
+1
+638 6 1801
+V 1 <$X> 0
+
+1
+3 4
+V 1 0 N
+ARG2 2 0 2 Y
+ARG3 2 0 1 Y
+S/VP/N 2 2 1 N
+1 0
+1
+639 6 110
+S/PT 2 S/VP/N 3 V 0
+
+1
+3 4
+V 1 0 N
+ARG2 2 0 2 Y
+ARG3 2 0 1 Y
+S/VP/N 2 2 1 N
+0 
+1
+640 6 1872
+S 3 S/VP/N 3 V 0 ? -1
+
+1
+3 4
+N 1 0 N
+ARG1 2 1 0 Y
+ARG1 2 2 0 Y
+N/N 2 1 2 N
+1 0
+1
+641 2 32
+N/PT 2 N/N 3 N 0
+
+1
+3 5
+loc_nonsp 1 0 Y
+place_n 1 2 Y
+which_q 1 1 Y
+ARG2 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+644 1 744
+NP 1 <what> -1
+
+1
+3 5
+loc_nonsp 1 0 Y
+place_n 1 2 Y
+which_q 1 1 Y
+ARG2 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+645 1 3593
+XP 2 <what> -1 ? -1
+
+1
+3 5
+card 1 2 Y
+number_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+2
+646 4 180
+ADJ 1 <card> 0
+
+1025 1 180
+ADJ 2 <card> 0 , -1
+
+1
+2 3
+more_comp 1 0 Y
+much-many_a 1 1 Y
+ARG1 2 0 1 Y
+1 1
+1
+647 8 180
+ADJ 1 more -1
+
+1
+2 3
+ADJ 1 0 N
+ADJ 1 1 N
+ARG1 2 1 0 Y
+0 
+2
+648 3 3593
+XP 2 ADJ 0 ADJ 1
+
+863 1 3593
+XP 3 ADJ 0 ADJ 1 ! -1
+
+1
+3 5
+_X_n_of 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+649 3 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_bop/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+650 1 3593
+XP 1 <$X> 0
+
+1
+2 3
+pron 1 0 Y
+pronoun_q 1 1 Y
+BV 2 1 0 Y
+1 0
+5
+651 3 1801
+V 1 <pron> -1
+
+1128 7 1801
+V 1 let*’s -1
+
+1335 1 1801
+V 1 lemme -1
+
+1484 1 1801
+V 2 let*’s -1 , -1
+
+1571 1 1801
+V 2 do -1 <pron> -1
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+652 8 359
+S/NP 2 V 0 V 1
+
+1
+2 3
+AP 1 0 N
+PP 1 1 N
+ARG1 2 1 0 Y
+1 0
+2
+653 3 482
+XP 2 AP 0 PP 1
+
+1634 1 482
+XP 3 AP 0 PP 1 ? -1
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+2 0 1
+1
+654 1 5
+S/AP 2 N 0 V 1
+
+1
+1 1
+_X_v_1 1 0 Y
+1 0
+1
+655 1 537
+AP 1 <$X> 0
+
+1
+3 4
+AP 1 2 N
+ARG1 2 2 0 Y
+ARG2 2 1 2 Y
+S/AP 2 1 0 N
+0 
+1
+656 1 1872
+S 2 S/AP 3 AP 0
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+657 1 1801
+V 2 V 1 NP 0
+
+1
+3 5
+_X_v_1 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+2 0 2
+1
+659 1 2
+VP 2 <$X> 0 , -1
+
+1
+3 5
+_X_ha/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+660 1 3593
+XP 1 <$X> 0
+
+1
+4 6
+loc_nonsp 1 1 Y
+place_n 1 3 Y
+unknown 1 2 Y
+which_q 1 0 Y
+ARG2 2 1 3 Y
+BV 2 0 3 Y
+0 
+1
+662 2 3593
+XP 1 <what> -1
+
+1
+3 5
+_X_eek/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+664 1 3593
+XP 1 <$X> 0
+
+1
+2 3
+_X_n_of-2 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+665 3 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+666 2 1872
+S 2 <$X> 0 ! -1
+
+1
+2 3
+P 1 0 N
+P 1 1 N
+ARG1 2 1 0 Y
+1 1
+2
+667 1 8
+PP/PP 2 P 0 P 1
+
+714 1 8
+PP/PP 3 P 0 P 1 , -1
+
+1
+2 3
+PP 1 1 N
+PP/PP 1 0 N
+ARG1 2 1 0 Y
+1 0
+2
+668 1 8
+PP/PP 2 PP/PP 1 PP 0
+
+716 1 8
+PP/PP 3 PP/PP 1 PP 0 , -1
+
+1
+2 3
+_X_v_1 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+1 0
+1
+671 6 1801
+V 1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+672 1 10
+AP/PT 2 AP 0 V 1
+
+1
+2 3
+AP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+0 
+2
+673 1 3593
+XP 3 AP 0 V 1 ! -1
+
+768 3 3593
+XP 2 AP 0 V 1
+
+1
+2 2
+ADV 1 1 N
+PP 1 0 N
+2 1 0
+3
+675 4 20
+XP 2 ADV 0 PP 1
+
+1238 1 20
+XP 3 ADV 0 PP 1 ! -1
+
+1622 1 20
+XP 3 ADV 0 PP 1 ? -1
+
+1
+4 7
+_X_p 1 3 Y
+def_implicit_q 1 1 Y
+place_n 1 0 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+ARG1 2 3 0 Y
+BV 2 1 0 Y
+1 2
+1
+676 2 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_at 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+677 2 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_p 1 2 Y
+def_implicit_q 1 1 Y
+place_n 1 0 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+678 3 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 0 N
+P 1 1 N
+ARG2 2 1 0 Y
+1 1
+3
+679 8 482
+XP 2 P 1 N 0
+
+1016 1 482
+XP 3 P 1 N 0 , -1
+
+1127 1 482
+XP 3 P 1 N 0 ? -1
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG2 2 1 0 Y
+1 0
+3
+680 1 58
+S/VP 2 ADV 0 V 1
+
+1275 1 58
+S/VP 3 ADV 0 V 1 , -1
+
+1277 1 58
+S/VP 5 ADV 0 V 1 , -1 to -1 , -1
+
+1
+1 1
+ellipsis_ref 1 0 Y
+1 0
+1
+681 2 21
+VP 1 to -1
+
+1
+2 3
+S/VP 1 1 N
+VP 1 0 N
+ARG2 2 1 0 Y
+0 
+1
+682 1 1872
+S 2 S/VP 0 VP 1
+
+1
+2 3
+pron 1 0 Y
+pronoun_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+683 8 47
+S/PP 1 <pron> -1
+
+1
+1 1
+_X_p_dir 1 0 Y
+1 0
+1
+684 4 99
+P 1 <$X> 0
+
+1
+3 5
+_X_v_up 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+685 2 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_up 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+686 2 1872
+S 2 <$X> 0 up -1
+
+1
+3 5
+_X_wee/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+687 3 3593
+XP 1 <$X> 0
+
+1
+4 7
+_X_v_1 1 1 Y
+nominalization 1 2 Y
+udef_q 1 3 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+ARG1 2 2 1 Y
+BV 2 3 2 Y
+1 2
+1
+688 2 1801
+V 1 <$X> 0
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+689 3 3593
+XP 2 V 1 V 0
+
+1
+3 5
+season 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+690 3 3593
+XP 1 <season> 0
+
+0
+2
+691 7 8
+S/AP 2 NP -1 V -1
+
+1230 1 8
+S/AP 2 NP-X -1 V -1
+
+1
+3 5
+_X_a_for 1 0 Y
+generic_entity 1 2 Y
+udef_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+692 1 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_a_for 1 0 Y
+generic_entity 1 2 Y
+udef_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+693 1 1872
+S 2 <what> -1 <$X> 0
+
+1
+3 3
+N 1 1 N
+AP/NP 2 2 0 N
+ARG2 2 2 1 Y
+1 0
+1
+694 1 482
+XP 2 AP/NP 1 N 0
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+695 9 47
+S/PP 2 NP 0 V 1
+
+1
+3 5
+_X_v_1 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+2 0 1
+2
+696 2 32
+V 1 <$X> 0
+
+697 1 32
+V 2 <$X> 0 , -1
+
+1
+3 5
+_X_wow/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+698 1 3593
+XP 1 <$X> 0
+
+1
+5 8
+_X_a_1 1 1 Y
+def_implicit_q 1 3 Y
+loc_nonsp 1 0 Y
+place_n 1 2 Y
+unknown 1 4 Y
+ARG1 2 1 2 Y
+ARG2 2 0 2 Y
+BV 2 3 2 Y
+0 
+1
+699 9 3593
+XP 1 <$X> 0
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG2 2 1 0 Y
+1 0
+1
+700 2 359
+S/NP 2 ADV 0 V 1
+
+1
+2 2
+PP 1 0 N
+PP 1 1 N
+1 0
+1
+701 1 57
+PP/PT 2 PP 0 PP 1
+
+1
+2 2
+PP 1 0 N
+PP 1 1 N
+1 0
+2
+702 1 419
+PP 3 PP 0 PP 1 , -1
+
+944 1 419
+PP 2 PP 1 PP 0
+
+1
+2 2
+ADV 1 1 N
+PP 1 0 N
+1 1
+1
+703 1 482
+XP 2 PP 1 ADV 0
+
+1
+2 2
+DET 1 0 N
+S/NP/VP/N 1 1 N
+2 1 0
+1
+704 1 1
+S/N/VP/N 2 S/NP/VP/N 1 DET 0
+
+1
+3 3
+N 1 0 N
+BV 2 1 0 Y
+S/N/VP/N 2 2 1 N
+2 0 2
+1
+705 1 13
+S/VP/N 2 S/N/VP/N 2 N 0
+
+1
+3 4
+V 1 0 N
+ARG1 2 0 2 Y
+ARG2 2 0 1 Y
+S/VP/N 2 2 1 N
+1 0
+1
+706 1 110
+S/PT 2 S/VP/N 3 V 0
+
+1
+3 4
+V 1 0 N
+ARG1 2 0 2 Y
+ARG2 2 0 1 Y
+S/VP/N 2 2 1 N
+0 
+1
+707 1 1872
+S 3 S/VP/N 3 V 0 ? -1
+
+1
+4 7
+_X_v_1 1 0 Y
+nominalization 1 1 Y
+udef_q 1 2 Y
+unknown 1 3 Y
+ARG 2 3 1 Y
+ARG1 2 1 0 Y
+BV 2 2 1 Y
+1 0
+1
+709 1 1801
+V 1 <$X> 0
+
+1
+2 3
+PP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+710 5 3593
+XP 2 V 1 PP 0
+
+1
+3 5
+_X_n_1 1 1 Y
+loc_nonsp 1 2 Y
+udef_q 1 0 Y
+ARG2 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+711 2 2715
+N 1 <$X> 0
+
+1
+2 3
+P 1 0 N
+P 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+713 1 2
+PP/PT/PP 2 P 0 P 1
+
+1
+2 3
+PP 1 1 N
+PP/PP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+715 1 2
+PP/PT/PP 2 PP/PP 1 PP 0
+
+1
+3 5
+_X_v_of 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+717 2 1801
+V 1 <$X> 0
+
+1
+2 3
+NP 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+2 0 1
+1
+719 1 2
+S/PP 2 NP 0 V 1
+
+1
+3 4
+PP 1 2 N
+ARG1 2 2 0 Y
+ARG2 2 1 2 Y
+S/PP 2 1 0 N
+0 
+1
+720 1 1872
+S 2 S/PP 3 PP 0
+
+1
+2 3
+ADV 1 0 N
+PP 1 1 N
+ARG1 2 0 1 Y
+1 0
+2
+721 3 419
+PP 2 ADV 0 PP 1
+
+1359 1 419
+PP 2 PP 1 ADV 0
+
+1
+2 3
+_X_q 1 0 Y
+generic_entity 1 1 Y
+BV 2 0 1 Y
+1 1
+1
+725 1 1801
+V 2 do -1 <$X> 0
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+726 1 47
+S/PP 2 V 0 V 1
+
+1
+3 5
+_X_n_of-about 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+727 2 2715
+N 1 <$X> 0
+
+1
+2 3
+holiday 1 0 Y
+udef_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+729 2 2715
+N 1 <holiday> 0
+
+1
+3 5
+_X_v_cause 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 1
+2
+730 6 1801
+V 1 <$X> 0
+
+1092 1 1801
+V 2 <$X> 0 , -1
+
+1
+2 2
+ADV 1 1 N
+V 1 0 N
+2 1 0
+1
+732 1 1
+XP/PP 2 ADV 0 V 1
+
+1
+2 3
+_X_a_with 1 0 Y
+subord 1 1 Y
+ARG2 2 1 0 Y
+1 1
+1
+733 4 180
+ADJ 1 <$X> 0
+
+1
+3 4
+ADJ 1 2 N
+ARG1 2 0 2 Y
+ARG1 2 2 1 Y
+XP/PP 2 0 1 N
+0 
+1
+734 1 3593
+XP 2 XP/PP 3 ADJ 0
+
+1
+1 1
+_X_v_about 1 0 Y
+0 
+1
+735 1 1872
+S 1 <$X> 0
+
+0
+1
+737 3 3
+XP 1 else -1
+
+1
+3 5
+thing 1 0 Y
+unknown 1 2 Y
+which_q 1 1 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+738 1 32
+N/PT 2 <what> -1 else -1
+
+1
+2 3
+_X_a_for 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+1 0
+1
+740 1 180
+ADJ 1 <$X> 0
+
+1
+1 1
+_X_v_away 1 0 Y
+1 0
+1
+741 1 1801
+V 1 <$X> 0
+
+0
+2
+742 1 5
+PP 1 away -1
+
+843 4 5
+PP 1 back -1
+
+1
+1 1
+_X_v_away 1 0 Y
+0 
+1
+743 1 3593
+XP 2 <$X> 0 away -1
+
+1
+3 5
+_X_q_dem 1 1 Y
+generic_entity 1 0 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+744 1 2715
+N 1 <$X> 0
+
+1
+2 3
+NP 1 1 N
+P 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+747 1 57
+PP/PT 2 P 1 NP 0
+
+1
+2 3
+NP 1 1 N
+P 1 0 N
+ARG2 2 0 1 Y
+1 0
+2
+748 1 482
+XP 3 P 1 NP 0 ? -1
+
+890 2 482
+XP 2 P 1 NP 0
+
+1
+2 2
+CONJ 1 1 N
+PP 1 0 N
+2 1 0
+1
+749 1 3
+PP/PP 2 CONJ 0 PP 1
+
+1
+3 4
+CONJ 1 1 N
+ARG1 2 1 2 Y
+ARG2 2 0 1 Y
+PP/PP 2 0 2 N
+1 1
+1
+750 1 8
+PP/PP 2 PP/PP 3 CONJ 0
+
+1
+2 3
+PP 1 0 N
+PP/PP 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+751 1 1872
+S 2 PP/PP 1 PP 0
+
+1
+3 5
+_X_a_1 1 2 Y
+generic_entity 1 0 Y
+udef_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+752 2 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_a_1 1 2 Y
+generic_entity 1 0 Y
+udef_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+753 2 1872
+S 2 <what> -1 <$X> 0
+
+1
+2 2
+_X_a_1 1 1 Y
+unknown 1 0 Y
+1 0
+1
+754 4 900
+ADV 1 <$X> 0
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+1
+756 1 10
+AP/PT 2 ah -1 <$X> 0
+
+1
+2 2
+card 1 0 Y
+udef_q 1 1 Y
+2 0 1
+1
+758 7 9
+ADJ 1 <card> 0
+
+1
+4 4
+ADJ 2 2 3 N
+ARG1 2 2 1 Y
+BV 2 3 1 Y
+N 2 0 1 N
+1 0
+1
+759 1 27
+NP/PT 2 ADJ 0 N 3
+
+1
+4 4
+ADJ 2 2 3 N
+ARG1 2 2 1 Y
+BV 2 3 1 Y
+N 2 0 1 N
+1 0
+1
+760 1 744
+NP 3 ADJ 0 N 3 , -1
+
+1
+2 3
+_X_v_1 1 1 Y
+_un-_a_rvrs 1 0 Y
+ARG1 2 0 1 Y
+0 
+1
+762 3 1872
+S 2 un- 1 <$X> 0
+
+1
+2 2
+N 1 1 N
+PP 1 0 N
+1 0
+1
+763 4 53
+XP/PT 2 PP 1 N 0
+
+1
+3 5
+_X_v_out 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 2
+2
+765 1 1801
+V 1 <$X> 0
+
+766 1 1801
+V 2 <$X> 0 out -1
+
+1
+3 5
+_X_lo/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+767 1 3593
+XP 1 <$X> 0
+
+1
+2 2
+DET 1 0 N
+PP 1 1 N
+1 0
+1
+770 1 1
+XP/PT/N 2 PP 1 DET 0
+
+1
+2 3
+ADV 1 0 N
+DET 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+772 5 630
+DET 2 ADV 0 DET 1
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 1
+1
+773 1 9
+VP/PP 2 V 1 N 0
+
+1
+2 3
+PP 1 1 N
+VP/PP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+774 6 1872
+S 2 VP/PP 1 PP 0
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 0
+2
+775 15 40
+VP/NP 2 V 1 V 0
+
+1383 1 40
+VP/NP 3 V 1 V 0 , -1
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+776 4 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_too/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+778 1 3593
+XP 1 <$X> 0
+
+1
+2 3
+every_q 1 1 Y
+thing 1 0 Y
+BV 2 1 0 Y
+1 0
+1
+779 1 2715
+N 1 everything -1
+
+1
+2 3
+season 1 1 Y
+udef_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+780 4 2715
+N 1 <season> 0
+
+1
+2 3
+neg 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+1 1
+1
+781 2 900
+ADV 1 not -1
+
+1
+2 2
+_X_p 1 0 Y
+unknown 1 1 Y
+1 1
+1
+783 1 419
+PP 1 <$X> 0
+
+1
+1 1
+_X_x 1 0 Y
+1 0
+1
+785 1 900
+ADV 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+786 2 2715
+N 1 <$X> 0
+
+1
+4 7
+_X_a_1 1 3 Y
+def_implicit_q 1 2 Y
+loc_nonsp 1 1 Y
+place_n 1 0 Y
+ARG1 2 3 0 Y
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+787 6 2715
+N 1 <$X> 0
+
+1
+4 7
+_X_a_1 1 3 Y
+def_implicit_q 1 2 Y
+loc_nonsp 1 1 Y
+place_n 1 0 Y
+ARG1 2 3 0 Y
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+0 
+2
+788 5 3593
+XP 2 <$X> 0 ! -1
+
+812 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+2 2
+ADJ 1 1 N
+V 1 0 N
+2 0 1
+1
+789 2 72
+VP/N 2 V 1 ADJ 0
+
+1
+2 3
+ADV 1 1 N
+AP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+790 1 1
+AP/PP 2 ADV 0 AP 1
+
+1
+2 3
+AP 1 0 N
+AP/PP 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+791 1 3593
+XP 2 AP/PP 1 AP 0
+
+1
+3 5
+_X_a_2 1 0 Y
+generic_entity 1 1 Y
+udef_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+792 1 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_a_2 1 0 Y
+generic_entity 1 1 Y
+udef_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+793 1 1872
+S 2 <what> -1 <$X> 0
+
+1
+3 5
+_X_v_state 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+2 0 2
+2
+794 3 32
+V 1 <$X> 0
+
+1175 1 32
+V 2 <$X> 0 , -1
+
+1
+1 1
+_X_v_sound 1 0 Y
+0 
+1
+795 1 1872
+S 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 0 Y
+compound 1 1 Y
+udef_q 1 2 Y
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+798 1 2715
+N 1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+N 1 1 N
+ARG1 2 1 0 Y
+1 0
+2
+799 2 482
+XP 2 N 1 AP 0
+
+1608 1 482
+XP 3 N 1 AP 0 ? -1
+
+1
+2 3
+AP 1 0 N
+N 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+800 19 32
+N/PT 2 AP 0 N 1
+
+0
+1
+802 1 1
+NP/NP 2 ADV -1 ADV -1
+
+1
+3 5
+named 1 1 Y
+proper_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+803 1 27
+NP/PT 3 ah -1 ah -1 <named> 0
+
+0
+1
+805 1 1
+S/PP 2 NP -1 V -1
+
+1
+5 9
+card 1 4 Y
+generic_entity 1 1 Y
+loc_nonsp 1 3 Y
+number_q 1 2 Y
+udef_q 1 0 Y
+ARG1 2 3 1 Y
+ARG2 2 3 4 Y
+BV 2 0 1 Y
+BV 2 2 4 Y
+1 0
+1
+806 1 180
+ADJ 1 <card> 0
+
+1
+5 9
+card 1 4 Y
+generic_entity 1 1 Y
+loc_nonsp 1 3 Y
+number_q 1 2 Y
+udef_q 1 0 Y
+ARG1 2 3 1 Y
+ARG2 2 3 4 Y
+BV 2 0 1 Y
+BV 2 2 4 Y
+0 
+1
+807 1 1872
+S 2 <what> -1 <card> 0
+
+1
+1 1
+_X_gone/jj_u_unknown 1 0 Y
+1 0
+1
+808 2 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_gone/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 2
+1
+809 1 2715
+N 1 <$X> 0
+
+1
+2 2
+_X_a_1 1 1 Y
+unknown 1 0 Y
+0 
+1
+810 8 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_hoo/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+811 1 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_q 1 0 Y
+generic_entity 1 1 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+813 1 630
+DET 1 <$X> 0
+
+1
+5 9
+generic_entity 1 2 Y
+more_comp 1 3 Y
+much-many_a 1 0 Y
+udef_q 1 1 Y
+unknown 1 4 Y
+ARG 2 4 2 Y
+ARG1 2 0 2 Y
+ARG1 2 3 0 Y
+BV 2 1 2 Y
+1 0
+1
+815 3 180
+ADJ 1 more -1
+
+1
+5 9
+generic_entity 1 2 Y
+more_comp 1 3 Y
+much-many_a 1 0 Y
+udef_q 1 1 Y
+unknown 1 4 Y
+ARG 2 4 2 Y
+ARG1 2 0 2 Y
+ARG1 2 3 0 Y
+BV 2 1 2 Y
+0 
+2
+816 1 3593
+XP 2 more -1 ! -1
+
+903 2 3593
+XP 2 more -1 ? -1
+
+1
+1 1
+polite 1 0 Y
+1 0
+1
+819 3 900
+ADV 1 <polite> 0
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+820 1 6
+S/ADV 2 ADV 0 V 1
+
+1
+2 3
+ADV 1 1 N
+S/ADV 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+821 6 1872
+S 2 S/ADV 1 ADV 0
+
+1
+3 5
+_X_n_of-n 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+822 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_of-n 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+823 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+ADJ 1 1 N
+S/AP 1 0 N
+ARG1 2 1 0 Y
+2 1 0
+2
+824 1 38
+S/VP 2 S/AP 1 ADJ 0
+
+825 1 38
+S/VP 3 S/AP 1 ADJ 0 to -1
+
+1
+4 7
+_X_v_1 1 2 Y
+nominalization 1 3 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 3 Y
+ARG1 2 3 2 Y
+BV 2 1 3 Y
+1 0
+1
+826 1 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_oink_oink/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+827 1 3593
+XP 1 <$X> 0
+
+1
+3 4
+discourse 1 0 Y
+excl 1 2 Y
+unknown 1 1 Y
+ARG1 2 0 2 Y
+1 1
+1
+828 3 900
+ADV 1 <excl> 1
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG2 2 0 1 Y
+0 
+1
+829 3 1872
+S 2 ADV 0 ADV 1
+
+0
+1
+830 1 1
+S/VP 2 NP-X -1 V -1
+
+1
+1 1
+_X_v_1 1 0 Y
+1 0
+1
+831 1 47
+S/PP 2 it -1 <$X> 0
+
+1
+4 7
+_X_a_1 1 0 Y
+def_implicit_q 1 3 Y
+loc_nonsp 1 1 Y
+time_n 1 2 Y
+ARG1 2 0 2 Y
+ARG2 2 1 2 Y
+BV 2 3 2 Y
+1 1
+1
+832 1 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 0 N
+S/PP 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+833 1 1872
+S 2 S/PP 1 N 0
+
+1
+4 7
+free_relative_q 1 1 Y
+loc_nonsp 1 0 Y
+loc_nonsp 1 2 Y
+place_n 1 3 Y
+ARG2 2 0 3 Y
+ARG2 2 2 3 Y
+BV 2 1 3 Y
+1 0
+1
+834 2 6
+NP/PP 1 <what> -1
+
+1
+4 7
+free_relative_q 1 1 Y
+loc_nonsp 1 0 Y
+loc_nonsp 1 2 Y
+place_n 1 3 Y
+ARG2 2 0 3 Y
+ARG2 2 2 3 Y
+BV 2 1 3 Y
+1 0
+1
+835 2 2
+NP/VP/PP 2 <what> -1 it -1
+
+1
+4 7
+free_relative_q 1 1 Y
+loc_nonsp 1 0 Y
+loc_nonsp 1 2 Y
+place_n 1 3 Y
+ARG2 2 0 3 Y
+ARG2 2 2 3 Y
+BV 2 1 3 Y
+1 0
+1
+836 2 27
+NP/PT 2 <what> -1 it -1
+
+1
+4 7
+free_relative_q 1 1 Y
+loc_nonsp 1 0 Y
+loc_nonsp 1 2 Y
+place_n 1 3 Y
+ARG2 2 0 3 Y
+ARG2 2 2 3 Y
+BV 2 1 3 Y
+0 
+1
+837 2 3593
+XP 3 <what> -1 it -1 ? -1
+
+1
+3 5
+_X_q_dem 1 2 Y
+generic_entity 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+838 1 3593
+XP 1 <$X> 0
+
+1
+3 5
+thing 1 2 Y
+unknown 1 1 Y
+which_q 1 0 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+839 1 2715
+N 1 <what> -1
+
+1
+2 2
+N 1 1 N
+S/NP/VP/N 1 0 N
+2 0 1
+1
+840 4 13
+S/VP/N 2 S/NP/VP/N 1 N 0
+
+1
+1 1
+_X_v_back 1 0 Y
+1 0
+1
+841 3 1801
+V 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+842 1 47
+S/PP 2 N 0 V 1
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 1 0 Y
+1 1
+2
+845 1 482
+XP 2 ADV 0 ADV 1
+
+1362 1 482
+XP 2 ADV 1 ADV 0
+
+1
+2 3
+ADV 1 0 N
+XP 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+846 2 3593
+XP 2 XP 1 ADV 0
+
+1
+2 3
+PP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+847 1 482
+XP 2 V 1 PP 0
+
+1
+3 5
+_X_baa/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+2
+848 1 3593
+XP 1 <$X> 0
+
+875 1 3593
+XP 2 <$X> 0 ! -1
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+2 1 0
+1
+850 3 32
+V 2 V 1 N 0
+
+1
+3 4
+PP 1 0 N
+ARG1 2 0 1 Y
+ARG3 2 2 0 Y
+V 2 2 1 N
+0 
+1
+851 2 1872
+S 2 V 3 PP 0
+
+1
+4 7
+_X_p 1 0 Y
+def_implicit_q 1 2 Y
+loc_nonsp 1 3 Y
+place_n 1 1 Y
+ARG1 2 0 1 Y
+ARG2 2 3 1 Y
+BV 2 2 1 Y
+1 3
+1
+852 1 2715
+N 1 <$X> 0
+
+1
+2 3
+discourse 1 0 Y
+greet 1 1 Y
+ARG1 2 0 1 Y
+1 0
+1
+853 3 900
+ADV 1 <greet> 1
+
+1
+2 2
+ADV 1 0 N
+ADV 1 1 N
+1 1
+1
+854 1 110
+S/PT 2 ADV 1 ADV 0
+
+1
+2 2
+ADV 1 0 N
+ADV 1 1 N
+1 1
+1
+855 1 19
+S 3 ADV 1 ADV 0 ! -1
+
+1
+3 5
+card 1 2 Y
+number_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 1
+1
+856 2 180
+ADJ 1 <card> 0
+
+1
+1 1
+_X_q 1 0 Y
+1 0
+2
+858 1 3
+NP/N 2 um -1 <$X> 0
+
+1574 1 3
+NP/N 2 like -1 <$X> 0
+
+1
+2 3
+N 1 0 N
+NP/N 1 1 N
+BV 2 1 0 Y
+0 
+1
+859 3 3593
+XP 2 NP/N 1 N 0
+
+1
+2 2
+NP 1 1 N
+PP 1 0 N
+2 0 1
+1
+860 2 5
+S/VP/PP 2 PP 1 NP 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 0 2 Y
+ARG1 2 2 1 Y
+S/VP/PP 2 0 1 N
+0 
+1
+861 3 1872
+S 2 S/VP/PP 3 V 0
+
+1
+2 3
+ADJ 1 0 N
+ADJ 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+862 1 53
+XP/PT 2 ADJ 0 ADJ 1
+
+1
+3 5
+pron 1 1 Y
+pronoun_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+4
+864 1 3593
+XP 1 me*me -1
+
+958 1 3593
+XP 2 you*see -1 it -1
+
+1054 1 3593
+XP 1 me*,*me -1
+
+1669 1 3593
+XP 2 you -1 ! -1
+
+1
+1 1
+_X_a_of 1 0 Y
+1 0
+2
+865 6 180
+ADJ 1 <$X> 0
+
+866 2 180
+ADJ 2 <$X> 0 , -1
+
+1
+2 3
+ADJ 1 1 N
+PP 1 0 N
+ARG1 2 0 1 Y
+1 1
+1
+867 2 482
+XP 2 ADJ 0 PP 1
+
+1
+3 5
+_X_a_1 1 2 Y
+def_implicit_q 1 1 Y
+place_n 1 0 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+868 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_boy/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+869 1 2715
+N 1 <$X> 0
+
+1
+2 2
+ADV 1 0 N
+N 1 1 N
+2 0 1
+1
+871 1 2
+XP/ADV 2 ADV 0 N 1
+
+1
+3 4
+ADV 1 2 N
+ARG1 2 1 2 Y
+ARG1 2 2 0 Y
+XP/ADV 2 1 0 N
+0 
+1
+872 1 3593
+XP 2 XP/ADV 3 ADV 0
+
+1
+4 7
+_X_v_1 1 2 Y
+nominalization 1 0 Y
+udef_q 1 1 Y
+unknown 1 3 Y
+ARG 2 3 0 Y
+ARG1 2 0 2 Y
+BV 2 1 0 Y
+1 3
+1
+873 1 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_baa/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+874 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_q 1 2 Y
+generic_entity 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+876 1 630
+DET 1 <$X> 0
+
+1
+2 2
+_X_v_buy 1 0 Y
+unknown 1 1 Y
+0 
+1
+878 3 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_v_on 1 0 Y
+0 
+1
+879 2 1872
+S 2 <$X> 0 on -1
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+880 4 110
+S/PT 2 N 0 V 1
+
+1
+1 1
+_X_v_there 1 0 Y
+1 0
+1
+883 5 1801
+V 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+PP 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+885 1 53
+XP/PT 3 ADV 0 PP 1 there -1
+
+1
+1 1
+_X_a_at 1 0 Y
+1 0
+1
+887 1 180
+ADJ 1 <$X> 0
+
+1
+3 5
+_X_a_2 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+888 1 537
+AP 1 <$X> 0
+
+1
+2 3
+S/VP 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+892 11 359
+S/NP 2 S/VP 0 V 1
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+893 1 21
+VP 2 V 1 N 0
+
+1
+3 5
+_X_a_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+895 2 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_a_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+896 1 3593
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_X_v_1 1 2 Y
+generic_entity 1 0 Y
+udef_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+897 1 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 2 Y
+generic_entity 1 0 Y
+udef_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+898 1 1872
+S 2 <what> -1 <$X> 0
+
+1
+3 5
+_X_q 1 0 Y
+person 1 2 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+899 1 3593
+XP 1 <$X> 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 1 2 Y
+ARG1 2 2 0 Y
+S/VP 2 0 1 N
+1 0
+1
+900 2 110
+S/PT 2 S/VP 3 V 0
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+904 1 85
+VP/PT 2 V 0 V 1
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+907 1 1
+V/PT 2 V 1 N 0
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+2
+908 1 1801
+V 3 V 1 N 0 , -1
+
+928 4 1801
+V 2 V 1 N 0
+
+1
+2 3
+ellipsis_ref 1 1 Y
+neg 1 0 Y
+ARG1 2 0 1 Y
+0 
+1
+911 3 1872
+S 1 don’t -1
+
+1
+3 5
+_X_v_1 1 1 Y
+nominalization 1 0 Y
+udef_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 0 Y
+1 0
+1
+912 1 1801
+V 1 <$X> 0
+
+1
+2 3
+_X_n_of 1 1 Y
+udef_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+913 6 2715
+N 1 <$X> 0
+
+1
+1 1
+_X_a_for 1 0 Y
+1 0
+1
+914 2 482
+XP 2 <$X> 0 ? -1
+
+1
+3 4
+N 1 0 N
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+P 2 2 1 N
+1 1
+1
+915 2 419
+PP 2 P 3 N 0
+
+1
+2 3
+PP 1 0 N
+PP 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+916 2 57
+PP/PT 2 PP 1 PP 0
+
+1
+2 3
+PP 1 0 N
+PP 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+917 2 482
+XP 3 PP 1 PP 0 ? -1
+
+1
+3 5
+_X_v_1 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+918 1 21
+VP 2 <$X> 0 , -1
+
+1
+3 4
+_X_a_1 1 1 Y
+more_comp 1 2 Y
+unknown 1 0 Y
+ARG1 2 2 1 Y
+0 
+1
+919 1 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_butter/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+920 1 3593
+XP 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+921 2 53
+XP/PT 2 ADV 0 V 1
+
+1
+3 5
+_X_haw/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+2
+923 1 3593
+XP 1 <$X> 0
+
+1167 1 3593
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+holiday 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+924 2 3593
+XP 1 <holiday> 0
+
+1
+2 3
+discourse 1 0 Y
+greet 1 1 Y
+ARG1 2 0 1 Y
+0 
+1
+925 2 1872
+S 2 <greet> 1 ! -1
+
+1
+3 5
+dofw 1 2 Y
+loc_nonsp 1 1 Y
+proper_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+926 1 2715
+N 1 <dofw> 0
+
+1
+1 1
+_X_v_off 1 0 Y
+1 0
+1
+927 4 1801
+V 1 <$X> 0
+
+1
+2 2
+_X_v_1 1 1 Y
+unknown 1 0 Y
+0 
+1
+930 5 3593
+XP 1 <$X> 0
+
+1
+2 2
+_X_v_2 1 1 Y
+unknown 1 0 Y
+0 
+1
+932 2 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+1
+934 1 53
+XP/PT 2 <$X> 0 ah -1
+
+1
+2 2
+_X_v_cause 1 1 Y
+unknown 1 0 Y
+0 
+1
+936 1 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_baa/nn_u_unknown 1 0 Y
+1 0
+1
+938 1 2715
+N 1 <$X> 0
+
+1
+1 1
+_X_a_of-for 1 0 Y
+1 0
+1
+940 13 180
+ADJ 1 <$X> 0
+
+1
+3 5
+_X_woof/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+941 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_pair 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+943 1 3593
+XP 1 <$X> 0
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+946 2 85
+VP/PT 2 V 1 V 0
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+947 2 1872
+S 3 V 1 V 0 ? -1
+
+1
+3 5
+_X_a_1 1 1 Y
+generic_entity 1 0 Y
+udef_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+948 1 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_a_1 1 1 Y
+generic_entity 1 0 Y
+udef_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+949 1 1872
+S 2 <what> -1 <$X> 0
+
+1
+1 1
+_X_v_out 1 0 Y
+1 0
+1
+951 1 85
+VP/PT 2 <$X> 0 out -1
+
+1
+1 1
+_X_v_out 1 0 Y
+0 
+1
+952 1 1872
+S 3 <$X> 0 out -1 ? -1
+
+1
+3 5
+_X_a_1 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+953 1 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_a_1 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+954 1 1872
+S 1 <$X> 0
+
+1
+1 1
+_X_v_cause 1 0 Y
+0 
+1
+959 5 1872
+S 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 1 Y
+loc_nonsp 1 0 Y
+udef_q 1 2 Y
+ARG2 2 0 1 Y
+BV 2 2 1 Y
+2 0 1
+1
+960 1 25
+N 1 <$X> 0
+
+1
+4 4
+ARG1 2 0 3 Y
+ARG1 2 2 1 Y
+N 2 2 3 N
+VP/N 2 1 0 N
+0 
+1
+961 1 1872
+S 2 VP/N 3 N 2
+
+1
+2 3
+_X_a_1 1 1 Y
+more_comp 1 0 Y
+ARG1 2 0 1 Y
+1 0
+1
+962 1 180
+ADJ 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 1 Y
+more_comp 1 0 Y
+ARG1 2 0 1 Y
+0 
+1
+963 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+4 7
+ellipsis 1 1 Y
+loc_nonsp 1 2 Y
+place_n 1 0 Y
+which_q 1 3 Y
+ARG1 2 2 1 Y
+ARG2 2 2 0 Y
+BV 2 3 0 Y
+1 1
+1
+964 1 19
+S 1 <what> -1
+
+1
+2 3
+S 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+965 2 85
+VP/PT 2 V 1 S 0
+
+1
+2 3
+S 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+966 2 1872
+S 3 V 1 S 0 ? -1
+
+1
+2 3
+thing 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+967 1 1
+S/NP/PP/N 1 <what> -1
+
+1
+2 2
+N 1 1 N
+S/NP/PP/N 1 0 N
+2 0 1
+1
+968 1 2
+S/PP/N 2 S/NP/PP/N 1 N 0
+
+1
+3 4
+P 1 1 N
+ARG1 2 1 0 Y
+ARG2 2 1 2 Y
+S/PP/N 2 2 0 N
+1 0
+1
+969 2 110
+S/PT 2 S/PP/N 3 P 0
+
+1
+3 4
+P 1 1 N
+ARG1 2 1 0 Y
+ARG2 2 1 2 Y
+S/PP/N 2 2 0 N
+0 
+1
+970 2 1872
+S 3 S/PP/N 3 P 0 ? -1
+
+1
+1 1
+_X_v_back 1 0 Y
+0 
+1
+971 1 1872
+S 2 <$X> 0 back -1
+
+1
+3 5
+_X_a_1 1 0 Y
+generic_entity 1 2 Y
+udef_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+973 2 537
+AP 1 <$X> 0
+
+1
+3 5
+_X_a_1 1 0 Y
+generic_entity 1 2 Y
+udef_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+974 2 1872
+S 2 <what> -1 <$X> 0
+
+1
+1 1
+_X_a_for 1 0 Y
+1 0
+1
+976 6 900
+ADV 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 0 Y
+generic_entity 1 1 Y
+udef_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+978 1 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 0 Y
+generic_entity 1 1 Y
+udef_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+979 1 1872
+S 2 <what> -1 <$X> 0
+
+1
+3 5
+_X_moo/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+980 1 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_v_at 1 0 Y
+1 0
+1
+981 1 1801
+V 1 <$X> 0
+
+1
+1 1
+_X_v_at 1 0 Y
+1 0
+1
+982 1 21
+VP 2 <$X> 0 , -1
+
+1
+2 2
+DET 1 0 N
+VP 1 1 N
+2 1 0
+1
+983 1 2
+XP/PT/N 2 VP 1 DET 0
+
+1
+2 2
+DET 1 0 N
+VP 1 1 N
+2 1 0
+1
+984 1 15
+XP/N 3 VP 1 DET 0 , -1
+
+1
+2 3
+named 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+2 0 1
+1
+985 2 25
+N 1 <named> 0
+
+1
+4 3
+BV 2 2 0 Y
+N 2 1 0 N
+XP/N 2 3 2 N
+2 1 3
+1
+986 2 20
+XP 2 XP/N 2 N 1
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+2
+990 4 6
+S/XP 2 NP 0 V 1
+
+1069 1 6
+S/XP 3 NP 0 V 1 , -1
+
+1
+2 3
+ADV 1 0 N
+S/XP 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+991 1 110
+S/PT 2 S/XP 1 ADV 0
+
+1
+2 3
+ADV 1 0 N
+S/XP 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+992 1 19
+S 3 S/XP 1 ADV 0 ! -1
+
+1
+3 5
+_X_c 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 2
+2
+993 7 43
+CONJ 1 <$X> 0
+
+1329 2 43
+CONJ 2 <$X> 0 , -1
+
+1
+2 3
+_X_n_of-to 1 1 Y
+udef_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+994 2 2715
+N 1 <$X> 0
+
+1
+2 3
+CONJ 1 0 N
+N 1 1 N
+ARG2 2 0 1 Y
+0 
+1
+995 7 1872
+S 2 CONJ 0 N 1
+
+1
+2 2
+ADV 1 1 N
+V 1 0 N
+2 1 0
+1
+996 1 5
+S/VP/PP 2 ADV 0 V 1
+
+1
+4 5
+ARG1 2 0 1 Y
+ARG1 2 2 3 Y
+ARG2 2 0 3 Y
+S/VP/PP 2 2 0 N
+V 2 3 1 N
+0 
+1
+997 1 1872
+S 2 S/VP/PP 3 V 4
+
+1
+3 2
+DET 1 0 N
+XP/NP 2 1 2 N
+3 0 1 2
+1
+998 4 6
+XP/N 2 XP/NP 1 DET 0
+
+1
+4 4
+N 1 3 N
+ARG2 2 0 3 Y
+BV 2 1 3 Y
+XP/N 3 1 2 0 N
+2 0 2
+1
+999 4 20
+XP 2 XP/N 3 N 0
+
+1
+2 3
+AP 1 1 N
+P 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+1000 1 1
+AP/NP 2 AP 0 P 1
+
+1
+2 3
+AP/NP 1 0 N
+N 1 1 N
+ARG2 2 0 1 Y
+0 
+1
+1001 1 3593
+XP 2 AP/NP 0 N 1
+
+1
+1 1
+_X_v_in 1 0 Y
+1 0
+1
+1002 10 1801
+V 1 <$X> 0
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1005 2 16
+S/PT/NP 2 NP 0 V 1
+
+1
+2 3
+_root_v_1 1 1 Y
+_under-_a_1 1 0 Y
+ARG1 2 0 1 Y
+0 
+1
+1007 1 1872
+S 1 underroot -1
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1008 2 537
+AP 2 ADV 0 V 1
+
+1
+2 3
+AP 1 1 N
+N 1 0 N
+ARG2 2 1 0 Y
+0 
+1
+1009 2 3593
+XP 2 AP 0 N 1
+
+1
+3 3
+DET 1 0 N
+BV 2 0 1 Y
+N 2 2 1 N
+1 2
+2
+1010 1 744
+NP 2 DET 0 N 2
+
+1062 1 744
+NP 3 DET 0 N 2 , -1
+
+1
+2 2
+_X_v_to 1 1 Y
+unknown 1 0 Y
+1 0
+1
+1012 3 1801
+V 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+V 1 1 N
+ARG2 2 0 1 Y
+0 
+1
+1013 3 3593
+XP 2 ADV 0 V 1
+
+1
+2 3
+_X_n_1 1 0 Y
+idiom_q_i 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+1014 2 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 0 N
+P 1 1 N
+ARG2 2 1 0 Y
+1 1
+1
+1015 2 57
+PP/PT 2 P 1 N 0
+
+1
+3 5
+_X_v_id 1 1 Y
+generic_entity 1 0 Y
+udef_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+1017 4 16
+S/PT/NP 2 <what> -1 <$X> 0
+
+1
+4 7
+_X_v_1 1 3 Y
+nominalization 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+ARG1 2 0 3 Y
+BV 2 1 0 Y
+1 0
+1
+1019 3 1801
+V 1 <$X> 0
+
+1
+2 2
+P 1 1 N
+V 1 0 N
+2 1 0
+1
+1020 1 20
+PP/N 2 P 0 V 1
+
+1
+3 4
+N 1 1 N
+ARG2 2 0 1 Y
+ARG2 2 2 1 Y
+PP/N 2 0 2 N
+1 0
+1
+1021 1 482
+XP 2 PP/N 3 N 0
+
+1
+2 2
+DET 1 1 N
+V 1 0 N
+2 0 1
+1
+1022 1 1
+VP/PT/N 2 V 1 DET 0
+
+1
+2 3
+ADJ 1 1 N
+AP 1 0 N
+ARG1 2 0 1 Y
+0 
+2
+1026 1 3593
+XP 2 ADJ 0 AP 1
+
+1454 1 3593
+XP 2 AP 1 ADJ 0
+
+1
+2 3
+_X_a_1 1 0 Y
+udef_q 1 1 Y
+BV 2 1 0 Y
+1 0
+2
+1027 4 537
+AP 1 <$X> 0
+
+1388 1 537
+AP 2 <$X> 0 , -1
+
+1
+2 3
+AP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+0 
+1
+1028 1 1872
+S 2 AP 0 V 1
+
+1
+3 5
+named 1 1 Y
+proper_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+1030 1 1
+XP/AP 2 <named> 0 like -1
+
+1
+2 3
+AP 1 1 N
+XP/AP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+1031 1 3593
+XP 2 XP/AP 1 AP 0
+
+1
+3 5
+_X_v_1 1 0 Y
+generic_entity 1 2 Y
+udef_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+1032 2 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 0 Y
+generic_entity 1 2 Y
+udef_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+1033 2 359
+S/NP 2 <what> -1 <$X> 0
+
+1
+2 3
+card 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+1034 3 180
+ADJ 1 <card> 0
+
+1
+2 3
+ADJ 1 0 N
+DET 1 1 N
+BV 2 1 0 Y
+1 0
+1
+1035 1 1
+NP/AP 2 DET 1 ADJ 0
+
+1
+2 3
+AP 1 1 N
+NP/AP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+1036 1 3593
+XP 2 NP/AP 1 AP 0
+
+1
+3 5
+_X_n_of 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 2
+1
+1037 1 1
+N/VP/N 2 <$X> 0 to -1
+
+1
+2 2
+N/VP/N 1 0 N
+V 1 1 N
+2 0 1
+1
+1038 1 1
+N/PP/N 2 N/VP/N 0 V 1
+
+1
+3 4
+P 1 2 N
+ARG1 2 2 1 Y
+ARG2 2 2 0 Y
+N/PP/N 2 0 1 N
+0 
+1
+1039 1 3593
+XP 2 N/PP/N 3 P 0
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+1
+1041 1 13
+XP/NP 2 <$X> 0 say -1
+
+1
+2 3
+_X_v_modal 1 1 Y
+ellipsis_ref 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+1042 1 1872
+S 1 <$X> 0
+
+1
+2 3
+thing 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+1043 1 35
+S/AP 1 <what> -1
+
+1
+2 3
+ADJ 1 1 N
+S/AP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1044 1 110
+S/PT 2 S/AP 1 ADJ 0
+
+1
+2 2
+_X_v_1 1 0 Y
+unknown 1 1 Y
+1 1
+1
+1048 1 1801
+V 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1049 1 1
+ADV/PT 2 ADV 0 ADV 1
+
+1
+2 3
+AP 1 0 N
+N 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1052 2 53
+XP/PT 2 N 1 AP 0
+
+1
+1 1
+_X_v_go-of 1 0 Y
+1 0
+1
+1055 1 1801
+V 1 <$X> 0
+
+1
+2 3
+NP 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+1056 3 11
+S/P 2 NP 0 V 1
+
+1
+1 1
+_X_v_1 1 0 Y
+1 0
+1
+1059 2 21
+VP 2 <$X> 0 , -1
+
+1
+2 3
+_X_n_1 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+2 1 0
+1
+1060 2 25
+N 1 <$X> 0
+
+1
+3 3
+DET 1 0 N
+BV 2 0 1 Y
+N 2 2 1 N
+1 2
+1
+1061 1 27
+NP/PT 2 DET 0 N 2
+
+1
+3 2
+DET 1 0 N
+P 2 2 1 N
+3 0 1 2
+1
+1063 3 17
+PP/N 2 P 1 DET 0
+
+1
+4 4
+N 1 2 N
+ARG 2 0 2 Y
+BV 2 1 2 Y
+PP/N 3 1 0 3 N
+1 3
+1
+1064 1 57
+PP/PT 2 PP/N 3 N 0
+
+1
+4 4
+N 1 2 N
+ARG 2 0 2 Y
+BV 2 1 2 Y
+PP/N 3 1 0 3 N
+1 3
+2
+1065 1 482
+XP 3 PP/N 3 N 0 ? -1
+
+1357 2 482
+XP 2 PP/N 3 N 0
+
+1
+2 3
+ADV 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1066 1 10
+AP/PT 2 ADV 0 V 1
+
+1
+2 3
+every_q 1 0 Y
+person 1 1 Y
+BV 2 0 1 Y
+1 1
+1
+1067 1 2715
+N 1 everybody -1
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1068 1 1
+S/PT/XP 2 NP 0 V 1
+
+1
+2 2
+_X_p_dir 1 1 Y
+unknown 1 0 Y
+1 0
+1
+1070 1 419
+PP 1 <$X> 0
+
+1
+2 3
+PP 1 1 N
+S/XP 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+1071 2 1872
+S 2 S/XP 1 PP 0
+
+1
+2 2
+ADV 1 1 N
+V 1 0 N
+2 0 1
+1
+1073 1 1
+VP/NP 2 V 1 ADV 0
+
+1
+3 5
+card 1 2 Y
+loc_nonsp 1 1 Y
+number_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+2 0 1
+1
+1074 1 9
+ADJ 1 <card> 0
+
+1
+4 4
+ADJ 2 2 3 N
+ARG1 2 0 2 Y
+ARG1 2 3 1 Y
+VP/NP 2 1 0 N
+0 
+1
+1075 1 1872
+S 2 VP/NP 3 ADJ 0
+
+1
+3 4
+PP 1 2 N
+ARG1 2 2 1 Y
+ARG3 2 0 2 Y
+V 2 0 1 N
+1 2
+1
+1076 1 1
+VP/ADV 2 V 3 PP 0
+
+1
+2 3
+ADV 1 0 N
+VP/ADV 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+1077 1 1872
+S 2 VP/ADV 1 ADV 0
+
+1
+1 1
+_X_v_prd 1 0 Y
+1 0
+1
+1078 1 1801
+V 1 <$X> 0
+
+1
+3 4
+V 1 1 N
+ARG2 2 0 1 Y
+ARG2 2 1 2 Y
+S/VP 2 0 2 N
+0 
+1
+1079 1 1872
+S 2 S/VP 3 V 0
+
+1
+1 1
+_X_v_from 1 0 Y
+1 0
+2
+1081 3 1801
+V 1 <$X> 0
+
+1410 1 1801
+V 2 <$X> 0 , -1
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+1 1
+1
+1082 1 85
+VP/PT 2 V 1 NP 0
+
+1
+2 2
+DET 1 0 N
+N 1 1 N
+2 1 0
+1
+1084 1 13
+S/VP/N 2 N 1 DET 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 2 1 Y
+ARG2 2 2 0 Y
+S/VP/N 2 0 1 N
+0 
+2
+1085 1 1872
+S 2 S/VP/N 3 V 0
+
+1195 5 1872
+S 3 S/VP/N 3 V 0 ? -1
+
+1
+3 5
+_X_v_modal 1 2 Y
+ellipsis_ref 1 1 Y
+neg 1 0 Y
+ARG1 2 0 2 Y
+ARG1 2 2 1 Y
+1 1
+1
+1086 3 1801
+V 2 <$X> 0 <neg> 2
+
+1
+2 2
+N 1 1 N
+V 1 0 N
+2 1 0
+1
+1087 1 5
+S/AP 2 N 0 V 1
+
+1
+3 4
+ADJ 1 1 N
+ARG1 2 1 0 Y
+ARG1 2 2 1 Y
+S/AP 2 0 2 N
+0 
+1
+1088 1 1872
+S 2 S/AP 3 ADJ 0
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+2
+1089 4 7
+S/NP/P 2 NP 0 V 1
+
+1588 1 7
+S/NP/P 3 NP 0 V 1 , -1
+
+1
+2 3
+NP 1 0 N
+S/NP/P 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+1090 3 11
+S/P 2 S/NP/P 1 NP 0
+
+1
+2 3
+NP 1 0 N
+S/NP/P 1 1 N
+ARG2 2 1 0 Y
+0 
+3
+1091 1 1872
+S 3 S/NP/P 1 NP 0 up -1
+
+1290 1 1872
+S 3 S/NP/P 1 NP 0 in -1
+
+1648 1 1872
+S 3 S/NP/P 1 NP 0 out -1
+
+1
+2 3
+pron 1 0 Y
+pronoun_q 1 1 Y
+BV 2 1 0 Y
+2 1 0
+1
+1093 2 2
+NP 1 <pron> -1
+
+1
+3 3
+ADV 1 1 N
+ARG1 2 1 0 Y
+NP 2 0 2 N
+1 2
+1
+1094 1 744
+NP 2 ADV 0 NP 2
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1095 2 2
+S/P/NP 2 NP 0 V 1
+
+1
+1 1
+_X_q_dem 1 0 Y
+1 0
+1
+1099 1 3
+NP/N 2 ah -1 <$X> 0
+
+1
+1 1
+ellipsis_ref 1 0 Y
+0 
+1
+1100 1 1872
+S 1 ? -1
+
+1
+1 1
+_X_x_subord 1 0 Y
+1 0
+1
+1101 1 1
+PP/AP 2 um -1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+PP/AP 1 1 N
+ARG2 2 1 0 Y
+1 1
+1
+1102 1 419
+PP 2 PP/AP 1 AP 0
+
+1
+2 3
+_lock_v_cause 1 1 Y
+_un-_a_neg 1 0 Y
+ARG1 2 0 1 Y
+1 1
+1
+1103 1 1801
+V 1 unlocked -1
+
+1
+2 3
+S/AP 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+1104 1 110
+S/PT 2 S/AP 0 V 1
+
+1
+2 3
+S/AP 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+1105 1 1872
+S 3 S/AP 0 V 1 ! -1
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+1106 1 9
+VP/PP 2 V 1 V 0
+
+1
+2 3
+P 1 1 N
+VP/PP 1 0 N
+ARG1 2 1 0 Y
+1 1
+1
+1107 1 2
+VP/PT/NP 2 VP/PP 1 P 0
+
+1
+2 3
+P 1 1 N
+VP/PP 1 0 N
+ARG1 2 1 0 Y
+1 1
+2
+1108 1 40
+VP/NP 3 VP/PP 1 P 0 , -1
+
+1412 1 40
+VP/NP 2 VP/PP 1 P 0
+
+1
+2 3
+_X_n_of 1 0 Y
+udef_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+1109 8 2715
+N 1 <$X> 0
+
+1
+1 1
+_X_v_qmodal 1 0 Y
+1 0
+1
+1110 5 1801
+V 1 <$X> 0
+
+1
+2 2
+S/VP 1 1 N
+V 1 0 N
+2 1 0
+1
+1111 1 1
+S/VP/ADV 2 S/VP 0 V 1
+
+1
+3 4
+V 1 0 N
+ARG1 2 0 2 Y
+ARG1 2 1 0 Y
+S/VP/ADV 2 2 1 N
+1 1
+1
+1112 1 6
+S/ADV 2 S/VP/ADV 3 V 0
+
+1
+2 3
+pron 1 0 Y
+pronoun_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+1114 1 1
+S/ADJ 1 <pron> -1
+
+1
+2 3
+_X_a_1 1 0 Y
+superl 1 1 Y
+ARG1 2 1 0 Y
+1 0
+1
+1115 1 180
+ADJ 1 <$X> 0
+
+1
+2 3
+ADJ 1 0 N
+S/ADJ 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+1116 1 1872
+S 2 S/ADJ 1 ADJ 0
+
+1
+2 3
+_happy_a_with 1 1 Y
+_un-_a_neg 1 0 Y
+ARG1 2 0 1 Y
+1 1
+1
+1117 1 180
+ADJ 1 unhappy -1
+
+1
+3 5
+_X_illini/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+1118 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_illini/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+1119 1 3593
+XP 2 <$X> 0 ! -1
+
+1
+2 3
+_X_a_on 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+1 0
+1
+1120 1 180
+ADJ 1 <$X> 0
+
+1
+2 3
+_X_q_dem 1 0 Y
+generic_entity 1 1 Y
+BV 2 0 1 Y
+1 1
+1
+1121 1 58
+S/VP 1 <$X> 0
+
+1
+2 3
+_X_q_dem 1 0 Y
+generic_entity 1 1 Y
+BV 2 0 1 Y
+1 1
+1
+1122 3 35
+S/AP 1 <$X> 0
+
+1
+2 3
+ADJ 1 0 N
+S/AP 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1123 1 47
+S/PP 2 S/AP 1 ADJ 0
+
+1
+2 3
+ADJ 1 0 N
+S/AP 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1125 1 359
+S/NP 3 S/AP 1 ADJ 0 for -1
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+2 0 1
+1
+1129 1 38
+S/VP 2 V 1 V 0
+
+1
+2 3
+ADJ 1 1 N
+N 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1133 2 53
+XP/PT 2 N 1 ADJ 0
+
+1
+1 1
+_X_v_up 1 0 Y
+1 0
+1
+1135 2 85
+VP/PT 2 <$X> 0 up -1
+
+1
+1 1
+_X_v_up 1 0 Y
+0 
+1
+1136 2 1872
+S 3 <$X> 0 up -1 ? -1
+
+1
+2 3
+dofm 1 1 Y
+loc_nonsp 1 0 Y
+ARG2 2 0 1 Y
+2 0 1
+1
+1137 1 25
+N 1 <dofm> 0
+
+1
+4 4
+ARG2 2 3 2 Y
+BV 2 1 0 Y
+N 2 2 0 N
+PP/N 2 3 1 N
+1 3
+1
+1138 1 57
+PP/PT 2 PP/N 3 N 2
+
+1
+4 4
+ARG2 2 3 2 Y
+BV 2 1 0 Y
+N 2 2 0 N
+PP/N 2 3 1 N
+1 3
+1
+1139 1 482
+XP 3 PP/N 3 N 2 ? -1
+
+1
+3 5
+loc_nonsp 1 2 Y
+place_n 1 0 Y
+which_q 1 1 Y
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+1 2
+2
+1140 1 16
+S/PT/NP 1 <what> -1
+
+1373 1 16
+S/PT/NP 2 <what> -1 , -1
+
+1
+2 3
+_X_a_1 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+2 0 1
+1
+1142 1 3
+AP 1 <$X> 0
+
+1
+3 3
+AP 1 2 N
+AP 2 0 1 N
+ARG1 2 0 2 Y
+1 1
+1
+1143 1 1
+AP/ADV 2 AP 0 AP 1
+
+1
+2 3
+ADV 1 1 N
+AP/ADV 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+1144 1 3593
+XP 2 AP/ADV 1 ADV 0
+
+1
+3 2
+ADJ 1 1 N
+ADJ 2 0 2 N
+3 0 1 2
+1
+1145 1 1
+NP/N 2 ADJ 1 ADJ 0
+
+1
+4 5
+N 1 2 N
+ARG1 2 0 2 Y
+ARG1 2 1 2 Y
+BV 2 3 2 Y
+NP/N 3 1 0 3 N
+0 
+1
+1146 1 3593
+XP 2 NP/N 4 N 0
+
+1
+3 5
+_X_wow_wow/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+1147 1 3593
+XP 1 <$X> 0
+
+1
+3 5
+named 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+1148 1 2715
+N 1 <named> 0
+
+1
+1 1
+_X_v_there 1 0 Y
+1 0
+1
+1152 3 359
+S/NP 2 there -1 <$X> 0
+
+1
+2 3
+P 1 1 N
+V 1 0 N
+ARG2 2 1 0 Y
+1 1
+1
+1153 1 419
+PP 2 P 0 V 1
+
+1
+2 3
+NP 1 1 N
+PP 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+1154 1 53
+XP/PT 2 PP 1 NP 0
+
+1
+1 1
+_X_q 1 0 Y
+1 0
+1
+1157 1 1
+S/N/VP 2 <what> -1 <$X> 0
+
+1
+2 3
+N 1 1 N
+S/N/VP 1 0 N
+BV 2 0 1 Y
+1 1
+1
+1158 1 58
+S/VP 2 S/N/VP 1 N 0
+
+1
+2 3
+N 1 1 N
+S/N/VP 1 0 N
+BV 2 0 1 Y
+1 1
+1
+1159 1 35
+S/AP 2 S/N/VP 1 N 0
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1161 1 359
+S/NP 2 ADV 0 V 1
+
+1
+1 1
+_X_a_disc 1 0 Y
+1 0
+1
+1163 2 900
+ADV 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 2 Y
+loc_nonsp 1 1 Y
+udef_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 2
+1
+1165 2 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_haw/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+1166 1 2715
+N 1 <$X> 0
+
+1
+3 5
+named 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+1168 1 2715
+N 1 <named> 0
+
+1
+3 5
+named 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+1169 1 744
+NP 2 um -1 <named> 0
+
+1
+2 3
+AP 1 1 N
+NP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+1170 2 3593
+XP 2 NP 1 AP 0
+
+1
+1 1
+_X_v_in 1 0 Y
+0 
+1
+1171 2 1872
+S 2 <$X> 0 in -1
+
+1
+2 3
+N 1 1 N
+VP/NP 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+1173 6 85
+VP/PT 2 VP/NP 1 N 0
+
+1
+2 2
+CONJ 1 0 N
+N 1 1 N
+2 0 1
+1
+1176 1 38
+S/VP 2 CONJ 0 N 1
+
+1
+3 4
+V 1 1 N
+ARG1 2 1 0 Y
+ARG2 2 2 1 Y
+S/VP 2 2 0 N
+0 
+2
+1177 1 3593
+XP 2 S/VP 3 V 0
+
+1518 1 3593
+XP 3 S/VP 3 V 0 back -1
+
+1
+3 5
+_X_u_unknown 1 2 Y
+generic_entity 1 1 Y
+udef_q 1 0 Y
+ARG1 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+1178 3 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 2 Y
+generic_entity 1 1 Y
+udef_q 1 0 Y
+ARG1 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+1179 1 47
+S/PP 2 <what> -1 <$X> 0
+
+1
+2 3
+_X_v_cause 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+1 0
+1
+1180 1 1801
+V 1 <$X> 0
+
+1
+2 3
+S/PP 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+1181 2 1872
+S 2 S/PP 0 V 1
+
+1
+2 3
+DET 1 0 N
+S/NP 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+1182 3 1872
+S 2 S/NP 1 DET 0
+
+1
+2 3
+P 1 0 N
+PP 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+1183 1 419
+PP 2 P 0 PP 1
+
+1
+2 3
+_X_a_at-for-of 1 0 Y
+subord 1 1 Y
+ARG2 2 1 0 Y
+1 1
+2
+1184 2 180
+ADJ 1 <$X> 0
+
+1185 1 180
+ADJ 2 <$X> 0 , -1
+
+1
+2 2
+CONJ 1 0 N
+DET 1 1 N
+2 0 1
+1
+1187 1 1
+S/N/VP 2 CONJ 0 DET 1
+
+1
+3 3
+N 1 1 N
+BV 2 0 1 Y
+S/N/VP 2 2 0 N
+2 1 2
+1
+1188 2 38
+S/VP 2 S/N/VP 2 N 0
+
+1
+3 3
+V 1 2 N
+ARG2 2 0 2 Y
+S/VP 2 1 0 N
+2 1 2
+1
+1189 1 38
+S/VP 2 S/VP 2 V 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 1 2 Y
+ARG1 2 2 0 Y
+S/VP 2 0 1 N
+0 
+1
+1190 1 3593
+XP 2 S/VP 3 V 0
+
+1
+2 3
+_X_a_also 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+1 1
+1
+1191 1 900
+ADV 1 <$X> 0
+
+1
+2 3
+ADV 1 1 N
+S/XP 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+1192 3 1872
+S 2 S/XP 1 ADV 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 2 1 Y
+ARG2 2 2 0 Y
+S/VP/N 2 0 1 N
+1 0
+1
+1194 5 110
+S/PT 2 S/VP/N 3 V 0
+
+1
+3 4
+N 1 1 N
+ADJ 2 0 2 N
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+1196 1 744
+NP 2 ADJ 1 N 0
+
+1
+2 3
+ADJ 1 0 N
+NP 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+1197 1 3593
+XP 2 NP 1 ADJ 0
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1198 1 1801
+V 2 V 1 N 0
+
+1
+2 3
+_X_a_2 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+1199 2 537
+AP 1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+DET 1 1 N
+BV 2 1 0 Y
+0 
+2
+1200 3 3593
+XP 2 DET 1 AP 0
+
+1671 1 3593
+XP 3 DET 1 AP 0 ? -1
+
+1
+2 2
+NP 1 1 N
+PP 1 0 N
+1 0
+1
+1201 1 53
+XP/PT 2 PP 1 NP 0
+
+1
+3 5
+_X_woofwoof/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+1203 1 3593
+XP 1 <$X> 0
+
+1
+2 2
+ADJ 1 1 N
+V 1 0 N
+2 0 1
+1
+1204 1 5
+V/N 2 V 1 ADJ 0
+
+1
+3 4
+N 1 1 N
+ARG1 2 0 1 Y
+ARG2 2 2 1 Y
+V/N 2 2 0 N
+1 0
+1
+1205 1 1801
+V 2 V/N 3 N 0
+
+1
+3 4
+N 1 1 N
+ARG1 2 0 1 Y
+ARG2 2 2 1 Y
+V/N 2 2 0 N
+0 
+1
+1206 1 1872
+S 3 V/N 3 N 0 on -1
+
+1
+4 7
+property 1 2 Y
+prpstn_to_prop 1 3 Y
+unspec_a 1 1 Y
+which_q 1 0 Y
+ARG1 2 3 1 Y
+ARG2 2 3 2 Y
+BV 2 0 2 Y
+1 0
+1
+1207 1 537
+AP 1 how -1
+
+1
+4 7
+property 1 2 Y
+prpstn_to_prop 1 3 Y
+unspec_a 1 1 Y
+which_q 1 0 Y
+ARG1 2 3 1 Y
+ARG2 2 3 2 Y
+BV 2 0 2 Y
+0 
+1
+1208 1 3593
+XP 2 how -1 ? -1
+
+1
+2 3
+AP 1 0 N
+CONJ 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1209 3 3
+AP/AP 2 AP 0 CONJ 1
+
+1
+2 3
+AP 1 0 N
+AP/AP 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+1210 3 3593
+XP 2 AP/AP 1 AP 0
+
+1
+3 5
+_X_v_1 1 0 Y
+nominalization 1 1 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+ARG1 2 1 0 Y
+1 1
+1
+1211 1 1801
+V 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 1 Y
+udef_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+1213 2 537
+AP 1 <$X> 0
+
+1
+2 3
+AP 1 1 N
+S/NP 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+1214 3 1872
+S 2 S/NP 1 AP 0
+
+1
+2 3
+AP 1 0 N
+VP 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1216 2 85
+VP/PT 2 VP 1 AP 0
+
+1
+2 3
+AP 1 0 N
+VP 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+1217 2 1872
+S 3 VP 1 AP 0 ? -1
+
+1
+2 3
+S/VP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+1219 1 35
+S/AP 2 S/VP 0 V 1
+
+1
+2 3
+AP 1 0 N
+S/AP 1 1 N
+ARG1 2 1 0 Y
+0 
+1
+1220 1 1872
+S 2 S/AP 1 AP 0
+
+1
+2 3
+ADV 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1221 1 1
+AP/P 2 ADV 0 V 1
+
+1
+2 3
+_X_n_meas 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+1223 2 2715
+N 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+1224 1 16
+S/PT/NP 2 N 0 V 1
+
+1
+2 2
+DET 1 1 N
+S/NP 1 0 N
+2 0 1
+1
+1226 3 3
+S/PT/N 2 S/NP 1 DET 0
+
+1
+2 3
+ADJ 1 0 N
+P 1 1 N
+ARG1 2 1 0 Y
+2 1 0
+1
+1228 1 3
+AP/NP 2 ADJ 0 P 1
+
+1
+1 1
+_X_a_1 1 0 Y
+0 
+3
+1231 1 1872
+S 2 it -1 <$X> 0
+
+1554 1 1872
+S 3 it -1 <$X> 0 ? -1
+
+1604 1 1872
+S 1 <$X> 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 2 0 Y
+ARG2 2 1 2 Y
+S/VP 2 1 0 N
+1 2
+1
+1232 1 47
+S/PP 2 S/VP 3 V 0
+
+1
+3 5
+_X_a_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+1233 2 537
+AP 1 <$X> 0
+
+1
+2 3
+DET 1 0 N
+N 1 1 N
+BV 2 0 1 Y
+1 1
+1
+1234 4 6
+NP/PP 2 DET 0 N 1
+
+1
+2 3
+NP/PP 1 0 N
+PP 1 1 N
+ARG1 2 1 0 Y
+0 
+1
+1235 3 3593
+XP 2 NP/PP 0 PP 1
+
+1
+2 3
+ADJ 1 0 N
+PP 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+1236 1 3593
+XP 2 PP 1 ADJ 0
+
+1
+2 2
+ADV 1 1 N
+PP 1 0 N
+2 1 0
+1
+1237 2 3
+XP/PT 2 ADV 0 PP 1
+
+1
+3 5
+_X_q_dem 1 1 Y
+generic_entity 1 2 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+1241 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+1 1
+_X_v_1 1 0 Y
+1 0
+2
+1243 1 85
+VP/PT 2 <$X> 0 you*know -1
+
+1572 1 85
+VP/PT 1 <$X> 0
+
+1
+2 2
+AP 1 0 N
+XP/N 1 1 N
+2 1 0
+1
+1245 1 15
+XP/N 2 XP/N 1 AP 0
+
+1
+3 4
+N 1 1 N
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+XP/N 2 2 0 N
+0 
+1
+1246 1 3593
+XP 2 XP/N 3 N 0
+
+1
+4 7
+card 1 3 Y
+generic_entity 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+ARG1 2 3 1 Y
+BV 2 0 1 Y
+1 2
+1
+1247 1 2715
+N 1 <card> 0
+
+1
+2 2
+ADV 1 0 N
+N 1 1 N
+2 1 0
+1
+1248 1 1
+N/VP 2 N 1 ADV 0
+
+1
+3 4
+V 1 0 N
+ARG1 2 2 0 Y
+ARG2 2 0 1 Y
+N/VP 2 1 2 N
+0 
+1
+1249 1 3593
+XP 2 N/VP 3 V 0
+
+1
+2 3
+ellipsis_expl 1 0 Y
+neg 1 1 Y
+ARG1 2 1 0 Y
+1 0
+1
+1251 1 1801
+V 1 isn’t -1
+
+1
+2 3
+ellipsis_expl 1 0 Y
+neg 1 1 Y
+ARG1 2 1 0 Y
+0 
+1
+1252 1 1872
+S 2 there -1 isn’t -1
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG2 2 0 1 Y
+1 1
+1
+1253 1 482
+XP 2 ADV 0 ADV 1
+
+1
+2 3
+DET 1 0 N
+N 1 1 N
+BV 2 0 1 Y
+1 1
+1
+1255 1 1
+NP/NP 3 DET 0 N 1 of -1
+
+1
+2 3
+N 1 0 N
+NP/NP 1 1 N
+ARG1 2 1 0 Y
+0 
+1
+1256 1 3593
+XP 2 NP/NP 1 N 0
+
+1
+3 5
+named 1 1 Y
+proper_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 2
+1
+1258 1 2715
+N 1 <named> 0
+
+1
+3 5
+_X_n_1 1 2 Y
+compound 1 0 Y
+udef_q 1 1 Y
+ARG2 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+1259 1 2715
+N 1 <$X> 0
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1260 1 6
+S/ADV 2 NP 0 V 1
+
+1
+4 6
+_X_v_1 1 3 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+udef_q 1 0 Y
+ARG1 2 3 2 Y
+BV 2 1 2 Y
+2 0 3
+1
+1261 3 32
+V 1 <$X> 0
+
+1
+3 4
+N 1 2 N
+ARG3 2 0 2 Y
+BV 2 1 2 Y
+V 2 1 0 N
+0 
+1
+1262 3 1872
+S 2 V 3 N 0
+
+1
+2 3
+ADV 1 1 N
+CONJ 1 0 N
+ARG2 2 0 1 Y
+1 1
+1
+1263 1 1
+ADV-C 2 CONJ 1 ADV 0
+
+1
+2 3
+ADV-C 1 1 N
+N 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+1264 1 3593
+XP 2 ADV-C 0 N 1
+
+1
+2 3
+CONJ 1 1 N
+V 1 0 N
+ARG2 2 1 0 Y
+1 0
+1
+1266 1 1
+VP-C/PP 2 CONJ 0 V 1
+
+1
+2 3
+PP 1 1 N
+VP-C/PP 1 0 N
+ARG3 2 0 1 Y
+0 
+1
+1267 1 1872
+S 2 VP-C/PP 1 PP 0
+
+1
+2 3
+_X_u_unknown 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+1 0
+1
+1269 1 537
+AP 1 <$X> 0
+
+1
+2 3
+AP 1 1 N
+S/PP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1270 1 110
+S/PT 2 S/PP 1 AP 0
+
+1
+2 3
+AP 1 1 N
+S/PP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+1271 1 1872
+S 3 S/PP 1 AP 0 ! -1
+
+1
+1 1
+_X_v_qmodal-2 1 0 Y
+1 0
+1
+1273 1 1801
+V 1 <$X> 0
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG2 2 1 0 Y
+1 0
+2
+1274 1 2
+S/PT/VP 2 ADV 0 V 1
+
+1276 1 2
+S/PT/VP 4 ADV 0 V 1 , -1 to -1
+
+1
+2 3
+S/VP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+1278 1 2
+S/PT/PP 2 S/VP 0 V 1
+
+1
+2 3
+S/VP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+1279 1 47
+S/PP 3 S/VP 0 V 1 , -1
+
+1
+2 2
+N 1 1 N
+VP 1 0 N
+2 0 1
+1
+1281 1 20
+XP 2 VP 1 N 0
+
+1
+2 2
+AP 1 0 N
+DET 1 1 N
+2 1 0
+1
+1282 7 9
+NP/N 2 DET 1 AP 0
+
+1
+2 3
+_X_a_1 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+1283 1 537
+AP 1 <$X> 0
+
+1
+3 4
+AP 1 2 N
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+NP/N 2 1 0 N
+0 
+1
+1284 1 3593
+XP 2 NP/N 3 AP 0
+
+1
+1 1
+_X_v_from 1 0 Y
+0 
+1
+1285 2 1872
+S 1 <$X> 0
+
+1
+2 3
+ADJ 1 1 N
+S/PP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+1286 1 1872
+S 2 S/PP 1 ADJ 0
+
+1
+2 2
+_X_p_temp 1 1 Y
+udef_q 1 0 Y
+2 0 1
+1
+1287 1 331
+P 1 <$X> 0
+
+1
+3 4
+N 1 0 N
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+P 2 1 2 N
+2 2 0
+1
+1288 1 3
+PP/PP 2 P 3 N 0
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1289 1 7
+S/NP/P 2 N 0 V 1
+
+1
+3 5
+_X_u_unknown 1 2 Y
+generic_entity 1 1 Y
+udef_q 1 0 Y
+ARG1 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+1291 2 359
+S/NP 2 <what> -1 <$X> 0
+
+1
+4 7
+_X_a_1 1 3 Y
+def_implicit_q 1 0 Y
+loc_nonsp 1 1 Y
+place_n 1 2 Y
+ARG1 2 3 2 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+1292 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_yucky/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+1293 1 3593
+XP 1 <$X> 0
+
+1
+2 2
+ADV 1 1 N
+CONJ 1 0 N
+1 1
+1
+1294 1 19
+S 2 CONJ 1 ADV 0
+
+1
+2 3
+ADJ 1 1 N
+VP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1295 1 85
+VP/PT 2 VP 1 ADJ 0
+
+1
+3 5
+_X_n_pair 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+1297 1 3593
+XP 1 <$X> 0
+
+1
+2 3
+ADJ 1 0 N
+ADJ 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+1298 1 482
+XP 2 ADJ 0 ADJ 1
+
+1
+2 3
+NP 1 0 N
+XP/NP 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+1299 1 53
+XP/PT 2 XP/NP 1 NP 0
+
+1
+1 1
+_X_x_deg 1 0 Y
+1 0
+1
+1301 1 1
+VP/AP 1 <$X> 0
+
+1
+3 5
+_X_a_1 1 2 Y
+pron 1 0 Y
+pronoun_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+1302 1 537
+AP 1 <$X> 0
+
+1
+2 3
+AP 1 1 N
+VP/AP 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+1303 1 85
+VP/PT 2 VP/AP 1 AP 0
+
+1
+2 3
+AP 1 1 N
+VP/AP 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+1304 1 1872
+S 3 VP/AP 1 AP 0 ! -1
+
+1
+2 3
+AP 1 1 N
+CONJ 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+1305 1 1872
+S 2 CONJ 1 AP 0
+
+1
+1 1
+_X_v_nv 1 0 Y
+1 0
+1
+1306 2 1801
+V 1 <$X> 0
+
+1
+2 2
+DET 1 1 N
+V 1 0 N
+2 0 1
+1
+1307 1 1
+VP/N/VP 2 V 1 DET 0
+
+1
+3 3
+N 1 0 N
+BV 2 2 0 Y
+VP/N/VP 2 1 2 N
+2 0 1
+1
+1308 1 4
+VP/VP 2 VP/N/VP 2 N 0
+
+1
+3 4
+V 1 1 N
+ARG1 2 1 2 Y
+ARG2 2 0 1 Y
+VP/VP 2 2 0 N
+0 
+1
+1309 1 1872
+S 2 VP/VP 3 V 0
+
+1
+2 2
+CONJ 1 0 N
+NP 1 1 N
+2 0 1
+1
+1310 2 38
+S/VP 2 CONJ 0 NP 1
+
+1
+2 2
+CONJ 1 0 N
+NP 1 1 N
+2 0 1
+1
+1311 1 5
+S/AP 2 CONJ 0 NP 1
+
+1
+3 4
+AP 1 2 N
+ARG1 2 2 0 Y
+ARG2 2 1 2 Y
+S/AP 2 1 0 N
+0 
+1
+1312 1 3593
+XP 2 S/AP 3 AP 0
+
+1
+4 7
+_X_v_1 1 3 Y
+nominalization 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+ARG1 2 1 3 Y
+BV 2 0 1 Y
+1 3
+1
+1313 1 1801
+V 1 <$X> 0
+
+1
+1 1
+udef_q 1 0 Y
+1 0
+1
+1314 1 99
+P 1 of -1
+
+1
+2 2
+N 1 1 N
+P 1 0 N
+2 1 0
+1
+1315 1 16
+N/N 2 N 0 P 1
+
+1
+3 4
+N 1 2 N
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+N/N 2 0 1 N
+0 
+1
+1316 1 3593
+XP 2 N/N 3 N 0
+
+1
+2 3
+card 1 1 Y
+loc_nonsp 1 0 Y
+ARG2 2 0 1 Y
+1 1
+1
+1318 2 180
+ADJ 1 <card> 0
+
+1
+3 4
+ADJ 1 0 N
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+NP/N 2 2 1 N
+0 
+2
+1319 2 3593
+XP 2 NP/N 3 ADJ 0
+
+1621 1 3593
+XP 3 NP/N 3 ADJ 0 ? -1
+
+1
+2 2
+ADJ 1 1 N
+AP 1 0 N
+2 1 0
+1
+1320 1 16
+N/N 2 ADJ 0 AP 1
+
+1
+2 3
+_X_a_1 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+1321 2 537
+AP 1 <$X> 0
+
+1
+2 3
+_X_v_modal 1 0 Y
+neg 1 1 Y
+ARG1 2 1 0 Y
+1 0
+2
+1323 2 1801
+V 2 <$X> 0 <neg> 1
+
+1381 1 1801
+V 3 <$X> 0 <neg> 1 , -1
+
+1
+3 4
+N 1 0 N
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+P 2 2 1 N
+1 2
+1
+1325 2 482
+XP 2 P 3 N 0
+
+1
+2 2
+ADV 1 0 N
+ADV 1 1 N
+2 0 1
+1
+1331 1 1
+S/PT/S/PP 2 ADV 1 ADV 0
+
+1
+2 2
+ADV 1 0 N
+ADV 1 1 N
+2 0 1
+1
+1332 1 2
+S/S/PP 3 ADV 1 ADV 0 , -1
+
+1
+3 2
+N 1 2 N
+S/S/PP 2 0 1 N
+3 0 1 2
+1
+1333 1 1
+S/VP/PP 2 S/S/PP 1 N 0
+
+1
+4 5
+V 1 0 N
+ARG1 2 0 3 Y
+ARG1 2 1 0 Y
+ARG1 2 2 0 Y
+S/VP/PP 3 1 2 3 N
+0 
+1
+1334 1 1872
+S 2 S/VP/PP 4 V 0
+
+1
+3 2
+ADV 1 0 N
+P 2 2 1 N
+3 0 1 2
+1
+1336 2 6
+XP/N 2 ADV 0 P 1
+
+1
+4 4
+N 1 0 N
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+XP/N 3 3 2 1 N
+2 2 3
+2
+1337 1 20
+XP 2 XP/N 3 N 0
+
+1515 1 20
+XP 3 XP/N 3 N 0 ! -1
+
+1
+2 3
+_X_a_of 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+1 0
+1
+1338 2 537
+AP 1 <$X> 0
+
+1
+2 3
+thing 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+1339 1 2
+S/ADV/VP 1 <what> -1
+
+1
+2 2
+ADV 1 1 N
+S/ADV/VP 1 0 N
+2 0 1
+1
+1340 2 38
+S/VP 2 S/ADV/VP 1 ADV 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 0 2 Y
+ARG2 2 2 1 Y
+S/VP 2 1 0 N
+1 0
+1
+1341 1 110
+S/PT 2 S/VP 3 V 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 0 2 Y
+ARG2 2 2 1 Y
+S/VP 2 1 0 N
+0 
+2
+1342 1 1872
+S 3 S/VP 3 V 0 ? -1
+
+1657 1 1872
+S 2 S/VP 3 V 0
+
+1
+2 2
+_X_u_unknown 1 1 Y
+unknown 1 0 Y
+1 0
+1
+1344 2 900
+ADV 1 <$X> 0
+
+1
+2 2
+DET 1 0 N
+PP/NP 1 1 N
+2 1 0
+1
+1345 1 20
+PP/N 2 PP/NP 1 DET 0
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1346 1 9
+VP/PP 2 ADV 0 V 1
+
+1
+2 2
+ADV 1 1 N
+NP 1 0 N
+2 1 0
+1
+1347 3 38
+S/VP 2 ADV 0 NP 1
+
+1
+3 4
+V 1 2 N
+ARG1 2 0 2 Y
+ARG1 2 2 1 Y
+S/VP 2 0 1 N
+1 0
+1
+1348 1 11
+S/P 2 S/VP 3 V 0
+
+1
+3 5
+_X_gobble/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+1350 1 3593
+XP 1 <$X> 0
+
+1
+1 1
+_X_v_2 1 0 Y
+0 
+1
+1351 4 1872
+S 1 <$X> 0
+
+1
+2 3
+named 1 0 Y
+proper_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+1352 1 1
+S/AP/ADV 1 <named> 0
+
+1
+2 3
+AP 1 0 N
+S/AP/ADV 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1353 1 6
+S/ADV 2 S/AP/ADV 1 AP 0
+
+1
+3 5
+_X_v_cause 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+1354 1 40
+VP/NP 2 <$X> 0 like -1
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1355 1 1801
+V 2 V 1 ADV 0
+
+1
+3 4
+V 1 0 N
+ARG1 2 0 2 Y
+ARG2 2 0 1 Y
+V 2 1 2 N
+0 
+1
+1356 1 1872
+S 2 V 0 V 3
+
+1
+1 1
+_X_a_also 1 0 Y
+1 0
+1
+1358 2 900
+ADV 1 <$X> 0
+
+1
+3 5
+_X_n_of-on 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+1361 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 2 Y
+compound 1 1 Y
+udef_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+1363 2 2715
+N 1 <$X> 0
+
+1
+2 3
+ADJ 1 0 N
+N 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+1364 1 10
+AP/PT 2 N 1 ADJ 0
+
+1
+2 3
+ADJ 1 0 N
+N 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+1365 1 482
+XP 3 N 1 ADJ 0 ? -1
+
+1
+2 2
+NP 1 1 N
+V 1 0 N
+2 1 0
+1
+1366 1 2
+S/PT/VP 2 NP 0 V 1
+
+1
+3 4
+V 1 2 N
+ARG1 2 0 2 Y
+ARG1 2 2 1 Y
+S/VP 2 1 0 N
+2 2 1
+1
+1368 1 2
+S/PT/VP 2 S/VP 3 V 0
+
+1
+3 5
+_X_q_dem 1 0 Y
+generic_entity 1 1 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+1370 1 2715
+N 1 <$X> 0
+
+1
+3 4
+N 1 2 N
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+NP/N 2 1 0 N
+0 
+2
+1371 4 3593
+XP 2 NP/N 3 N 0
+
+1618 1 3593
+XP 3 NP/N 3 N 0 ! -1
+
+1
+2 3
+_X_v_modal 1 0 Y
+ellipsis_ref 1 1 Y
+ARG1 2 0 1 Y
+1 1
+1
+1375 3 1801
+V 1 <$X> 0
+
+1
+1 1
+dofw 1 0 Y
+1 0
+1
+1376 1 2715
+N 1 <dofw> 0
+
+1
+2 2
+ADV 1 0 N
+ADV 1 1 N
+2 0 1
+1
+1377 1 1
+S/NP/VP 2 ADV 1 ADV 0
+
+1
+4 3
+ARG1 2 0 1 Y
+NP 2 1 2 N
+S/NP/VP 2 0 3 N
+2 2 3
+1
+1378 1 38
+S/VP 2 S/NP/VP 2 NP 1
+
+1
+2 3
+ADV 1 1 N
+PP 1 0 N
+ARG2 2 1 0 Y
+0 
+1
+1380 1 3593
+XP 2 ADV 0 PP 1
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+1382 1 2
+VP/PT/NP 2 V 1 V 0
+
+1
+2 2
+ADV 1 1 N
+PP 1 0 N
+2 1 0
+1
+1384 1 2
+S/S/PP 2 ADV 0 PP 1
+
+1
+3 4
+V 1 1 N
+ARG1 2 0 1 Y
+ARG1 2 2 1 Y
+S/S/PP 2 2 0 N
+0 
+1
+1385 1 1872
+S 2 S/S/PP 3 V 0
+
+1
+3 4
+N 1 1 N
+ADJ 2 0 2 N
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+1386 4 3593
+XP 2 ADJ 1 N 0
+
+1
+2 3
+named 1 0 Y
+proper_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+1387 2 47
+S/PP 1 <named> 0
+
+1
+2 2
+ADV 1 0 N
+ADV 1 1 N
+2 0 1
+1
+1390 1 5
+XP/AP 2 ADV 1 ADV 0
+
+1
+3 5
+_X_a_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+2 2 1
+1
+1391 1 3
+AP 1 <$X> 0
+
+1
+4 4
+AP 2 2 1 N
+ARG1 2 0 2 Y
+ARG1 2 3 1 Y
+XP/AP 2 3 0 N
+0 
+1
+1392 1 3593
+XP 2 XP/AP 3 AP 0
+
+1
+2 3
+PP 1 1 N
+VP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1393 1 85
+VP/PT 2 VP 1 PP 0
+
+1
+3 5
+abstr_deg 1 1 Y
+measure 1 0 Y
+which_q 1 2 Y
+ARG2 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+1395 1 900
+ADV 1 how -1
+
+1
+1 1
+_X_u_unknown 1 0 Y
+1 0
+1
+1396 1 359
+S/NP 1 <$X> 0
+
+1
+3 5
+_X_v_x-off 1 0 Y
+pron 1 2 Y
+pronoun_q 1 1 Y
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+1 0
+2
+1398 1 1801
+V 1 <$X> 0
+
+1399 1 1801
+V 2 <$X> 0 off -1
+
+1
+1 1
+ord 1 0 Y
+1 0
+1
+1400 1 180
+ADJ 1 <ord> 0
+
+1
+2 2
+ADJ 1 1 N
+DET 1 0 N
+2 0 1
+1
+1401 2 9
+NP/N 2 DET 1 ADJ 0
+
+1
+2 3
+_X_v_qmodal 1 0 Y
+ellipsis_ref 1 1 Y
+ARG1 2 0 1 Y
+1 1
+1
+1402 1 1801
+V 1 <$X> 0
+
+1
+1 1
+_X_a_of 1 0 Y
+1 0
+1
+1403 2 537
+AP 1 <$X> 0
+
+1
+2 2
+ADV 1 1 N
+CONJ 1 0 N
+1 1
+1
+1405 1 1
+ADV/ADV 2 ADV 0 CONJ 1
+
+1
+2 2
+ADV 1 1 N
+ADV/ADV 1 0 N
+2 0 1
+1
+1406 1 20
+XP 2 ADV/ADV 1 ADV 0
+
+1
+3 3
+ADJ 1 0 N
+ARG 2 2 0 Y
+P 2 1 2 N
+1 1
+1
+1407 1 482
+XP 2 P 2 ADJ 0
+
+1
+3 5
+_X_v_1 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+1408 1 1
+V/PP 1 <$X> 0
+
+1
+2 3
+PP 1 1 N
+V/PP 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+1409 1 1872
+S 2 PP 0 V/PP 1
+
+1
+2 3
+PP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1411 2 9
+VP/PP 2 V 1 PP 0
+
+1
+3 5
+_X_v_in 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+1413 1 1801
+V 1 <$X> 0
+
+1
+2 3
+ADJ 1 1 N
+S/AP 1 0 N
+ARG1 2 1 0 Y
+2 1 0
+1
+1414 1 5
+S/AP 2 S/AP 1 ADJ 0
+
+1
+3 3
+CONJ 1 1 N
+ARG1 2 1 0 Y
+S/AP 2 0 2 N
+2 1 2
+1
+1415 1 5
+S/AP 2 S/AP 2 CONJ 0
+
+1
+3 4
+ADJ 1 1 N
+ARG1 2 1 0 Y
+ARG2 2 2 1 Y
+S/AP 2 2 0 N
+0 
+1
+1416 1 1872
+S 2 S/AP 3 ADJ 0
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1417 2 6
+S/ADV 2 N 0 V 1
+
+1
+2 2
+ADJ 1 0 N
+ADV 1 1 N
+2 1 0
+1
+1418 1 5
+XP/AP 2 ADV 1 ADJ 0
+
+1
+3 3
+CONJ 1 1 N
+ARG1 2 1 0 Y
+XP/AP 2 2 0 N
+2 1 2
+1
+1419 1 5
+XP/AP 2 XP/AP 2 CONJ 0
+
+1
+3 3
+AP 1 0 N
+ARG2 2 2 0 Y
+XP/AP 2 2 1 N
+1 1
+1
+1420 1 482
+XP 2 XP/AP 2 AP 0
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+2 0 2
+1
+1422 1 25
+N 1 <$X> 0
+
+1
+3 3
+ADV 1 0 N
+ARG1 2 0 2 Y
+N 2 2 1 N
+1 1
+1
+1423 1 2
+XP/S 2 ADV 0 N 2
+
+1
+3 3
+ADV 1 0 N
+ARG1 2 0 2 Y
+N 2 2 1 N
+1 1
+1
+1424 1 1
+XP/VP/NP 3 ADV 0 N 2 there -1
+
+1
+2 3
+V 1 0 N
+XP/VP/NP 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+1425 1 3593
+XP 2 XP/VP/NP 1 V 0
+
+1
+3 4
+neg 1 2 Y
+pron 1 1 Y
+pronoun_q 1 0 Y
+BV 2 0 1 Y
+2 1 2
+1
+1426 1 32
+V 1 <neg> -1
+
+1
+3 2
+ADV 1 0 N
+V 2 2 1 N
+3 0 1 2
+1
+1427 1 1
+S/VP 2 ADV 0 V 1
+
+1
+4 5
+V 1 2 N
+ARG1 2 0 2 Y
+ARG1 2 1 2 Y
+ARG1 2 2 3 Y
+S/VP 3 1 0 3 N
+0 
+1
+1428 1 1872
+S 2 S/VP 4 V 0
+
+1
+1 1
+_X_a_also 1 0 Y
+1 0
+1
+1429 2 419
+PP 1 <$X> 0
+
+1
+4 7
+_X_a_1 1 2 Y
+def_implicit_q 1 0 Y
+time_n 1 3 Y
+unknown 1 1 Y
+ARG 2 1 3 Y
+ARG1 2 2 3 Y
+BV 2 0 3 Y
+1 0
+1
+1430 1 2715
+N 1 <$X> 0
+
+1
+2 2
+ADV 1 1 N
+V 1 0 N
+2 1 0
+1
+1431 1 2
+S/PP 2 ADV 0 V 1
+
+1
+3 4
+AP 1 1 N
+ARG1 2 1 2 Y
+ARG2 2 0 1 Y
+S/PP 2 0 2 N
+0 
+1
+1432 1 1872
+S 2 S/PP 3 AP 0
+
+1
+3 5
+_X_v_back 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+1433 1 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_back 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+1434 1 1872
+S 2 <$X> 0 back -1
+
+1
+2 3
+DET 1 0 N
+N 1 1 N
+BV 2 0 1 Y
+1 1
+1
+1435 1 1
+NP/S 2 DET 0 N 1
+
+1
+2 3
+NP/S 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+1436 1 27
+NP/PT 2 NP/S 0 V 1
+
+1
+2 3
+NP/S 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+1437 1 3593
+XP 3 NP/S 0 V 1 ? -1
+
+1
+2 3
+ADJ 1 1 N
+ADV 1 0 N
+ARG1 2 0 1 Y
+1 1
+2
+1439 1 482
+XP 2 ADJ 0 ADV 1
+
+1453 7 482
+XP 2 ADV 1 ADJ 0
+
+1
+3 5
+_X_v_sound 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+1440 1 1801
+V 1 <$X> 0
+
+1
+2 3
+_X_n_1 1 1 Y
+udef_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+1441 1 35
+S/AP 1 <$X> 0
+
+1
+2 2
+_X_p 1 1 Y
+unknown 1 0 Y
+1 0
+1
+1443 1 419
+PP 1 <$X> 0
+
+1
+2 3
+PP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+1444 1 47
+S/PP 2 PP 0 V 1
+
+1
+2 3
+P 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+2 0 1
+1
+1445 1 1
+V/PP 2 V 1 P 0
+
+1
+3 3
+PP 1 1 N
+ARG1 2 1 0 Y
+V/PP 2 0 2 N
+1 2
+1
+1446 1 1801
+V 2 V/PP 2 PP 0
+
+1
+3 5
+_X_oof/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+1447 1 3593
+XP 1 <$X> 0
+
+1
+4 7
+_X_v_1 1 0 Y
+nominalization 1 1 Y
+udef_q 1 3 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+ARG1 2 1 0 Y
+BV 2 3 1 Y
+1 0
+1
+1448 1 1801
+V 1 <$X> 0
+
+1
+2 3
+PP 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+1449 1 3593
+XP 2 V 1 PP 0
+
+1
+1 1
+_X_boo/nn_u_unknown 1 0 Y
+1 0
+1
+1450 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_v_out 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+1455 1 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_out 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+1456 1 1872
+S 2 <$X> 0 out -1
+
+1
+3 5
+_X_n_of 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+1457 2 2715
+N 1 <$X> 0
+
+1
+2 3
+AP 1 1 N
+S/AP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1458 2 110
+S/PT 2 S/AP 1 AP 0
+
+1
+2 3
+AP 1 0 N
+N 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+1460 3 2715
+N 2 AP 0 N 1
+
+1
+2 3
+ADV 1 1 N
+CONJ 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+1463 3 1872
+S 2 CONJ 1 ADV 0
+
+1
+2 3
+thing 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+1464 1 2
+S/PT/PP 1 <what> -1
+
+1
+2 3
+P 1 0 N
+S/PP 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1466 1 16
+S/PT/NP 2 S/PP 1 P 0
+
+1
+3 5
+named 1 0 Y
+proper_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+2 1 0
+1
+1468 1 25
+N 1 <named> 0
+
+1
+3 3
+ADV 1 0 N
+ARG1 2 0 2 Y
+N 2 2 1 N
+1 1
+1
+1469 2 7
+XP/PP 2 ADV 0 N 2
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+1470 2 40
+VP/NP 2 V 1 V 0
+
+1
+2 3
+named 1 0 Y
+proper_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+1471 5 35
+S/AP 1 <named> 0
+
+1
+2 3
+thing 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+1472 2 58
+S/VP 1 <what> -1
+
+1
+2 3
+S/VP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+1473 1 110
+S/PT 2 S/VP 0 V 1
+
+1
+2 3
+PP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 1
+1
+1475 1 85
+VP/PT 2 V 1 PP 0
+
+1
+1 1
+_X_x 1 0 Y
+1 0
+1
+1477 1 2715
+N 1 <$X> 0
+
+1
+1 1
+_X_v_1 1 0 Y
+1 0
+2
+1478 1 9
+VP/PP 2 <$X> 0 like -1
+
+1586 1 9
+VP/PP 2 ah -1 <$X> 0
+
+1
+2 3
+P 1 1 N
+VP/PP 1 0 N
+ARG1 2 1 0 Y
+1 1
+1
+1479 1 3
+VP/VP 2 VP/PP 1 P 0
+
+1
+2 3
+V 1 1 N
+VP/VP 1 0 N
+ARG2 2 0 1 Y
+0 
+1
+1480 2 1872
+S 2 VP/VP 1 V 0
+
+1
+3 5
+_X_n_of 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+1481 1 2715
+N 1 <$X> 0
+
+1
+3 4
+N 1 2 N
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+VP/N 2 1 0 N
+1 1
+1
+1483 1 21
+VP 2 VP/N 3 N 0
+
+1
+3 5
+card 1 0 Y
+number_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+1485 1 180
+ADJ 1 <card> 0
+
+1
+2 2
+AP 1 0 N
+PP 1 1 N
+1 0
+1
+1486 1 54
+XP/N 2 PP 1 AP 0
+
+1
+2 3
+N 1 1 N
+XP/N 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+1487 1 3593
+XP 2 XP/N 1 N 0
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1488 1 19
+S 2 NP 0 V 1
+
+1
+2 3
+ADV 1 1 N
+S 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+1489 1 1872
+S 2 S 1 ADV 0
+
+1
+2 2
+_X_v_at 1 1 Y
+unknown 1 0 Y
+0 
+1
+1490 1 3593
+XP 1 <$X> 0
+
+1
+3 5
+_X_toot/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+1491 1 3593
+XP 1 <$X> 0
+
+1
+2 3
+_X_v_modal 1 1 Y
+ellipsis_ref 1 0 Y
+ARG1 2 1 0 Y
+1 0
+1
+1492 1 1801
+V 1 <$X> 0
+
+1
+1 1
+_X_a_of-for 1 0 Y
+1 0
+1
+1494 1 537
+AP 2 <$X> 0 , -1
+
+1
+2 2
+ADV 1 1 N
+AP 1 0 N
+2 0 1
+1
+1495 1 20
+XP 2 AP 1 ADV 0
+
+1
+2 2
+ADV 1 0 N
+N 1 1 N
+2 1 0
+1
+1496 2 5
+XP/AP 2 N 1 ADV 0
+
+1
+3 4
+AP 1 2 N
+ARG1 2 1 2 Y
+ARG1 2 2 0 Y
+XP/AP 2 0 1 N
+0 
+2
+1497 1 3593
+XP 2 XP/AP 3 AP 0
+
+1644 1 3593
+XP 3 XP/AP 3 AP 0 ? -1
+
+1
+2 2
+NP 1 1 N
+V 1 0 N
+2 0 1
+1
+1498 2 32
+V 2 V 1 NP 0
+
+1
+1 1
+_X_v_nv 1 0 Y
+1 0
+1
+1499 1 1
+S/S 2 there -1 <$X> 0
+
+1
+2 2
+DET 1 0 N
+S/S 1 1 N
+2 1 0
+1
+1500 1 38
+S/VP 2 S/S 1 DET 0
+
+1
+2 3
+place_n 1 0 Y
+which_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+1501 2 744
+NP 1 <what> -1
+
+1
+2 3
+place_n 1 0 Y
+which_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+1502 1 1
+S/VP/N 2 <what> -1 to -1
+
+1
+2 2
+S/VP/N 1 1 N
+V 1 0 N
+2 1 0
+1
+1503 1 2
+S/PP/N 2 S/VP/N 0 V 1
+
+1
+2 3
+_X_n_of-about 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+1504 1 2715
+N 1 <$X> 0
+
+1
+2 3
+place_n 1 0 Y
+which_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+1505 1 12
+S/NP/VP/N 2 <what> -1 do -1
+
+1
+2 3
+CONJ 1 1 N
+V 1 0 N
+ARG2 2 1 0 Y
+0 
+1
+1506 1 1872
+S 2 CONJ 0 V 1
+
+1
+3 4
+V 1 1 N
+ARG1 2 1 2 Y
+ARG2 2 0 1 Y
+V 2 0 2 N
+1 0
+1
+1507 1 1
+VP/P 2 V 3 V 0
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+2 0 1
+1
+1509 1 25
+N 1 <$X> 0
+
+1
+3 3
+AP 1 1 N
+ARG1 2 1 0 Y
+N 2 2 0 N
+1 2
+1
+1510 1 2715
+N 2 AP 0 N 2
+
+1
+3 5
+_X_v_on 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+1512 1 1872
+S 2 <$X> 0 on -1
+
+1
+1 1
+_X_v_about 1 0 Y
+1 0
+1
+1513 2 1801
+V 1 <$X> 0
+
+1
+4 4
+N 1 0 N
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+XP/N 3 3 2 1 N
+2 2 3
+1
+1514 1 3
+XP/PT 2 XP/N 3 N 0
+
+1
+3 4
+V 1 1 N
+ARG1 2 1 0 Y
+ARG2 2 2 1 Y
+S/VP 2 2 0 N
+1 0
+1
+1517 1 47
+S/PP 2 S/VP 3 V 0
+
+1
+2 3
+N 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1519 1 6
+S/XP 2 N 0 V 1
+
+1
+2 3
+ADV 1 0 N
+VP 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1520 1 85
+VP/PT 2 VP 1 ADV 0
+
+1
+2 3
+ADJ 1 0 N
+CONJ 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+1522 1 1872
+S 2 CONJ 1 ADJ 0
+
+1
+2 3
+pron 1 0 Y
+pronoun_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+1524 1 2
+S/ADV/VP 1 <pron> -1
+
+1
+3 4
+V 1 0 N
+ARG1 2 0 2 Y
+ARG1 2 1 0 Y
+S/VP 2 2 1 N
+1 0
+1
+1525 1 47
+S/PP 2 S/VP 3 V 0
+
+1
+2 3
+CONJ 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+1526 1 3
+VP/VP 2 V 1 CONJ 0
+
+1
+2 2
+DET 1 0 N
+PP 1 1 N
+1 0
+1
+1527 2 2
+PP/N 2 PP 1 DET 0
+
+1
+2 3
+N 1 0 N
+PP/N 1 1 N
+BV 2 1 0 Y
+0 
+1
+1528 2 3593
+XP 2 PP/N 1 N 0
+
+1
+2 2
+DET 1 1 N
+V 1 0 N
+2 0 1
+1
+1530 1 2
+XP/PT/N 2 V 1 DET 0
+
+1
+2 2
+DET 1 1 N
+V 1 0 N
+2 0 1
+1
+1531 1 15
+XP/N 3 V 1 DET 0 , -1
+
+1
+2 3
+_X_n_of 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+2 0 1
+1
+1532 1 25
+N 1 <$X> 0
+
+1
+3 5
+_X_a_1 1 0 Y
+def_implicit_q 1 2 Y
+time_n 1 1 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+1533 1 2715
+N 1 <$X> 0
+
+1
+2 3
+_X_n_of-2 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+2 0 1
+1
+1534 1 25
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+1535 1 2715
+N 1 <$X> 0
+
+1
+3 5
+season 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+1538 3 2715
+N 1 <season> 0
+
+1
+3 5
+loc_nonsp 1 2 Y
+season 1 0 Y
+udef_q 1 1 Y
+ARG2 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+1539 1 2715
+N 1 <season> 1
+
+1
+3 4
+ellipsis 1 2 Y
+thing 1 1 Y
+which_q 1 0 Y
+BV 2 0 1 Y
+1 2
+1
+1540 1 19
+S 1 <what> -1
+
+1
+2 3
+_X_v_1 1 0 Y
+subord 1 1 Y
+ARG2 2 1 0 Y
+2 1 0
+1
+1543 1 32
+V 1 <$X> 0
+
+1
+3 3
+V 1 2 N
+ARG1 2 0 2 Y
+V 2 0 1 N
+1 1
+1
+1544 1 9
+VP/PP 2 V 0 V 2
+
+1
+3 5
+season 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+2 0 1
+1
+1545 1 25
+N 1 <season> 0
+
+1
+2 3
+P 1 0 N
+V 1 1 N
+ARG2 2 0 1 Y
+2 0 1
+1
+1546 1 1
+PP/NP 2 P 0 V 1
+
+1
+3 3
+N 1 1 N
+ARG2 2 2 1 Y
+PP/NP 2 0 2 N
+1 0
+1
+1547 1 482
+XP 2 PP/NP 2 N 0
+
+1
+1 1
+much-many_a 1 0 Y
+1 0
+1
+1548 1 180
+ADJ 1 many -1
+
+1
+2 3
+ADJ 1 1 N
+ADV 1 0 N
+ARG1 2 0 1 Y
+1 1
+1
+1549 1 180
+ADJ 2 ADV 1 ADJ 0
+
+1
+2 3
+ellipsis_ref 1 0 Y
+neg 1 1 Y
+ARG1 2 1 0 Y
+2 1 0
+2
+1550 1 32
+V 1 ’m*not -1
+
+1601 1 32
+V 1 aren’t -1
+
+1
+3 3
+NP 1 1 N
+ARG1 2 0 1 Y
+V 2 2 0 N
+1 2
+1
+1551 1 47
+S/PP 2 NP 0 V 2
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+1
+1553 1 110
+S/PT 2 it -1 <$X> 0
+
+1
+1 1
+_X_a_with 1 0 Y
+1 0
+1
+1555 1 537
+AP 1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+P 1 1 N
+ARG2 2 1 0 Y
+1 1
+1
+1557 1 57
+PP/PT 2 P 1 AP 0
+
+1
+2 3
+AP 1 0 N
+P 1 1 N
+ARG2 2 1 0 Y
+1 1
+1
+1558 1 482
+XP 3 P 1 AP 0 ? -1
+
+1
+2 3
+_X_a_to 1 1 Y
+subord 1 0 Y
+ARG2 2 0 1 Y
+1 0
+1
+1560 1 180
+ADJ 1 <$X> 0
+
+1
+2 3
+N 1 0 N
+S/NP/P 1 1 N
+ARG2 2 1 0 Y
+1 0
+2
+1562 2 11
+S/P 2 S/NP/P 1 N 0
+
+1590 1 11
+S/P 3 S/NP/P 1 N 0 , -1
+
+1
+2 3
+N 1 0 N
+S/NP/P 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+1563 2 110
+S/PT 3 S/NP/P 1 N 0 on -1
+
+1
+2 3
+N 1 0 N
+S/NP/P 1 1 N
+ARG2 2 1 0 Y
+0 
+2
+1564 2 1872
+S 4 S/NP/P 1 N 0 on -1 ? -1
+
+1591 1 1872
+S 4 S/NP/P 1 N 0 , -1 on -1
+
+1
+2 3
+_X_n_capacity 1 1 Y
+udef_q 1 0 Y
+BV 2 0 1 Y
+1 1
+1
+1565 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_q_dem 1 1 Y
+generic_entity 1 2 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+1
+1566 1 2715
+N 1 <$X> 0
+
+1
+4 7
+more_comp 1 0 Y
+much-many_a 1 3 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 3 Y
+ARG1 2 3 1 Y
+BV 2 2 1 Y
+2 3 1
+1
+1567 1 9
+ADJ 1 more -1
+
+1
+3 4
+V 1 2 N
+ADJ 2 1 0 N
+ARG1 2 2 0 Y
+ARG2 2 2 1 Y
+0 
+1
+1568 1 1872
+S 2 V 0 ADJ 1
+
+1
+2 2
+_X_a_1 1 1 Y
+udef_q 1 0 Y
+2 0 1
+1
+1569 1 3
+AP 1 <$X> 0
+
+1
+3 4
+ADJ 1 0 N
+AP 2 2 1 N
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+1570 1 482
+XP 2 ADJ 0 AP 1
+
+1
+4 7
+_X_v_to 1 2 Y
+nominalization 1 0 Y
+udef_q 1 1 Y
+unknown 1 3 Y
+ARG 2 3 0 Y
+ARG1 2 0 2 Y
+BV 2 1 0 Y
+1 2
+1
+1573 1 1801
+V 1 <$X> 0
+
+1
+2 3
+_X_q_dem 1 1 Y
+generic_entity 1 0 Y
+BV 2 1 0 Y
+1 0
+1
+1575 1 35
+S/AP 1 <$X> 0
+
+1
+3 2
+V 1 2 N
+S/N 2 1 0 N
+3 0 1 2
+1
+1576 1 1
+S/N 2 S/N 1 V 0
+
+1
+4 5
+N 1 2 N
+ARG1 2 1 2 Y
+ARG2 2 3 2 Y
+BV 2 0 2 Y
+S/N 3 0 1 3 N
+1 0
+1
+1577 1 110
+S/PT 2 S/N 4 N 0
+
+1
+4 5
+N 1 2 N
+ARG1 2 1 2 Y
+ARG2 2 3 2 Y
+BV 2 0 2 Y
+S/N 3 0 1 3 N
+0 
+1
+1578 1 1872
+S 3 S/N 4 N 0 ? -1
+
+1
+2 3
+_X_c 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+1579 1 1872
+S 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+2 1 2
+1
+1580 1 32
+V 1 <$X> 0
+
+1
+3 4
+V 1 1 N
+ARG1 2 1 2 Y
+ARG2 2 1 0 Y
+V 2 0 2 N
+1 0
+1
+1581 1 9
+VP/PP 2 V 0 V 3
+
+1
+3 5
+_X_v_from 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+1582 1 1801
+V 1 <$X> 0
+
+1
+2 2
+N 1 1 N
+V 1 0 N
+2 1 0
+1
+1583 1 38
+S/VP 2 N 0 V 1
+
+1
+3 5
+_X_p 1 2 Y
+def_implicit_q 1 1 Y
+place_n 1 0 Y
+ARG1 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+1585 1 35
+S/AP 1 <$X> 0
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1587 1 1
+S/PT/NP/P 2 NP 0 V 1
+
+1
+2 3
+N 1 0 N
+S/NP/P 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+1589 1 1
+S/PT/P 2 S/NP/P 1 N 0
+
+1
+2 2
+ADV 1 1 N
+NP 1 0 N
+2 0 1
+1
+1592 1 38
+S/VP 2 NP 1 ADV 0
+
+1
+3 5
+_X_q 1 1 Y
+generic_entity 1 0 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+2 2 0
+1
+1593 1 1
+DET 1 <$X> 0
+
+1
+3 3
+ADV 1 2 N
+ARG1 2 2 0 Y
+DET 2 0 1 N
+1 1
+1
+1594 1 2
+XP/S 2 ADV 0 DET 2
+
+1
+2 3
+V 1 0 N
+XP/S 1 1 N
+ARG2 2 0 1 Y
+0 
+1
+1595 1 3593
+XP 2 XP/S 1 V 0
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG2 2 0 1 Y
+1 0
+1
+1597 1 40
+VP/NP 3 V 1 N 0 to -1
+
+1
+2 3
+NP 1 1 N
+VP/NP 1 0 N
+ARG3 2 0 1 Y
+0 
+1
+1598 1 1872
+S 2 VP/NP 1 NP 0
+
+1
+2 2
+CONJ 1 0 N
+DET 1 1 N
+2 0 1
+1
+1599 1 1
+PP-CJ/N 2 CONJ 0 DET 1
+
+1
+4 4
+ARG2 2 3 1 Y
+BV 2 0 2 Y
+N 2 1 2 N
+PP-CJ/N 2 3 0 N
+0 
+1
+1600 1 1872
+S 2 PP-CJ/N 3 N 2
+
+1
+4 4
+ARG1 2 1 3 Y
+ARG1 2 2 0 Y
+S/VP 2 1 0 N
+V 2 3 2 N
+0 
+1
+1602 2 1872
+S 2 S/VP 2 V 3
+
+1
+3 4
+VP 1 1 N
+ARG1 2 1 0 Y
+ARG2 2 2 1 Y
+S/VP 2 2 0 N
+0 
+1
+1606 1 1872
+S 2 S/VP 3 VP 0
+
+1
+2 3
+AP 1 0 N
+N 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+1607 1 10
+AP/PT 2 N 1 AP 0
+
+1
+3 5
+_X_v_1 1 2 Y
+generic_entity 1 1 Y
+udef_q 1 0 Y
+ARG1 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+1609 1 1801
+V 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 2 Y
+generic_entity 1 1 Y
+udef_q 1 0 Y
+ARG1 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+1610 1 359
+S/NP 2 <what> -1 <$X> 0
+
+1
+3 5
+_X_n_1 1 1 Y
+loc_nonsp 1 0 Y
+udef_q 1 2 Y
+ARG2 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+1611 1 2715
+N 1 <$X> 0
+
+1
+2 3
+_X_v_modal 1 1 Y
+ellipsis_ref 1 0 Y
+ARG1 2 1 0 Y
+2 1 0
+1
+1615 1 32
+V 1 <$X> 0
+
+1
+3 4
+N 1 2 N
+ARG1 2 0 2 Y
+BV 2 1 2 Y
+NP/N 2 1 0 N
+1 0
+1
+1617 1 27
+NP/PT 2 NP/N 3 N 0
+
+1
+3 4
+ADJ 1 0 N
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+NP/N 2 2 1 N
+1 0
+1
+1620 1 27
+NP/PT 2 NP/N 3 ADJ 0
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+1
+1623 1 1
+XP/VP 1 <$X> 0
+
+1
+2 3
+V 1 0 N
+XP/VP 1 1 N
+ARG1 2 1 0 Y
+0 
+1
+1624 1 3593
+XP 2 XP/VP 1 V 0
+
+1
+3 5
+_X_a_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+1
+1625 1 537
+AP 1 <$X> 0
+
+1
+1 1
+_X_a_thus 1 0 Y
+1 0
+1
+1626 1 900
+ADV 1 <$X> 0
+
+1
+3 5
+_X_n_sea 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+1627 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_type/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+1628 1 3593
+XP 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+1 0
+1
+1629 1 537
+AP 1 <$X> 0
+
+1
+3 5
+card 1 1 Y
+generic_entity 1 0 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+ARG1 2 1 0 Y
+1 0
+1
+1630 1 2715
+N 1 <card> 0
+
+1
+2 3
+AP 1 0 N
+PP 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+1633 1 10
+AP/PT 2 AP 0 PP 1
+
+1
+2 3
+ADJ 1 1 N
+AP 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1635 2 482
+XP 2 AP 1 ADJ 0
+
+1
+2 3
+V 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+1636 1 7
+S/NP/P 2 V 0 V 1
+
+1
+2 3
+DET 1 0 N
+S/NP/P 1 1 N
+ARG2 2 1 0 Y
+1 0
+1
+1637 1 11
+S/P 2 S/NP/P 1 DET 0
+
+1
+2 3
+DET 1 0 N
+S/NP/P 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+1638 1 1872
+S 3 S/NP/P 1 DET 0 in -1
+
+1
+3 4
+AP 1 2 N
+ARG1 2 1 2 Y
+ARG1 2 2 0 Y
+XP/AP 2 0 1 N
+1 0
+1
+1643 1 53
+XP/PT 2 XP/AP 3 AP 0
+
+1
+2 2
+ADV 1 1 N
+AP 1 0 N
+2 1 0
+1
+1645 2 15
+XP/N 2 ADV 0 AP 1
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+2 1 2
+1
+1646 1 25
+N 1 <$X> 0
+
+1
+4 4
+ARG1 2 1 2 Y
+ARG1 2 3 0 Y
+N 2 2 0 N
+XP/N 2 1 3 N
+0 
+1
+1647 2 3593
+XP 2 XP/N 3 N 2
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+1649 1 1
+VP/S 2 ADV 0 V 1
+
+1
+2 3
+V 1 0 N
+VP/S 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+1650 1 1872
+S 2 VP/S 1 V 0
+
+1
+1 1
+_X_v_1 1 0 Y
+0 
+1
+1651 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+ADJ 1 0 N
+S/NP 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+1652 1 1872
+S 2 S/NP 1 ADJ 0
+
+1
+2 2
+ADV 1 0 N
+N 1 1 N
+2 1 0
+1
+1653 1 2
+XP/ADV 2 N 1 ADV 0
+
+1
+3 4
+ADV 1 2 N
+ARG1 2 1 2 Y
+ARG1 2 2 0 Y
+XP/ADV 2 0 1 N
+1 0
+1
+1654 1 53
+XP/PT 2 XP/ADV 3 ADV 0
+
+1
+3 4
+ADV 1 2 N
+ARG1 2 1 2 Y
+ARG1 2 2 0 Y
+XP/ADV 2 0 1 N
+0 
+1
+1655 1 3593
+XP 3 XP/ADV 3 ADV 0 ? -1
+
+1
+2 2
+ADV 1 1 N
+S/AP 1 0 N
+2 0 1
+1
+1656 1 38
+S/VP 2 S/AP 1 ADV 0
+
+1
+2 2
+ADV 1 0 N
+N 1 1 N
+2 0 1
+1
+1658 2 5
+S/VP/PP 2 ADV 0 N 1
+
+1
+3 5
+_X_bear/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+1659 1 2715
+N 1 <$X> 0
+
+1
+2 3
+_X_n_for 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+1660 1 2715
+N 1 <$X> 0
+
+1
+4 4
+ARG1 2 3 1 Y
+BV 2 0 2 Y
+N 2 1 2 N
+XP/N 2 3 0 N
+1 0
+1
+1661 1 53
+XP/PT 2 XP/N 3 N 2
+
+1
+3 2
+V 1 2 N
+P 2 1 0 N
+3 0 1 2
+1
+1663 1 17
+PP/N 2 P 1 V 0
+
+1
+4 5
+N 1 1 N
+ARG2 2 0 1 Y
+ARG2 2 3 1 Y
+BV 2 2 1 Y
+PP/N 3 0 2 3 N
+1 0
+1
+1664 1 57
+PP/PT 2 PP/N 4 N 0
+
+1
+4 5
+N 1 1 N
+ARG2 2 0 1 Y
+ARG2 2 3 1 Y
+BV 2 2 1 Y
+PP/N 3 0 2 3 N
+1 0
+1
+1665 1 482
+XP 3 PP/N 4 N 0 ? -1
+
+1
+1 1
+_X_a_with-about-of 1 0 Y
+1 0
+1
+1666 2 180
+ADJ 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+PP 1 0 N
+ARG1 2 0 1 Y
+1 1
+1
+1667 1 2715
+N 2 N 0 PP 1
+
+1
+3 3
+NP 1 2 N
+ARG 2 1 2 Y
+P 2 0 1 N
+1 0
+1
+1668 1 482
+XP 2 P 2 NP 0
+
+1
+2 3
+AP 1 0 N
+DET 1 1 N
+BV 2 1 0 Y
+1 0
+1
+1670 1 27
+NP/PT 2 DET 1 AP 0
+
+1
+3 5
+_X_gone/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+1672 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 0 Y
+nominalization 1 2 Y
+udef_q 1 1 Y
+ARG1 2 2 0 Y
+BV 2 1 2 Y
+1 2
+1
+1674 1 1801
+V 1 <$X> 0
+
+1
+1 1
+_X_n_of-about 1 0 Y
+1 0
+1
+1676 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+2 2 1
+1
+1677 1 25
+N 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+1678 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_v_2 1 0 Y
+pron 1 1 Y
+pronoun_q 1 2 Y
+ARG1 2 0 1 Y
+BV 2 2 1 Y
+1 0
+2
+1681 1 1801
+V 1 <$X> 0
+
+1682 1 1801
+V 2 <$X> 0 , -1
+
+1
+3 5
+_X_n_sea 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+1683 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_a_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+1684 1 3593
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+DET 1 0 N
+V 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+1685 1 1872
+S 2 V 1 DET 0
+
+1
+1 1
+_X_v_1 1 0 Y
+1 0
+1
+1686 1 1
+VP/PP/PT 2 to -1 <$X> 0
+
+1
+1 1
+_X_v_1 1 0 Y
+1 0
+1
+1687 1 19
+S 3 to -1 <$X> 0 ? -1
+
+1
+3 5
+_X_q 1 2 Y
+person 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+1688 1 2715
+N 1 <$X> 0
+
+1
+3 5
+_X_q 1 2 Y
+person 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+1689 1 3593
+XP 2 <$X> 0 ? -1
+

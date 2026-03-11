@@ -1,0 +1,10 @@
+colorlog==6.10.1
+datasets==4.4.1
+matplotlib==3.10.8
+munkres==1.1.4
+numpy==2.4.1
+pandas==2.3.3
+scikit_learn==1.8.0
+torch==2.9.1
+tqdm==4.67.1
+transformers==4.57.3

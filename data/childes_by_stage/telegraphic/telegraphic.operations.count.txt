@@ -1,0 +1,42 @@
+Number of rules: 8265
+	Replace by child: 1106
+	NoSemantics: 10
+	Lexical: 5801
+	Predict: 355
+	Local Merge: 1047
+	Cross-span merge: 398
+	Both Merge: 24
+
+Count of rules
+	Replace by child: 3831
+	NoSemantics: 3832
+	Lexical: 28816
+	Predict: 3280
+	Local Merge: 10889
+	Cross-span merge: 2744
+
+Duplicated rules number: 24
+	<S: > => frozenset({<ARG2: 2 -- 0>, <BV: 1 -- 0>, <S/N: 2 -- 1>, <N: 0>}) ### {'EP permutation': 'arbitrary order'}		3 -2 2
+	<S: > => frozenset({<VP/N: 1 -- 2>, <BV: 2 -- 0>, <ARG2: 1 -- 0>, <N: 0>}) ### {'From': 'replace by its child'}		-2 3 2
+	<S: > => frozenset({<ARG1: 1 -- 2>, <ARG2: 0 -- 1>, <V: 0 -- 2>, <V: 1>}) ### {'EP permutation': 'arbitrary order'}		2 3 -2
+	<XP: > => frozenset({<BV: 0 -- 2>, <N: 2>, <NP/N: 1 -- 0>, <ARG2: 1 -- 2>}) ### {'EP permutation': 'arbitrary order'}		2 3
+	<S/PT: 0> => frozenset({<AP: 2>, <ARG2: 1 -- 2>, <ARG1: 2 -- 0>, <S/AP: 1 -- 0>}) ### {'EP permutation': 'arbitrary order', 'Detect': 'Use first node as external node'}		3 2
+	<S: > => frozenset({<AP: 2>, <ARG2: 1 -- 2>, <ARG1: 2 -- 0>, <S/AP: 1 -- 0>}) ### {'From': 'replace by its child'}		-2 2 3
+	<S/PP: 2> => frozenset({<S/VP: 1 -- 0>, <V: 2>, <ARG1: 2 -- 0>, <ARG2: 1 -- 2>}) ### {}		2 3
+	<S/NP: 2> => frozenset({<S/VP: 1 -- 0>, <V: 2>, <ARG1: 2 -- 0>, <ARG2: 1 -- 2>}) ### {}		2 3 -2
+	<XP: > => frozenset({<ARG2: 2 -- 0>, <N/N: 2 -- 1>, <BV: 1 -- 0>, <N: 0>}) ### {'EP permutation': 'arbitrary order'}		3 -2 2
+	<XP: 2> => frozenset({<PP/N: 2 -- 1>, <ARG2: 2 -- 0>, <BV: 1 -- 0>, <N: 0>}) ### {}		3 -2 2
+	<S/PT: 0> => frozenset({<ARG1: 1 -- 0>, <S/VP: 2 -- 0>, <V: 1>, <ARG2: 2 -- 1>}) ### {'EP permutation': 'arbitrary order', 'Detect': 'Use first node as external node'}		2 3 -2
+	<S: > => frozenset({<ARG1: 1 -- 0>, <S/VP: 2 -- 0>, <V: 1>, <ARG2: 2 -- 1>}) ### {'From': 'replace by its child'}		-2 2 3
+	<NP/PT: 0> => frozenset({<ARG1: 0 -- 2>, <NP/N: 1 -- 0>, <BV: 1 -- 2>, <N: 2>}) ### {'EP permutation': 'arbitrary order', 'Detect': 'Use first node as external node'}		3 2
+	<XP: > => frozenset({<ARG2: 2 -- 0>, <BV: 1 -- 0>, <NP/N: 1 -- 2>, <N: 0>}) ### {'EP permutation': 'arbitrary order'}		2 3
+	<S/NP/P: 2> => frozenset({<S/VP: 1 -- 0>, <V: 2>, <ARG1: 2 -- 0>, <ARG2: 1 -- 2>}) ### {}		2 3
+	<S: > => frozenset({<S/NP: 2 -- 0>, <N: 1>, <ARG1: 0 -- 1>, <ARG2: 2 -- 1>}) ### {'EP permutation': 'arbitrary order'}		2 3
+	<S/VP: 2 -- 0> => frozenset({<S/VP: 1 -- 0>, <V: 2>, <ARG1: 2 -- 0>, <ARG2: 1 -- 2>}) ### {'EP permutation': 'Stick hyperedge to one edge'}		2 3
+	<S/ADV: 2> => frozenset({<S/VP: 1 -- 0>, <V: 2>, <ARG1: 2 -- 0>, <ARG2: 1 -- 2>}) ### {}		2 3
+	<S: > => frozenset({<ARG2: 0 -- 1>, <V: 1>, <S/VP: 0 -- 2>, <ARG2: 1 -- 2>}) ### {'EP permutation': 'arbitrary order'}		2 3
+	<XP: > => frozenset({<PP: 2>, <S/PP: 1 -- 0>, <ARG1: 2 -- 0>, <ARG2: 1 -- 2>}) ### {'EP permutation': 'arbitrary order'}		3 2
+	<S/NP: 1> => frozenset({<ARG1: 1 -- 0>, <P: 1>, <S/PP: 2 -- 0>, <ARG2: 2 -- 1>}) ### {}		2 3
+	<S/XP: 2> => frozenset({<S/VP: 1 -- 0>, <V: 2>, <ARG1: 2 -- 0>, <ARG2: 1 -- 2>}) ### {}		2 3
+	<S/P: 0> => frozenset({<ARG1: 1 -- 0>, <S/VP: 2 -- 0>, <V: 1>, <ARG2: 2 -- 1>}) ### {'EP permutation': 'arbitrary order', 'Detect': 'Use first node as external node'}		3 2
+	<S/PP: 2> => frozenset({<AP: 2>, <ARG2: 1 -- 2>, <ARG1: 2 -- 0>, <S/AP: 1 -- 0>}) ### {}		3 2

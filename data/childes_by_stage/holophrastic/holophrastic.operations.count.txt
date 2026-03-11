@@ -1,0 +1,18 @@
+Number of rules: 2984
+	Replace by child: 420
+	NoSemantics: 7
+	Lexical: 2446
+	Predict: 49
+	Local Merge: 208
+	Cross-span merge: 31
+	Both Merge: 0
+
+Count of rules
+	Replace by child: 749
+	NoSemantics: 750
+	Lexical: 6330
+	Predict: 200
+	Local Merge: 1777
+	Cross-span merge: 128
+
+Duplicated rules number: 0

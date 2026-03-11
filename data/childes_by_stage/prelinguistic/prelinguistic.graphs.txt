@@ -1,0 +1,3046 @@
+256
+10/10-0000
+why ?
+for ?
+4
+0	_1	which_q	which	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e5	_for_p	for	p	#	#	#	#	#	#	#
+3	x7	reason	reason	#	#	#	#	#	#	#	#
+1
+3
+2	3	ARG2
+2	1	ARG1
+0	3	BV
+
+10/10-0001
+Mommy
+<named0>
+3
+0	_1	proper_q	proper	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	named	named	#	#	<named0>	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0002
+yeah ?
+yeah ?
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i6	_yeah_a_1	yeah	a	1	#	#	#	#	#	#
+1
+1
+1	0	ARG1
+
+10/10-0003
+three
+<card0>
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i10	card	card	#	#	<card0>	#	#	#	#	#
+3	x4	generic_entity	generic	#	entity	#	#	pl	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0004
+hello ?
+hello ?
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_hello_n_1	hello	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0005
+Daddy
+daddy
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_daddy_n_1	daddy	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0006
+mommy
+mommy
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_mommy/nn_u_unknown	mommy/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0007
+okay ?
+okay ?
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_okay_a_for	okay	a	for	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+10/10-0008
+thank_you
+thank
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_thank_you/nn_u_unknown	thank_you/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0009
+ahhah
+ahhah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ahhah/nn_u_unknown	ahhah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0010
+oh oh
+oh oh
+3
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i4	_oh_a_1	oh	a	1	#	#	#	#	#	#
+2	i9	_oh_a_1	oh	a	1	#	#	#	#	#	#
+1
+2
+2	0	ARG1
+1	2	ARG1
+
+10/10-0011
+byebye
+byebye
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_byebye/nn_u_unknown	byebye/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0012
+bottle
+bottle
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_bottle_n_of	bottle	n	of	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0013
+again
+again
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i6	_again_a_1	again	a	1	#	#	#	#	#	#
+1
+1
+1	0	ARG1
+
+10/10-0014
+vocalizes
+vocalize
+1
+0	e2	_vocalize_v_1	vocalize	v	1	#	pres	#	#	-	-
+0
+0
+
+10/10-0015
+I'm hungry
+<pron> hungry
+3
+0	_1	pronoun_q	pronoun	q	#	#	#	#	#	#	#
+1	e2	_hungry_a_1	hungry	a	1	#	pres	#	#	-	-
+2	x3	pron	pron	#	#	#	#	sg	1	#	#
+1
+2
+0	2	BV
+1	2	ARG1
+
+10/10-0016
+mama !
+mama !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_mama_n_1	mama	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0017
+goodbye
+<greet0>
+3
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i7	greet	greet	#	#	<greet0>	#	#	#	#	#
+2	i8	discourse	discourse	#	#	#	#	#	#	#	#
+0
+1
+2	1	ARG1
+
+10/10-0018
+laugh
+laugh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_laugh_n_1	laugh	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0019
+cough
+cough
+1
+0	e2	_cough_v_1	cough	v	1	#	tensed	#	#	-	-
+0
+0
+
+10/10-0020
+cries
+cry
+1
+0	e2	_cry_v_to	cry	v	to	#	pres	#	#	-	-
+0
+0
+
+10/10-0021
+yay !
+yay !
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i6	_yay_a_1	yay	a	1	#	#	#	#	#	#
+1
+1
+1	0	ARG1
+
+10/10-0022
+goodness
+goodness
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i6	_goodness_a_1	goodness	a	1	#	#	#	#	#	#
+1
+1
+1	0	ARG1
+
+10/10-0023
+sneeze
+sneeze
+1
+0	e2	_sneeze_v_1	sneeze	v	1	#	tensed	#	#	-	-
+0
+0
+
+10/10-0024
+crying
+cry
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_cry_v_to	cry	v	to	#	untensed	#	#	+	-
+0
+0
+
+10/10-0025
+babble
+babble
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_babble_n_1	babble	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0026
+baby !
+baby !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_baby_n_1	baby	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0027
+goodbye
+<greet0>
+3
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i7	greet	greet	#	#	<greet0>	#	#	#	#	#
+2	i8	discourse	discourse	#	#	#	#	#	#	#	#
+0
+1
+2	1	ARG1
+
+10/10-0028
+skippidy
+skippidy
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_skippidy/nn_u_unknown	skippidy/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0029
+hoppidy
+hoppidy
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_hoppidy/nn_u_unknown	hoppidy/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0030
+vavava
+vavava
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_vavava/nn_u_unknown	vavava/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0031
+baa baa
+baa baa
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_baa/jj_u_unknown	baa/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_baa/nn_u_unknown	baa/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0032
+zoo !
+zoo !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_zoo_n_1	zoo	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0033
+vocalize
+vocalize
+1
+0	e2	_vocalize_v_1	vocalize	v	1	#	tensed	#	#	-	-
+0
+0
+
+10/10-0034
+involuntary
+involuntary
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_involuntary_a_1	involuntary	a	1	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+10/10-0035
+nonspeech
+nonspeech
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_nonspeech/nn_u_unknown	nonspeech/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0036
+labial
+labial
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_labial/nn_u_unknown	labial/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0037
+involuntary noise
+involuntary noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_involuntary_a_1	involuntary	a	1	#	untensed	#	#	bool	-
+3	x4	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0038
+nonspeech noise
+nonspeech noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_nonspeech/jj_u_unknown	nonspeech/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0039
+see the giraffes ?
+see the giraffe ?
+3
+0	_1	_the_q	the	q	#	#	#	#	#	#	#
+1	e2	_see_v_1	see	v	1	#	tensed	#	#	-	-
+2	x4	_giraffe_n_1	giraffe	n	1	#	#	pl	3	#	#
+1
+2
+1	2	ARG2
+0	2	BV
+
+10/10-0040
+but it's not
+but it ’s*not
+3
+0	e2	_but_c	but	c	#	#	#	#	#	#	#
+1	e5	neg	neg	#	#	#	pres	#	#	-	-
+2	e8	ellipsis_expl	ellipsis	#	expl	#	untensed	#	#	#	#
+1
+2
+1	2	ARG1
+0	1	ARG2
+
+10/10-0041
+oh noise
+oh noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i6	_oh_a_1	oh	a	1	#	#	#	#	#	#
+3	x5	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+2
+3
+1	3	ARG
+0	3	BV
+2	1	ARG1
+
+10/10-0042
+God bless you
+god bless <pron>
+4
+0	_1	pronoun_q	pronoun	q	#	#	#	#	#	#	#
+1	e2	_bless_v_1	bless	v	1	#	tensed	#	#	-	-
+2	i4	_god_a_1	god	a	1	#	#	#	#	#	#
+3	x7	pron	pron	#	#	#	#	#	2	#	#
+2
+3
+1	3	ARG2
+0	3	BV
+2	1	ARG1
+
+10/10-0043
+yummy noise
+yummy noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_yummy_a_1	yummy	a	1	#	untensed	#	#	bool	-
+3	x4	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0044
+uhoh noise
+uhoh noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_uhoh/jj_u_unknown	uhoh/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0045
+involuntary nonspeech
+involuntary nonspeech
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_involuntary_a_1	involuntary	a	1	#	untensed	#	#	bool	-
+3	x4	_nonspeech/nn_u_unknown	nonspeech/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0046
+yay noise
+yay noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i6	_yay_a_1	yay	a	1	#	#	#	#	#	#
+3	x5	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+2
+3
+1	3	ARG
+0	3	BV
+2	1	ARG1
+
+10/10-0047
+yeah noise
+yeah noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i6	_yeah_a_1	yeah	a	1	#	#	#	#	#	#
+3	x5	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+2
+3
+1	3	ARG
+0	3	BV
+2	1	ARG1
+
+10/10-0048
+oowuh
+oowuh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_oowuh/nn_u_unknown	oowuh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0049
+uhlah
+uhlah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhlah/nn_u_unknown	uhlah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0050
+uhdah
+uhdah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhdah/nn_u_unknown	uhdah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0051
+oowedoo
+oowedoo
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_oowedoo/nn_u_unknown	oowedoo/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0052
+uhyaiya
+uhyaiya
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhyaiya/nn_u_unknown	uhyaiya/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0053
+blehte uhlai
+blehte uhlai
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_blehte/jj_u_unknown	blehte/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_uhlai/nn_u_unknown	uhlai/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0054
+oowowoo
+oowowoo
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_oowowoo/nn_u_unknown	oowowoo/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0055
+uhwoo
+uhwoo
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhwoo/nn_u_unknown	uhwoo/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0056
+ehheh
+ehheh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ehheh/nn_u_unknown	ehheh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0057
+oowah
+oowah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_oowah/nn_u_unknown	oowah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0058
+uhdatuh
+uhdatuh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhdatuh/nn_u_unknown	uhdatuh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0059
+uheauhunh
+uheauhunh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uheauhunh/nn_u_unknown	uheauhunh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0060
+wowuwuwuwu uhwuh
+wowuwuwuwu uhwuh
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_wowuwuwuwu/jj_u_unknown	wowuwuwuwu/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_uhwuh/nn_u_unknown	uhwuh/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+1	3	ARG
+0	3	BV
+2	3	ARG1
+
+10/10-0061
+uhbaduh
+uhbaduh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhbaduh/nn_u_unknown	uhbaduh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0062
+uhvahvah
+uhvahvah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhvahvah/nn_u_unknown	uhvahvah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0063
+aheheh
+aheheh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_aheheh/nn_u_unknown	aheheh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0064
+oop uhdai
+oop uhdai
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_oop/jj_u_unknown	oop/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_uhdai/nn_u_unknown	uhdai/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0065
+dai oop
+dai oop
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_dai/jj_u_unknown	dai/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_oop/nn_u_unknown	oop/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0066
+awuhawaiwuh
+awuhawaiwuh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_awuhawaiwuh/nn_u_unknown	awuhawaiwuh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0067
+uhweh
+uhweh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhweh/nn_u_unknown	uhweh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0068
+ugh ucka
+ugh ucka
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i6	_ugh_a_1	ugh	a	1	#	#	#	#	#	#
+3	x5	_ucka/nn_u_unknown	ucka/nn	u	unknown	#	#	sg	3	#	#
+2
+3
+1	3	ARG
+2	1	ARG1
+0	3	BV
+
+10/10-0069
+ugee gah
+ugee gah
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_ugee/jj_u_unknown	ugee/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_gah/nn_u_unknown	gah/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0070
+doodohooohm
+doodohooohm
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_doodohooohm/nn_u_unknown	doodohooohm/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0071
+ohguh
+ohguh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ohguh/nn_u_unknown	ohguh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0072
+eg uhdurh
+e+g uhdurh
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e5	_e+g_p	e+g	p	#	#	untensed	#	#	#	#
+3	x4	_uhdurh/nn_u_unknown	uhdurh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+1	3	ARG
+0	3	BV
+
+10/10-0073
+eg druha
+e+g druha
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e5	_e+g_p	e+g	p	#	#	untensed	#	#	#	#
+3	x4	_druha/nn_u_unknown	druha/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+1	3	ARG
+0	3	BV
+
+10/10-0074
+yayah
+yayah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_yayah/nn_u_unknown	yayah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0075
+ehyahyah
+ehyahyah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ehyahyah/nn_u_unknown	ehyahyah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0076
+uuhah
+uuhah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uuhah/nn_u_unknown	uuhah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0077
+uah deh
+uah deh
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_uah/jj_u_unknown	uah/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_deh/nn_u_unknown	deh/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0078
+unh uhg
+unh uhg
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_unh/jj_u_unknown	unh/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_uhg/nn_u_unknown	uhg/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0079
+mmguy
+mmguy
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_mmguy/nn_u_unknown	mmguy/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0080
+up uhoo
+up uhoo
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e5	_up_p	up	p	#	#	#	#	#	#	#
+3	x4	_uhoo/nn_u_unknown	uhoo/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	3	BV
+1	3	ARG
+
+10/10-0081
+oohnh
+oohnh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_oohnh/nn_u_unknown	oohnh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0082
+oowahu
+oowahu
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_oowahu/nn_u_unknown	oowahu/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0083
+uhduh
+uhduh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhduh/nn_u_unknown	uhduh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0084
+oohduh
+oohduh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_oohduh/nn_u_unknown	oohduh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0085
+jaykuh
+jaykuh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_jaykuh/nn_u_unknown	jaykuh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0086
+mmbeht
+mmbeht
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_mmbeht/nn_u_unknown	mmbeht/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0087
+oowah
+oowah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_oowah/nn_u_unknown	oowah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0088
+oolah
+oolah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_oolah/nn_u_unknown	oolah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0089
+dooeydai
+dooeydai
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_dooeydai/nn_u_unknown	dooeydai/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0090
+ehngh
+ehngh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ehngh/nn_u_unknown	ehngh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0091
+guhee
+guhee
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_guhee/nn_u_unknown	guhee/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0092
+heuhh
+heuhh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_heuhh/nn_u_unknown	heuhh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0093
+aheah
+aheah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_aheah/nn_u_unknown	aheah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0094
+heaheh
+heaheh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_heaheh/nn_u_unknown	heaheh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0095
+eunhu
+eunhu
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_eunhu/nn_u_unknown	eunhu/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0096
+waoohmeuh
+waoohmeuh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_waoohmeuh/nn_u_unknown	waoohmeuh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0097
+meuhuh
+meuhuh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_meuhuh/nn_u_unknown	meuhuh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0098
+huheruh
+huheruh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_huheruh/nn_u_unknown	huheruh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0099
+euguh
+euguh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_euguh/nn_u_unknown	euguh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0100
+ueeh uhneh
+ueeh uhneh
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_ueeh/jj_u_unknown	ueeh/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_uhneh/nn_u_unknown	uhneh/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0101
+ooeydeh huh
+ooeydeh huh
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i10	_huh_a_1	huh	a	1	#	#	#	#	#	#
+3	x5	_ooeydeh/nn_u_unknown	ooeydeh/nn	u	unknown	#	#	sg	3	#	#
+2
+3
+1	3	ARG
+0	3	BV
+2	1	ARG1
+
+10/10-0102
+heyah
+heyah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_heyah/nn_u_unknown	heyah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0103
+eah oooooo
+eah oooooo
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_eah/jj_u_unknown	eah/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_oooooo/nn_u_unknown	oooooo/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0104
+dahooooweh
+dahooooweh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_dahooooweh/nn_u_unknown	dahooooweh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0105
+eah weh
+eah weh
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_eah/jj_u_unknown	eah/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_weh/nn_u_unknown	weh/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+10/10-0106
+uhwuh
+uhwuh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhwuh/nn_u_unknown	uhwuh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+1	2	ARG
+0	2	BV
+
+10/10-0107
+ooweh
+ooweh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ooweh/nn_u_unknown	ooweh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0108
+wawawao
+wawawao
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_wawawao/nn_u_unknown	wawawao/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0109
+oowawawahoowigodh
+oowawawahoowigodh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_oowawawahoowigodh/nn_u_unknown	oowawawahoowigodh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+10/10-0110
+it can happen
+<pron> can happen
+4
+0	_1	pronoun_q	pronoun	q	#	#	#	#	#	#	#
+1	e10	_happen_v_1	happen	v	1	#	untensed	#	#	-	-
+2	e2	_can_v_modal	can	v	modal	#	pres	#	#	-	-
+3	x3	pron	pron	#	#	#	#	sg	3	#	#
+2
+3
+0	3	BV
+1	3	ARG1
+2	1	ARG1
+
+11/11-0000
+what ?
+<what> ?
+3
+0	_1	which_q	which	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	thing	thing	#	#	#	#	#	#	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0001
+hello
+<greet0>
+3
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i7	greet	greet	#	#	<greet0>	#	#	#	#	#
+2	i8	discourse	discourse	#	#	#	#	#	#	#	#
+0
+1
+2	1	ARG1
+
+11/11-0002
+bubbles
+bubble
+1
+0	e2	_bubble_v_1	bubble	v	1	#	pres	#	#	-	-
+0
+0
+
+11/11-0003
+this one
+this <dofm0>
+3
+0	_1	_this_q_dem	this	q	dem	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	dofm	dofm	#	#	<dofm0>	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0004
+Mommy
+<named0>
+3
+0	_1	proper_q	proper	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	named	named	#	#	<named0>	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0005
+right
+right
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i6	_right_a_2	right	a	2	#	#	#	#	#	#
+1
+1
+1	0	ARG1
+
+11/11-0006
+yeah !
+yeah !
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i6	_yeah_a_1	yeah	a	1	#	#	#	#	#	#
+1
+1
+1	0	ARG1
+
+11/11-0007
+a baby
+a baby
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e5	_a_p_per	a	p	per	#	untensed	#	#	-	-
+3	x7	_baby_n_1	baby	n	1	#	#	sg	3	#	#
+1
+3
+2	3	ARG2
+0	3	BV
+2	1	ARG1
+
+11/11-0008
+doggie
+doggie
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_doggie/nn_u_unknown	doggie/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0009
+cupcake
+cupcake
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_cupcake_n_1	cupcake	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0010
+cookie
+cookie
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_cookie_n_1	cookie	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0011
+good ?
+good ?
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_good_a_at-for-of	good	a	at-for-of	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+11/11-0012
+this is
+this
+3
+0	_1	_this_q_dem	this	q	dem	#	#	#	#	#	#
+1	e2	ellipsis_ref	ellipsis	#	ref	#	pres	#	#	-	-
+2	x3	generic_entity	generic	#	entity	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG1
+
+11/11-0013
+no no
+no no
+3
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i4	_no_a_1	no	a	1	#	#	#	#	#	#
+2	i9	_no_a_1	no	a	1	#	#	#	#	#	#
+1
+2
+2	0	ARG1
+1	2	ARG1
+
+11/11-0014
+yummy
+yummy
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_yummy_a_1	yummy	a	1	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+11/11-0015
+Daddy
+daddy
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_daddy_n_1	daddy	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0016
+mommy
+mommy
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_mommy/nn_u_unknown	mommy/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0017
+babbling
+babble
+1
+0	e2	_babble_v_about	babble	v	about	#	untensed	#	#	+	-
+0
+0
+
+11/11-0018
+okay ?
+okay ?
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_okay_a_for	okay	a	for	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+11/11-0019
+thank_you
+thank
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_thank_you/nn_u_unknown	thank_you/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0020
+uhuh !
+uh+uh !
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i6	_uh+uh_a_1	uh+uh	a	1	#	#	#	#	#	#
+1
+1
+1	0	ARG1
+
+11/11-0021
+cheese
+cheese
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_cheese_n_1	cheese	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0022
+Daddy !
+daddy !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_daddy_n_1	daddy	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0023
+yum yum
+yum <named0>
+4
+0	_1	proper_q	proper	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i4	_yum_a_1	yum	a	1	#	#	#	#	#	#
+3	x7	named	named	#	#	<named0>	#	sg	3	#	#
+2
+3
+1	3	ARG
+2	1	ARG1
+0	3	BV
+
+11/11-0024
+ahhah
+ahhah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ahhah/nn_u_unknown	ahhah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0025
+byebye
+byebye
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_byebye/nn_u_unknown	byebye/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0026
+clock
+clock
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_clock_n_1	clock	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0027
+shoes
+shoe
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_shoe_n_1	shoe	n	1	#	#	pl	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0028
+that one
+that <dofm0>
+3
+0	_1	_that_q_dem	that	q	dem	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	dofm	dofm	#	#	<dofm0>	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0029
+bacon
+<named0>
+3
+0	_1	proper_q	proper	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	named	named	#	#	<named0>	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0030
+bottle
+bottle
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_bottle_n_of	bottle	n	of	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0031
+ducks
+duck
+1
+0	e2	_duck_v_1	duck	v	1	#	pres	#	#	-	-
+0
+0
+
+11/11-0032
+puppy
+puppy
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_puppy_n_1	puppy	n	1	#	#	sg	3	#	#
+1
+2
+1	2	ARG
+0	2	BV
+
+11/11-0033
+again
+again
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i6	_again_a_1	again	a	1	#	#	#	#	#	#
+1
+1
+1	0	ARG1
+
+11/11-0034
+no no no
+no no-no
+3
+0	_1	_no_q	no	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_no-no_n_1	no-no	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0035
+wow !
+wow !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_wow_n_1	wow	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0036
+balloon
+balloon
+1
+0	e2	_balloon_v_1	balloon	v	1	#	tensed	#	#	-	-
+0
+0
+
+11/11-0037
+button
+button
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_button_n_1	button	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0038
+vocalizes
+vocalize
+1
+0	e2	_vocalize_v_1	vocalize	v	1	#	pres	#	#	-	-
+0
+0
+
+11/11-0039
+this is
+this
+3
+0	_1	_this_q_dem	this	q	dem	#	#	#	#	#	#
+1	e2	ellipsis_ref	ellipsis	#	ref	#	pres	#	#	-	-
+2	x3	generic_entity	generic	#	entity	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG1
+
+11/11-0040
+vroom
+vroom
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_vroom/nn_u_unknown	vroom/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0041
+banana
+banana
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_banana_n_1	banana	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0042
+daddy
+daddy
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_daddy_n_1	daddy	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0043
+block
+block
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_block_n_of	block	n	of	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0044
+icecream
+icecream
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_icecream/nn_u_unknown	icecream/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0045
+cheers
+cheer
+1
+0	e2	_cheer_v_1	cheer	v	1	#	pres	#	#	-	-
+0
+0
+
+11/11-0046
+bubble
+bubble
+1
+0	e2	_bubble_v_1	bubble	v	1	#	tensed	#	#	-	-
+0
+0
+
+11/11-0047
+ducky
+ducky
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ducky/nn_u_unknown	ducky/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0048
+oink oink
+oink oink
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_oink/jj_u_unknown	oink/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_oink/nn_u_unknown	oink/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0049
+baby ?
+baby ?
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_baby_n_1	baby	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0050
+quack
+quack
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_quack_n_1	quack	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0051
+delicious
+delicious
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_delicious_a_1	delicious	a	1	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+11/11-0052
+sticky
+sticky
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_sticky_a_1	sticky	a	1	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+11/11-0053
+Tigger
+<named0>
+3
+0	_1	proper_q	proper	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	named	named	#	#	<named0>	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0054
+ooh !
+ooh !
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i6	_ooh_a_1	ooh	a	1	#	#	#	#	#	#
+1
+1
+1	0	ARG1
+
+11/11-0055
+football
+football
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_football_n_1	football	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0056
+yup !
+yup !
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i6	_yup_a_1	yup	a	1	#	#	#	#	#	#
+1
+1
+1	0	ARG1
+
+11/11-0057
+laugh
+laugh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_laugh_n_1	laugh	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0058
+hot ?
+hot ?
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_hot_a_1	hot	a	1	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+11/11-0059
+uhoh !
+uhoh !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_uhoh/nn_u_unknown	uhoh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0060
+light
+light
+1
+0	e2	_light_v_1	light	v	1	#	tensed	#	#	-	-
+0
+0
+
+11/11-0061
+cough
+cough
+1
+0	e2	_cough_v_1	cough	v	1	#	tensed	#	#	-	-
+0
+0
+
+11/11-0062
+cries
+cry
+1
+0	e2	_cry_v_to	cry	v	to	#	pres	#	#	-	-
+0
+0
+
+11/11-0063
+noises
+noise
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_noise_n_1	noise	n	1	#	#	pl	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0064
+neigh
+neigh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_neigh/nn_u_unknown	neigh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0065
+raisin
+raisin
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_raisin_n_1	raisin	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0066
+peekaboo
+peekaboo
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_peekaboo/nn_u_unknown	peekaboo/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0067
+socks
+sock
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_sock_n_1	sock	n	1	#	#	pl	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0068
+sneeze
+sneeze
+1
+0	e2	_sneeze_v_1	sneeze	v	1	#	tensed	#	#	-	-
+0
+0
+
+11/11-0069
+doggy
+doggy
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_doggy/nn_u_unknown	doggy/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0070
+cooking
+cook
+1
+0	e2	_cook_v_1	cook	v	1	#	untensed	#	#	+	-
+0
+0
+
+11/11-0071
+babble
+babble
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_babble_n_1	babble	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0072
+hm hm
+hm hm
+3
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i4	_hm_a_1	hm	a	1	#	#	#	#	#	#
+2	i9	_hm_a_1	hm	a	1	#	#	#	#	#	#
+1
+2
+2	0	ARG1
+1	2	ARG1
+
+11/11-0073
+waffles
+waffle
+1
+0	e2	_waffle_v_1	waffle	v	1	#	pres	#	#	-	-
+0
+0
+
+11/11-0074
+Pooh !
+<named0> !
+3
+0	_1	proper_q	proper	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	named	named	#	#	<named0>	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0075
+beans
+<named0>
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	named	named	#	#	<named0>	#	pl	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0076
+cutting
+cut
+1
+0	e2	_cut_v_1	cut	v	1	#	untensed	#	#	+	-
+0
+0
+
+11/11-0077
+the spoon
+the spoon
+3
+0	_1	_the_q	the	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_spoon_n_1	spoon	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0078
+duckie
+duckie
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_duckie/nn_u_unknown	duckie/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0079
+remember
+remember
+1
+0	e2	_remember_v_from	remember	v	from	#	tensed	#	#	-	-
+0
+0
+
+11/11-0080
+tuna fish
+tuna fish
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	_fish_v_1	fish	v	1	#	pres	#	#	-	-
+2	x3	_tuna_n_1	tuna	n	1	#	#	pl	3	#	#
+1
+2
+0	2	BV
+1	2	ARG1
+
+11/11-0081
+come on !
+come on !
+4
+0	_1	pronoun_q	pronoun	q	#	#	#	#	#	#	#
+1	e2	_come_v_1	come	v	1	#	pres	#	#	-	-
+2	e8	_on_p_state	on	p	state	#	untensed	#	#	-	-
+3	x3	pron	pron	#	#	#	#	#	2	#	#
+1
+3
+0	3	BV
+2	1	ARG1
+1	3	ARG1
+
+11/11-0082
+bowwow
+bowwow
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_bowwow/nn_u_unknown	bowwow/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0083
+baa baa
+baa baa
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_baa/jj_u_unknown	baa/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_baa/nn_u_unknown	baa/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0084
+vocalize
+vocalize
+1
+0	e2	_vocalize_v_1	vocalize	v	1	#	tensed	#	#	-	-
+0
+0
+
+11/11-0085
+involuntary
+involuntary
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_involuntary_a_1	involuntary	a	1	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+11/11-0086
+nonspeech
+nonspeech
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_nonspeech/nn_u_unknown	nonspeech/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0087
+labial
+labial
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_labial/nn_u_unknown	labial/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0088
+involuntary noise
+involuntary noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_involuntary_a_1	involuntary	a	1	#	untensed	#	#	bool	-
+3	x4	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0089
+nonspeech noise
+nonspeech noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_nonspeech/jj_u_unknown	nonspeech/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0090
+yay noise
+yay noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i6	_yay_a_1	yay	a	1	#	#	#	#	#	#
+3	x5	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+2
+3
+1	3	ARG
+0	3	BV
+2	1	ARG1
+
+11/11-0091
+yeah noise
+yeah noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i6	_yeah_a_1	yeah	a	1	#	#	#	#	#	#
+3	x5	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+2
+3
+1	3	ARG
+0	3	BV
+2	1	ARG1
+
+11/11-0092
+babies !
+baby !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_baby_n_1	baby	n	1	#	#	pl	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0093
+vocalization
+vocalization
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_vocalization_n_of	vocalization	n	of	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0094
+uhoh uhoh
+uhoh uhoh
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_uhoh/jj_u_unknown	uhoh/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_uhoh/nn_u_unknown	uhoh/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0095
+pie ?
+pie ?
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_pie_n_1	pie	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0096
+oo mm
+oo mm
+3
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_oo/jj_u_unknown	oo/jj	u	unknown	#	#	#	#	#	#
+2	i7	_mm_a_1	mm	a	1	#	#	#	#	#	#
+2
+2
+2	1	ARG1
+0	1	ARG
+
+11/11-0097
+you eat
+<pron> eat
+3
+0	_1	pronoun_q	pronoun	q	#	#	#	#	#	#	#
+1	e2	_eat_v_1	eat	v	1	#	pres	#	#	-	-
+2	x3	pron	pron	#	#	#	#	#	2	#	#
+1
+2
+0	2	BV
+1	2	ARG1
+
+11/11-0098
+I cut
+<pron> cut
+3
+0	_1	pronoun_q	pronoun	q	#	#	#	#	#	#	#
+1	e2	_cut_v_1	cut	v	1	#	pres	#	#	-	-
+2	x3	pron	pron	#	#	#	#	sg	1	#	#
+1
+2
+0	2	BV
+1	2	ARG1
+
+11/11-0099
+woah !
+woah !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_woah/nn_u_unknown	woah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0100
+chocolate icecream
+chocolate icecream
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_chocolate_a_1	chocolate	a	1	#	untensed	#	#	bool	-
+3	x4	_icecream/nn_u_unknown	icecream/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0101
+mushroom ?
+mushroom ?
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_mushroom_n_1	mushroom	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0102
+hey , Mom
+hey , <named0>
+4
+0	_1	proper_q	proper	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i4	_hey_a_1	hey	a	1	#	#	#	#	#	#
+3	x7	named	named	#	#	<named0>	#	sg	3	#	#
+2
+3
+1	3	ARG
+2	1	ARG1
+0	3	BV
+
+11/11-0103
+moo !
+moo !
+3
+0	_1	pronoun_q	pronoun	q	#	#	#	#	#	#	#
+1	e2	_moo_v_1	moo	v	1	#	pres	#	#	-	-
+2	x3	pron	pron	#	#	#	#	#	2	#	#
+1
+2
+0	2	BV
+1	2	ARG1
+
+11/11-0104
+ha ha ha
+ha ha+ha
+3
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i7	_ha_a_1	ha	a	1	#	#	#	#	#	#
+2	i9	_ha+ha_a_1	ha+ha	a	1	#	#	#	#	#	#
+2
+2
+1	0	ARG1
+2	1	ARG1
+
+11/11-0105
+bababa
+bababa
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_bababa/nn_u_unknown	bababa/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0106
+new toys
+new toy
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_new_a_1	new	a	1	#	untensed	#	#	bool	-
+3	x4	_toy_n_1	toy	n	1	#	#	pl	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0107
+cheers !
+cheer !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_cheer_n_1	cheer	n	1	#	#	pl	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0108
+0 oh !
+<card0> oh !
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i12	_oh_a_1	oh	a	1	#	#	#	#	#	#
+3	x5	card	card	#	#	<card0>	#	sg	3	#	#
+2
+3
+1	3	ARG
+2	1	ARG1
+0	3	BV
+
+11/11-0109
+you should
+<pron> should
+4
+0	_1	pronoun_q	pronoun	q	#	#	#	#	#	#	#
+1	e10	ellipsis_ref	ellipsis	#	ref	#	#	#	#	#	#
+2	e2	_should_v_modal	should	v	modal	#	pres	#	#	-	-
+3	x3	pron	pron	#	#	#	#	#	2	#	#
+2
+3
+0	3	BV
+1	3	ARG1
+2	1	ARG1
+
+11/11-0110
+sushi
+sushi
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_sushi_n_1	sushi	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0111
+rain ?
+rain ?
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_rain_n_1	rain	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0112
+rooster ?
+rooster ?
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_rooster/nn_u_unknown	rooster/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0113
+kiwi ?
+kiwi ?
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_kiwi/nn_u_unknown	kiwi/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0114
+woosh
+woosh
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_woosh/nn_u_unknown	woosh/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0115
+naynay
+naynay
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_naynay/nn_u_unknown	naynay/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0116
+vroom
+vroom
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_vroom/nn_u_unknown	vroom/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0117
+vroom
+vroom
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_vroom/nn_u_unknown	vroom/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0118
+bowbow
+bowbow
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_bowbow/nn_u_unknown	bowbow/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0119
+bowbowbow
+bowbowbow
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_bowbowbow/nn_u_unknown	bowbowbow/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0120
+ahhah
+ahhah
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ahhah/nn_u_unknown	ahhah/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0121
+Daddie
+<named0>
+3
+0	_1	proper_q	proper	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	named	named	#	#	<named0>	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0122
+those shoes
+those shoe
+3
+0	_1	_those_q_dem	those	q	dem	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_shoe_n_1	shoe	n	1	#	#	pl	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0123
+these ones fit
+these <card0> fit
+4
+0	_1	_these_q_dem	these	q	dem	#	#	#	#	#	#
+1	e2	_fit_v_1	fit	v	1	#	pres	#	#	-	-
+2	e9	card	card	#	#	<card0>	untensed	#	#	-	-
+3	x3	generic_entity	generic	#	entity	#	#	pl	3	#	#
+1
+3
+0	3	BV
+1	3	ARG1
+2	3	ARG1
+
+11/11-0124
+making icecream
+make icecream
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_make_v_1	make	v	1	#	untensed	#	#	+	-
+3	x4	_icecream/nn_u_unknown	icecream/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0125
+timer ?
+timer ?
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_timer_n_1	timer	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0126
+timer !
+timer !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_timer_n_1	timer	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0127
+I cut icecream
+<pron> cut icecream
+4
+0	_1	pronoun_q	pronoun	q	#	#	#	#	#	#	#
+1	e2	_cut_v_1	cut	v	1	#	pres	#	#	-	-
+2	e8	_icecream/rb_u_unknown	icecream/rb	u	unknown	#	untensed	#	#	-	-
+3	x3	pron	pron	#	#	#	#	sg	1	#	#
+1
+3
+0	3	BV
+2	1	ARG1
+1	3	ARG1
+
+11/11-0128
+wrong foot ?
+wrong foot ?
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_wrong_a_with	wrong	a	with	#	untensed	#	#	bool	-
+3	x4	_foot_n_1	foot	n	1	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0129
+undies
+un- die
+2
+0	e2	_un-_a_rvrs	un-	a	rvrs	#	pres	#	#	-	-
+1	e4	_die_v_1	die	v	1	#	pres	#	#	-	-
+1
+1
+0	1	ARG1
+
+11/11-0130
+eh yeah !
+<named0> yeah !
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i11	_yeah_a_1	yeah	a	1	#	#	#	#	#	#
+3	x5	named	named	#	#	<named0>	#	sg	3	#	#
+2
+3
+1	3	ARG
+0	3	BV
+2	1	ARG1
+
+11/11-0131
+heh hm
+heh hm
+3
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i4	_heh_a_1	heh	a	1	#	#	#	#	#	#
+2	i9	_hm_a_1	hm	a	1	#	#	#	#	#	#
+1
+2
+2	0	ARG1
+1	2	ARG1
+
+11/11-0132
+mhm mhm eh !
+mhm mhm eh !
+4
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	i10	_mhm_a_1	mhm	a	1	#	#	#	#	#	#
+2	i12	_eh_a_1	eh	a	1	#	#	#	#	#	#
+3	i7	_mhm_a_1	mhm	a	1	#	#	#	#	#	#
+2
+3
+3	0	ARG1
+1	3	ARG1
+2	1	ARG1
+
+11/11-0133
+goo ga
+goo ga
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_goo/jj_u_unknown	goo/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_ga/nn_u_unknown	ga/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0134
+udo !
+udo !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_udo/nn_u_unknown	udo/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0135
+ado !
+ado !
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ado_n_1	ado	n	1	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0136
+ajuadoo
+ajuadoo
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_ajuadoo/nn_u_unknown	ajuadoo/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0137
+yummy ?
+yummy ?
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_yummy_a_1	yummy	a	1	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+11/11-0138
+bika bika
+bika bika
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_bika/jj_u_unknown	bika/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_bika/nn_u_unknown	bika/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0139
+ah ew
+ah ew
+2
+0	e2	unknown	unknown	#	#	#	#	#	#	#	#
+1	e5	_ew/jj_u_unknown	ew/jj	u	unknown	#	#	#	#	#	#
+0
+1
+1	0	ARG1
+
+11/11-0140
+agu ah ahdah
+agu ah ahdah
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e5	_agu/rb_u_unknown	agu/rb	u	unknown	#	#	#	#	#	#
+3	x4	_ahdah/nn_u_unknown	ahdah/nn	u	unknown	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	1	ARG1
+
+11/11-0141
+hey , Mama
+hey , <named0>
+4
+0	_1	proper_q	proper	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	i4	_hey_a_1	hey	a	1	#	#	#	#	#	#
+3	x7	named	named	#	#	<named0>	#	sg	3	#	#
+2
+3
+1	3	ARG
+2	1	ARG1
+0	3	BV
+
+11/11-0142
+byebye noise
+byebye noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_byebye/jj_u_unknown	byebye/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+1
+3
+0	3	BV
+1	3	ARG
+2	3	ARG1
+
+11/11-0143
+speechplay
+speechplay
+3
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	x4	_speechplay/nn_u_unknown	speechplay/nn	u	unknown	#	#	sg	3	#	#
+1
+2
+0	2	BV
+1	2	ARG
+
+11/11-0144
+labial noise
+labial noise
+4
+0	_1	udef_q	udef	q	#	#	#	#	#	#	#
+1	e2	unknown	unknown	#	#	#	#	#	#	#	#
+2	e9	_labial/jj_u_unknown	labial/jj	u	unknown	#	untensed	#	#	bool	-
+3	x4	_noise_n_1	noise	n	1	#	#	sg	3	#	#
+1
+3
+1	3	ARG
+0	3	BV
+2	3	ARG1
+

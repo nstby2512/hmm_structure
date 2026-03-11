@@ -1,0 +1,4255 @@
+403
+1
+3 5
+_for_p 1 1 Y
+reason 1 2 Y
+which_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+0 1 10
+PP 1 <$X> 0
+
+0
+3
+1 18 43
+PT 1 ? -1
+
+28 23 43
+PT 1 ! -1
+
+260 2 43
+PT 1 , -1
+
+1
+3 5
+_for_p 1 1 Y
+reason 1 2 Y
+which_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+2 1 29
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+named 1 1 Y
+proper_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+2
+3 5 339
+XP 1 <named> 0
+
+230 1 339
+XP 2 <named> 0 ! -1
+
+1
+1 1
+_yeah_a_1 1 0 Y
+1 0
+1
+4 5 74
+ADV 1 <$X> 0
+
+1
+1 1
+_yeah_a_1 1 0 Y
+1 0
+2
+5 1 29
+XP 2 <$X> 0 ? -1
+
+163 1 29
+XP 2 <$X> 0 ! -1
+
+1
+4 7
+card 1 3 Y
+generic_entity 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+ARG1 2 3 1 Y
+BV 2 2 1 Y
+0 
+1
+6 1 339
+XP 1 <card> 0
+
+1
+3 5
+_hello_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+7 1 145
+N 1 <$X> 0
+
+1
+3 5
+_hello_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+8 1 339
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_daddy_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+2
+9 3 339
+XP 1 <$X> 0
+
+183 1 339
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_mommy/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+10 2 339
+XP 1 <$X> 0
+
+1
+1 1
+_okay_a_for 1 0 Y
+1 0
+1
+11 2 7
+ADJ 1 <$X> 0
+
+1
+1 1
+_okay_a_for 1 0 Y
+1 0
+1
+12 2 29
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_thank_you/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+13 2 339
+XP 1 <$X> 0
+
+1
+3 5
+_ahhah/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+14 3 339
+XP 1 <$X> 0
+
+1
+1 1
+_oh_a_1 1 0 Y
+1 0
+1
+15 3 74
+ADV 1 <$X> 0
+
+1
+2 3
+_oh_a_1 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+1 0
+1
+16 1 74
+ADV 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+17 4 339
+XP 2 ADV 0 ADV 1
+
+1
+3 5
+_byebye/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+18 2 339
+XP 1 <$X> 0
+
+1
+3 5
+_bottle_n_of 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+19 2 339
+XP 1 <$X> 0
+
+1
+2 3
+_again_a_1 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+20 2 339
+XP 1 <$X> 0
+
+1
+1 1
+_vocalize_v_1 1 0 Y
+0 
+1
+21 4 61
+S 1 <$X> 0
+
+1
+2 3
+pron 1 0 Y
+pronoun_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+22 7 8
+NP 1 <pron> -1
+
+0
+1
+23 1 1
+V 1 ’m -1
+
+1
+2 3
+pron 1 0 Y
+pronoun_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+24 1 1
+S/AP 1 <pron> -1
+
+1
+1 1
+_hungry_a_1 1 0 Y
+1 0
+1
+25 1 66
+AP 1 <$X> 0
+
+1
+2 3
+AP 1 1 N
+S/AP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+26 1 61
+S 2 S/AP 1 AP 0
+
+1
+3 5
+_mama_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+27 1 145
+N 1 <$X> 0
+
+1
+3 5
+_mama_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+29 1 339
+XP 2 <$X> 0 ! -1
+
+1
+3 4
+discourse 1 1 Y
+greet 1 2 Y
+unknown 1 0 Y
+ARG1 2 1 2 Y
+0 
+1
+30 3 61
+S 1 <greet> 1
+
+1
+3 5
+_laugh_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+31 2 339
+XP 1 <$X> 0
+
+1
+1 1
+_cough_v_1 1 0 Y
+0 
+1
+32 2 61
+S 1 <$X> 0
+
+1
+1 1
+_cry_v_to 1 0 Y
+0 
+1
+33 2 61
+S 1 <$X> 0
+
+1
+1 1
+_yay_a_1 1 0 Y
+1 0
+1
+34 3 74
+ADV 1 <$X> 0
+
+1
+1 1
+_yay_a_1 1 0 Y
+1 0
+1
+35 1 29
+XP 2 <$X> 0 ! -1
+
+1
+2 3
+_goodness_a_1 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+36 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_sneeze_v_1 1 0 Y
+0 
+1
+37 2 61
+S 1 <$X> 0
+
+1
+2 2
+_cry_v_to 1 1 Y
+unknown 1 0 Y
+0 
+1
+38 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_babble_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+39 2 339
+XP 1 <$X> 0
+
+1
+3 5
+_baby_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+40 3 145
+N 1 <$X> 0
+
+1
+3 5
+_baby_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+2
+41 2 339
+XP 2 <$X> 0 ! -1
+
+205 1 339
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_skippidy/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+42 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_hoppidy/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+43 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_vavava/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+44 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_baa/jj_u_unknown 1 0 Y
+1 0
+1
+45 2 66
+AP 1 <$X> 0
+
+1
+3 5
+_baa/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+46 2 145
+N 1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+N 1 1 N
+ARG1 2 0 1 Y
+0 
+2
+47 27 339
+XP 2 AP 0 N 1
+
+304 1 339
+XP 3 AP 0 N 1 ? -1
+
+1
+3 5
+_zoo_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+48 1 145
+N 1 <$X> 0
+
+1
+3 5
+_zoo_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+49 1 339
+XP 2 <$X> 0 ! -1
+
+1
+2 3
+_involuntary_a_1 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+0 
+1
+50 2 339
+XP 1 <$X> 0
+
+1
+3 5
+_nonspeech/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+51 2 339
+XP 1 <$X> 0
+
+1
+3 5
+_labial/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+52 2 339
+XP 1 <$X> 0
+
+1
+1 1
+_involuntary_a_1 1 0 Y
+1 0
+1
+53 3 66
+AP 1 <$X> 0
+
+1
+3 5
+_noise_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+54 8 145
+N 1 <$X> 0
+
+1
+1 1
+_nonspeech/jj_u_unknown 1 0 Y
+1 0
+1
+55 2 66
+AP 1 <$X> 0
+
+1
+1 1
+_see_v_1 1 0 Y
+1 0
+1
+56 1 29
+V 1 <$X> 0
+
+1
+1 1
+_the_q 1 0 Y
+1 0
+1
+57 2 14
+DET 1 <$X> 0
+
+1
+2 2
+DET 1 1 N
+V 1 0 N
+2 0 1
+1
+58 1 1
+VP/N 2 V 1 DET 0
+
+1
+1 1
+_giraffe_n_1 1 0 Y
+1 0
+1
+59 1 145
+N 1 <$X> 0
+
+1
+3 4
+N 1 0 N
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+VP/N 2 1 2 N
+1 0
+1
+60 1 2
+VP/PT 2 VP/N 3 N 0
+
+1
+3 4
+N 1 0 N
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+VP/N 2 1 2 N
+0 
+1
+61 1 61
+S 3 VP/N 3 N 0 ? -1
+
+1
+1 1
+_but_c 1 0 Y
+1 0
+1
+62 1 2
+CONJ 1 <$X> 0
+
+0
+1
+63 1 1
+NP-X 1 it -1
+
+1
+1 1
+_but_c 1 0 Y
+1 0
+1
+64 1 2
+S/VP 2 <$X> 0 it -1
+
+1
+2 3
+ellipsis_expl 1 1 Y
+neg 1 0 Y
+ARG1 2 0 1 Y
+1 0
+1
+65 1 29
+V 1 ’s*not -1
+
+1
+2 3
+S/VP 1 0 N
+V 1 1 N
+ARG2 2 0 1 Y
+0 
+1
+66 1 339
+XP 2 S/VP 0 V 1
+
+1
+3 5
+_noise_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+67 5 145
+N 1 <$X> 0
+
+1
+2 3
+ADV 1 1 N
+N 1 0 N
+ARG1 2 1 0 Y
+0 
+3
+68 9 339
+XP 2 ADV 0 N 1
+
+142 1 339
+XP 2 N 1 ADV 0
+
+308 1 339
+XP 3 N 1 ADV 0 ! -1
+
+1
+1 1
+_god_a_1 1 0 Y
+1 0
+1
+69 1 74
+ADV 1 <$X> 0
+
+1
+1 1
+_bless_v_1 1 0 Y
+1 0
+1
+70 1 29
+V 1 <$X> 0
+
+1
+2 3
+ADV 1 1 N
+V 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+71 1 3
+XP/NP 2 ADV 0 V 1
+
+1
+2 3
+NP 1 0 N
+XP/NP 1 1 N
+ARG2 2 1 0 Y
+0 
+1
+72 1 339
+XP 2 XP/NP 1 NP 0
+
+1
+1 1
+_yummy_a_1 1 0 Y
+1 0
+1
+73 2 66
+AP 1 <$X> 0
+
+1
+1 1
+_uhoh/jj_u_unknown 1 0 Y
+1 0
+1
+74 2 66
+AP 1 <$X> 0
+
+1
+3 5
+_nonspeech/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+1
+75 1 145
+N 1 <$X> 0
+
+1
+3 5
+_oowuh/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+76 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_uhlah/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+77 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_uhdah/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+78 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_oowedoo/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+79 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_uhyaiya/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+80 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_blehte/jj_u_unknown 1 0 Y
+1 0
+1
+81 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_uhlai/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+82 1 145
+N 1 <$X> 0
+
+1
+3 5
+_oowowoo/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+83 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_uhwoo/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+84 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_ehheh/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+85 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_oowah/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+86 2 339
+XP 1 <$X> 0
+
+1
+3 5
+_uhdatuh/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+87 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_uheauhunh/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+88 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_wowuwuwuwu/jj_u_unknown 1 0 Y
+1 0
+1
+89 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_uhwuh/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+90 1 145
+N 1 <$X> 0
+
+1
+3 5
+_uhbaduh/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+91 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_uhvahvah/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+92 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_aheheh/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+93 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_oop/jj_u_unknown 1 0 Y
+1 0
+1
+94 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_uhdai/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+95 1 145
+N 1 <$X> 0
+
+1
+1 1
+_dai/jj_u_unknown 1 0 Y
+1 0
+1
+96 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_oop/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+1
+97 1 145
+N 1 <$X> 0
+
+1
+3 5
+_awuhawaiwuh/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+98 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_uhweh/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+99 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_ugh_a_1 1 0 Y
+1 0
+1
+100 1 74
+ADV 1 <$X> 0
+
+1
+3 5
+_ucka/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+101 1 145
+N 1 <$X> 0
+
+1
+1 1
+_ugee/jj_u_unknown 1 0 Y
+1 0
+1
+102 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_gah/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+103 1 145
+N 1 <$X> 0
+
+1
+3 5
+_doodohooohm/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+104 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_ohguh/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+105 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_e+g_p 1 0 Y
+1 0
+1
+106 2 10
+PP 1 <$X> 0
+
+1
+3 5
+_uhdurh/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+107 1 145
+N 1 <$X> 0
+
+1
+2 2
+N 1 1 N
+PP 1 0 N
+0 
+1
+108 3 339
+XP 2 PP 1 N 0
+
+1
+3 5
+_druha/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+109 1 145
+N 1 <$X> 0
+
+1
+3 5
+_yayah/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+110 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_ehyahyah/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+111 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_uuhah/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+112 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_uah/jj_u_unknown 1 0 Y
+1 0
+1
+113 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_deh/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+1
+114 1 145
+N 1 <$X> 0
+
+1
+1 1
+_unh/jj_u_unknown 1 0 Y
+1 0
+1
+115 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_uhg/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 2
+1
+116 1 145
+N 1 <$X> 0
+
+1
+3 5
+_mmguy/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+117 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_up_p 1 0 Y
+1 0
+1
+118 1 10
+PP 1 <$X> 0
+
+1
+3 5
+_uhoo/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+119 1 145
+N 1 <$X> 0
+
+1
+3 5
+_oohnh/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+120 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_oowahu/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+121 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_uhduh/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+122 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_oohduh/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+123 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_jaykuh/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+124 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_mmbeht/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+125 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_oolah/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+126 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_dooeydai/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+127 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_ehngh/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+128 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_guhee/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+129 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_heuhh/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+130 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_aheah/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+131 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_heaheh/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+132 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_eunhu/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+133 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_waoohmeuh/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+134 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_meuhuh/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+135 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_huheruh/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+136 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_euguh/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+137 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_ueeh/jj_u_unknown 1 0 Y
+1 0
+1
+138 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_uhneh/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+139 1 145
+N 1 <$X> 0
+
+1
+3 5
+_ooeydeh/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+140 1 145
+N 1 <$X> 0
+
+1
+1 1
+_huh_a_1 1 0 Y
+1 0
+1
+141 1 74
+ADV 1 <$X> 0
+
+1
+3 5
+_heyah/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+143 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_eah/jj_u_unknown 1 0 Y
+1 0
+1
+144 2 66
+AP 1 <$X> 0
+
+1
+3 5
+_oooooo/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+145 1 145
+N 1 <$X> 0
+
+1
+3 5
+_dahooooweh/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+146 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_weh/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+147 1 145
+N 1 <$X> 0
+
+1
+3 5
+_uhwuh/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+148 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_ooweh/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+149 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_wawawao/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+150 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_oowawawahoowigodh/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+151 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_can_v_modal 1 0 Y
+1 0
+1
+152 1 29
+V 1 <$X> 0
+
+1
+2 2
+NP 1 1 N
+V 1 0 N
+2 1 0
+1
+153 1 1
+S/VP 2 NP 0 V 1
+
+1
+1 1
+_happen_v_1 1 0 Y
+1 0
+1
+154 1 29
+V 1 <$X> 0
+
+1
+3 4
+V 1 2 N
+ARG1 2 1 2 Y
+ARG1 2 2 0 Y
+S/VP 2 0 1 N
+0 
+1
+155 1 61
+S 2 S/VP 3 V 0
+
+1
+3 5
+thing 1 0 Y
+unknown 1 2 Y
+which_q 1 1 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+156 1 145
+N 1 <what> -1
+
+1
+3 5
+thing 1 0 Y
+unknown 1 2 Y
+which_q 1 1 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+157 1 339
+XP 2 <what> -1 ? -1
+
+1
+1 1
+_bubble_v_1 1 0 Y
+0 
+1
+158 2 61
+S 1 <$X> 0
+
+1
+1 1
+_this_q_dem 1 0 Y
+1 0
+1
+159 1 14
+DET 1 <$X> 0
+
+1
+2 3
+dofm 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+160 2 145
+N 1 <dofm> 0
+
+1
+2 3
+DET 1 1 N
+N 1 0 N
+BV 2 1 0 Y
+0 
+1
+161 5 339
+XP 2 DET 0 N 1
+
+1
+2 3
+_right_a_2 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+162 1 339
+XP 1 <$X> 0
+
+1
+2 2
+_a_p_per 1 1 Y
+udef_q 1 0 Y
+2 0 1
+1
+164 1 2
+P 1 <$X> 0
+
+1
+1 1
+_baby_n_1 1 0 Y
+1 0
+1
+165 1 145
+N 1 <$X> 0
+
+1
+3 4
+N 1 0 N
+ARG2 2 1 0 Y
+BV 2 2 0 Y
+P 2 2 1 N
+1 1
+1
+166 1 29
+XP 2 P 3 N 0
+
+1
+3 5
+_doggie/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+167 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_cupcake_n_1 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+168 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_cookie_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+169 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_good_a_at-for-of 1 0 Y
+1 0
+1
+170 1 7
+ADJ 1 <$X> 0
+
+1
+1 1
+_good_a_at-for-of 1 0 Y
+1 0
+1
+171 1 29
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+_this_q_dem 1 0 Y
+generic_entity 1 1 Y
+BV 2 0 1 Y
+1 1
+1
+172 2 145
+N 1 <$X> 0
+
+1
+1 1
+ellipsis_ref 1 0 Y
+1 0
+1
+173 2 29
+V 1 ??? -1
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+174 3 61
+S 2 N 0 V 1
+
+1
+1 1
+_no_a_1 1 0 Y
+1 0
+1
+175 1 74
+ADV 1 <$X> 0
+
+1
+2 3
+_no_a_1 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+1 1
+1
+176 1 74
+ADV 1 <$X> 0
+
+1
+2 3
+_yummy_a_1 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+177 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_babble_v_about 1 0 Y
+0 
+1
+178 1 61
+S 1 <$X> 0
+
+1
+1 1
+_uh+uh_a_1 1 0 Y
+1 0
+1
+179 1 74
+ADV 1 <$X> 0
+
+1
+1 1
+_uh+uh_a_1 1 0 Y
+1 0
+1
+180 1 29
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_cheese_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+181 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_daddy_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+182 1 145
+N 1 <$X> 0
+
+1
+1 1
+_yum_a_1 1 0 Y
+1 0
+1
+184 1 74
+ADV 1 <$X> 0
+
+1
+3 5
+named 1 2 Y
+proper_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+185 3 145
+N 1 <named> 0
+
+1
+3 5
+_clock_n_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+186 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_shoe_n_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+187 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_that_q_dem 1 0 Y
+1 0
+1
+188 1 14
+DET 1 <$X> 0
+
+1
+1 1
+_duck_v_1 1 0 Y
+0 
+1
+189 1 61
+S 1 <$X> 0
+
+1
+3 5
+_puppy_n_1 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+190 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_no_q 1 0 Y
+1 0
+1
+191 1 14
+DET 1 <$X> 0
+
+1
+2 3
+_no-no_n_1 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+192 1 145
+N 1 <$X> 0
+
+1
+3 5
+_wow_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+193 1 145
+N 1 <$X> 0
+
+1
+3 5
+_wow_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+194 1 339
+XP 2 <$X> 0 ! -1
+
+1
+1 1
+_balloon_v_1 1 0 Y
+0 
+1
+195 1 61
+S 1 <$X> 0
+
+1
+3 5
+_button_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+196 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_vroom/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+197 3 339
+XP 1 <$X> 0
+
+1
+3 5
+_banana_n_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+198 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_block_n_of 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+199 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_icecream/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+200 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_cheer_v_1 1 0 Y
+0 
+1
+201 1 61
+S 1 <$X> 0
+
+1
+3 5
+_ducky/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+202 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_oink/jj_u_unknown 1 0 Y
+1 0
+1
+203 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_oink/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+1
+204 1 145
+N 1 <$X> 0
+
+1
+3 5
+_quack_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+206 1 339
+XP 1 <$X> 0
+
+1
+2 3
+_delicious_a_1 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+207 1 339
+XP 1 <$X> 0
+
+1
+2 3
+_sticky_a_1 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+0 
+1
+208 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_ooh_a_1 1 0 Y
+1 0
+1
+209 1 74
+ADV 1 <$X> 0
+
+1
+1 1
+_ooh_a_1 1 0 Y
+1 0
+1
+210 1 29
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_football_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+211 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_yup_a_1 1 0 Y
+1 0
+1
+212 1 74
+ADV 1 <$X> 0
+
+1
+1 1
+_yup_a_1 1 0 Y
+1 0
+1
+213 1 29
+XP 2 <$X> 0 ! -1
+
+1
+1 1
+_hot_a_1 1 0 Y
+1 0
+1
+214 1 66
+AP 1 <$X> 0
+
+1
+1 1
+_hot_a_1 1 0 Y
+1 0
+1
+215 1 29
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_uhoh/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+216 1 145
+N 1 <$X> 0
+
+1
+3 5
+_uhoh/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+217 1 339
+XP 2 <$X> 0 ! -1
+
+1
+1 1
+_light_v_1 1 0 Y
+0 
+1
+218 1 61
+S 1 <$X> 0
+
+1
+3 5
+_noise_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+219 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_neigh/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+220 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_raisin_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+221 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_peekaboo/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+222 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_sock_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+223 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_doggy/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+224 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_cook_v_1 1 0 Y
+0 
+1
+225 1 61
+S 1 <$X> 0
+
+1
+1 1
+_hm_a_1 1 0 Y
+1 0
+1
+226 1 74
+ADV 1 <$X> 0
+
+1
+2 3
+_hm_a_1 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+1 0
+1
+227 2 74
+ADV 1 <$X> 0
+
+1
+1 1
+_waffle_v_1 1 0 Y
+0 
+1
+228 1 61
+S 1 <$X> 0
+
+1
+3 5
+named 1 1 Y
+proper_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+229 1 145
+N 1 <named> 0
+
+1
+3 5
+named 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+231 1 339
+XP 1 <named> 0
+
+1
+1 1
+_cut_v_1 1 0 Y
+0 
+1
+232 1 61
+S 1 <$X> 0
+
+1
+2 3
+_spoon_n_1 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+233 1 145
+N 1 <$X> 0
+
+1
+3 5
+_duckie/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+234 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_remember_v_from 1 0 Y
+0 
+1
+235 1 61
+S 1 <$X> 0
+
+1
+2 3
+_tuna_n_1 1 0 Y
+udef_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+236 1 145
+N 1 <$X> 0
+
+1
+1 1
+_fish_v_1 1 0 Y
+1 0
+1
+237 1 29
+V 1 <$X> 0
+
+1
+3 5
+_come_v_1 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+238 1 29
+V 1 <$X> 0
+
+1
+1 1
+_on_p_state 1 0 Y
+1 0
+1
+239 1 10
+PP 1 <$X> 0
+
+1
+2 3
+PP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+240 1 2
+VP/PT 2 V 1 PP 0
+
+1
+2 3
+PP 1 0 N
+V 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+241 1 61
+S 3 V 1 PP 0 ! -1
+
+1
+3 5
+_bowwow/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+242 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_vocalization_n_of 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+243 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_uhoh/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+244 1 145
+N 1 <$X> 0
+
+1
+3 5
+_pie_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+245 1 145
+N 1 <$X> 0
+
+1
+3 5
+_pie_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+246 1 339
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+_oo/jj_u_unknown 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+247 1 66
+AP 1 <$X> 0
+
+1
+1 1
+_mm_a_1 1 0 Y
+1 0
+1
+248 1 74
+ADV 1 <$X> 0
+
+1
+2 3
+ADV 1 1 N
+AP 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+249 1 339
+XP 2 AP 1 ADV 0
+
+1
+1 1
+_eat_v_1 1 0 Y
+1 0
+1
+250 1 29
+V 1 <$X> 0
+
+1
+2 3
+NP 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+251 4 61
+S 2 NP 0 V 1
+
+1
+1 1
+_cut_v_1 1 0 Y
+1 0
+1
+252 2 29
+V 1 <$X> 0
+
+1
+3 5
+_woah/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+253 1 145
+N 1 <$X> 0
+
+1
+3 5
+_woah/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+254 1 339
+XP 2 <$X> 0 ! -1
+
+1
+1 1
+_chocolate_a_1 1 0 Y
+1 0
+1
+255 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_icecream/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+256 2 145
+N 1 <$X> 0
+
+1
+3 5
+_mushroom_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+257 1 145
+N 1 <$X> 0
+
+1
+3 5
+_mushroom_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+258 1 339
+XP 2 <$X> 0 ? -1
+
+1
+1 1
+_hey_a_1 1 0 Y
+1 0
+2
+259 2 74
+ADV 1 <$X> 0
+
+261 2 74
+ADV 2 <$X> 0 , -1
+
+1
+3 5
+_moo_v_1 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+262 1 29
+V 1 <$X> 0
+
+1
+3 5
+_moo_v_1 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+263 1 61
+S 2 <$X> 0 ! -1
+
+1
+1 1
+_ha_a_1 1 0 Y
+1 0
+1
+264 1 74
+ADV 1 <$X> 0
+
+1
+1 1
+_ha+ha_a_1 1 0 Y
+1 0
+1
+265 1 74
+ADV 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 1 0 Y
+1 0
+1
+266 1 29
+XP 2 ADV 0 ADV 1
+
+1
+3 5
+_bababa/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+267 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_new_a_1 1 0 Y
+1 0
+1
+268 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_toy_n_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+269 1 145
+N 1 <$X> 0
+
+1
+3 5
+_cheer_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+270 1 145
+N 1 <$X> 0
+
+1
+3 5
+_cheer_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+271 1 339
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+card 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+272 1 7
+ADJ 1 <card> 0
+
+1
+2 3
+ADJ 1 1 N
+ADV 1 0 N
+ARG1 2 0 1 Y
+1 0
+1
+273 1 3
+XP/PT 2 ADJ 0 ADV 1
+
+1
+2 3
+ADJ 1 1 N
+ADV 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+274 1 339
+XP 3 ADJ 0 ADV 1 ! -1
+
+1
+2 3
+_should_v_modal 1 0 Y
+ellipsis_ref 1 1 Y
+ARG1 2 0 1 Y
+1 1
+1
+275 1 29
+V 1 <$X> 0
+
+1
+3 5
+_sushi_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+276 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_rain_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+277 1 145
+N 1 <$X> 0
+
+1
+3 5
+_rain_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+278 1 339
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_rooster/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+279 1 145
+N 1 <$X> 0
+
+1
+3 5
+_rooster/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+280 1 339
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_kiwi/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+281 1 145
+N 1 <$X> 0
+
+1
+3 5
+_kiwi/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+282 1 339
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_woosh/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+283 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_naynay/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+284 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_bowbow/nn_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+285 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_bowbowbow/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+286 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_those_q_dem 1 0 Y
+1 0
+1
+287 1 14
+DET 1 <$X> 0
+
+1
+2 3
+_shoe_n_1 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+288 1 145
+N 1 <$X> 0
+
+1
+1 1
+_these_q_dem 1 0 Y
+1 0
+1
+289 1 14
+DET 1 <$X> 0
+
+1
+2 3
+card 1 0 Y
+generic_entity 1 1 Y
+ARG1 2 0 1 Y
+1 1
+1
+290 1 145
+N 1 <card> 0
+
+1
+2 3
+DET 1 0 N
+N 1 1 N
+BV 2 0 1 Y
+1 1
+1
+291 1 8
+NP 2 DET 0 N 1
+
+1
+1 1
+_fit_v_1 1 0 Y
+1 0
+1
+292 1 29
+V 1 <$X> 0
+
+1
+1 1
+_make_v_1 1 0 Y
+1 0
+1
+293 1 29
+V 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+V 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+294 1 339
+XP 2 V 1 N 0
+
+1
+3 5
+_timer_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+295 2 145
+N 1 <$X> 0
+
+1
+3 5
+_timer_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+2
+296 1 339
+XP 2 <$X> 0 ? -1
+
+297 1 339
+XP 2 <$X> 0 ! -1
+
+1
+2 3
+NP 1 0 N
+V 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+298 1 1
+S/ADV 2 NP 0 V 1
+
+1
+1 1
+_icecream/rb_u_unknown 1 0 Y
+1 0
+1
+299 1 74
+ADV 1 <$X> 0
+
+1
+2 3
+ADV 1 1 N
+S/ADV 1 0 N
+ARG1 2 1 0 Y
+0 
+1
+300 1 61
+S 2 S/ADV 1 ADV 0
+
+1
+1 1
+_wrong_a_with 1 0 Y
+1 0
+1
+301 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_foot_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+302 1 145
+N 1 <$X> 0
+
+1
+2 3
+AP 1 0 N
+N 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+303 1 1
+N/PT 2 AP 0 N 1
+
+1
+2 3
+_die_v_1 1 0 Y
+_un-_a_rvrs 1 1 Y
+ARG1 2 1 0 Y
+0 
+1
+305 1 61
+S 2 un- 1 <$X> 0
+
+1
+3 5
+named 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+306 1 145
+N 1 <named> 0
+
+1
+2 3
+ADV 1 1 N
+N 1 0 N
+ARG1 2 1 0 Y
+1 0
+1
+307 1 3
+XP/PT 2 N 1 ADV 0
+
+1
+1 1
+_heh_a_1 1 0 Y
+1 0
+1
+309 1 74
+ADV 1 <$X> 0
+
+1
+2 3
+_mhm_a_1 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+1 0
+1
+310 1 74
+ADV 1 <$X> 0
+
+1
+1 1
+_mhm_a_1 1 0 Y
+1 0
+1
+311 1 74
+ADV 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+ADV 1 1 N
+ARG1 2 1 0 Y
+1 1
+1
+312 1 29
+XP 2 ADV 0 ADV 1
+
+1
+1 1
+_eh_a_1 1 0 Y
+1 0
+1
+313 1 74
+ADV 1 <$X> 0
+
+1
+2 3
+ADV 1 0 N
+XP 1 1 N
+ARG1 2 0 1 Y
+1 0
+1
+314 1 3
+XP/PT 2 XP 1 ADV 0
+
+1
+2 3
+ADV 1 0 N
+XP 1 1 N
+ARG1 2 0 1 Y
+0 
+1
+315 1 339
+XP 3 XP 1 ADV 0 ! -1
+
+1
+1 1
+_goo/jj_u_unknown 1 0 Y
+1 0
+1
+316 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_ga/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+317 1 145
+N 1 <$X> 0
+
+1
+3 5
+_udo/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+318 1 145
+N 1 <$X> 0
+
+1
+3 5
+_udo/nn_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+1
+319 1 339
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_ado_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+320 1 145
+N 1 <$X> 0
+
+1
+3 5
+_ado_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+321 1 339
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_ajuadoo/nn_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+322 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_yummy_a_1 1 0 Y
+1 0
+1
+323 1 29
+XP 2 <$X> 0 ? -1
+
+1
+1 1
+_bika/jj_u_unknown 1 0 Y
+1 0
+1
+324 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_bika/nn_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+325 1 145
+N 1 <$X> 0
+
+0
+1
+326 2 2
+ADV 1 ah -1
+
+1
+1 1
+_ew/jj_u_unknown 1 0 Y
+1 0
+1
+327 1 66
+AP 1 <$X> 0
+
+1
+1 1
+_ew/jj_u_unknown 1 0 Y
+1 0
+1
+328 1 29
+XP 2 ah -1 <$X> 0
+
+1
+1 1
+_agu/rb_u_unknown 1 0 Y
+1 0
+1
+329 1 74
+ADV 1 <$X> 0
+
+1
+1 1
+_agu/rb_u_unknown 1 0 Y
+1 0
+1
+330 1 3
+XP/NP 2 <$X> 0 ah -1
+
+1
+3 5
+_ahdah/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+331 1 145
+N 1 <$X> 0
+
+1
+2 3
+N 1 1 N
+XP/NP 1 0 N
+ARG1 2 0 1 Y
+0 
+1
+332 1 339
+XP 2 XP/NP 1 N 0
+
+1
+1 1
+_byebye/jj_u_unknown 1 0 Y
+1 0
+1
+333 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_speechplay/nn_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+334 1 339
+XP 1 <$X> 0
+
+1
+1 1
+_labial/jj_u_unknown 1 0 Y
+1 0
+1
+335 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_X_p 1 1 Y
+reason 1 2 Y
+which_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+336 1 10
+PP 1 <$X> 0
+
+1
+3 5
+_X_p 1 1 Y
+reason 1 2 Y
+which_q 1 0 Y
+ARG2 2 1 2 Y
+BV 2 0 2 Y
+1 1
+1
+337 1 29
+XP 2 <$X> 0 ? -1
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+2
+338 28 74
+ADV 1 <$X> 0
+
+414 2 74
+ADV 2 <$X> 0 , -1
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+2
+339 3 29
+XP 2 <$X> 0 ? -1
+
+357 5 29
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_X_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+340 2 145
+N 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+3
+341 1 339
+XP 2 <$X> 0 ? -1
+
+364 1 339
+XP 2 <$X> 0 ! -1
+
+390 2 339
+XP 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+3
+342 8 339
+XP 1 <$X> 0
+
+397 4 339
+XP 2 <$X> 0 ! -1
+
+410 3 339
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+343 14 339
+XP 1 <$X> 0
+
+1
+1 1
+_X_a_for 1 0 Y
+1 0
+1
+344 2 7
+ADJ 1 <$X> 0
+
+1
+1 1
+_X_a_for 1 0 Y
+1 0
+1
+345 2 29
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_X_you/nn_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+346 2 339
+XP 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+2
+347 15 339
+XP 1 <$X> 0
+
+420 1 339
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+_X_a_1 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+1 0
+1
+348 4 74
+ADV 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+2
+349 11 339
+XP 1 <$X> 0
+
+404 1 339
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_X_n_of 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+350 2 339
+XP 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+351 5 339
+XP 1 <$X> 0
+
+1
+1 1
+_X_v_1 1 0 Y
+0 
+1
+352 17 61
+S 1 <$X> 0
+
+1
+1 1
+_X_a_1 1 0 Y
+1 0
+1
+353 9 66
+AP 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+354 3 145
+N 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+3
+355 2 339
+XP 2 <$X> 0 ! -1
+
+396 3 339
+XP 1 <$X> 0
+
+413 1 339
+XP 2 <$X> 0 ? -1
+
+1
+1 1
+_X_v_to 1 0 Y
+0 
+1
+356 2 61
+S 1 <$X> 0
+
+1
+2 2
+_X_v_to 1 1 Y
+unknown 1 0 Y
+0 
+1
+358 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+359 3 145
+N 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+0 
+3
+360 2 339
+XP 2 <$X> 0 ! -1
+
+401 1 339
+XP 2 <$X> 0 ? -1
+
+402 3 339
+XP 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+2
+361 14 339
+XP 1 <$X> 0
+
+412 1 339
+XP 2 <$X> 0 ! -1
+
+1
+1 1
+_X_u_unknown 1 0 Y
+1 0
+1
+362 22 66
+AP 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 1
+1
+363 3 145
+N 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 0 Y
+unknown 1 1 Y
+ARG1 2 0 1 Y
+0 
+1
+365 3 339
+XP 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+0 
+2
+366 12 339
+XP 1 <$X> 0
+
+425 1 339
+XP 2 <$X> 0 ! -1
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+367 9 145
+N 1 <$X> 0
+
+1
+1 1
+_X_v_1 1 0 Y
+1 0
+1
+368 9 29
+V 1 <$X> 0
+
+1
+1 1
+_X_q 1 0 Y
+1 0
+1
+369 3 14
+DET 1 <$X> 0
+
+1
+1 1
+_X_n_1 1 0 Y
+1 0
+1
+370 2 145
+N 1 <$X> 0
+
+1
+1 1
+_X_c 1 0 Y
+1 0
+1
+371 1 2
+CONJ 1 <$X> 0
+
+1
+1 1
+_X_c 1 0 Y
+1 0
+1
+372 1 2
+S/VP 2 <$X> 0 it -1
+
+1
+3 5
+_X_n_1 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+373 12 145
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 2
+1
+374 4 145
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 0
+1
+375 4 145
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+2
+376 13 339
+XP 1 <$X> 0
+
+419 1 339
+XP 2 <$X> 0 ? -1
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 2
+1
+377 2 145
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 1
+1
+378 4 145
+N 1 <$X> 0
+
+1
+1 1
+_X_p 1 0 Y
+1 0
+1
+379 3 10
+PP 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+380 2 145
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 0 Y
+unknown 1 2 Y
+ARG 2 2 1 Y
+BV 2 0 1 Y
+1 0
+1
+381 2 145
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 0 Y
+unknown 1 1 Y
+ARG 2 1 2 Y
+BV 2 0 2 Y
+1 2
+1
+382 1 145
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+1 0
+1
+383 2 145
+N 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+384 4 145
+N 1 <$X> 0
+
+1
+1 1
+_X_v_modal 1 0 Y
+1 0
+1
+385 1 29
+V 1 <$X> 0
+
+1
+1 1
+_X_q_dem 1 0 Y
+1 0
+1
+386 4 14
+DET 1 <$X> 0
+
+1
+2 3
+_X_a_2 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+0 
+1
+387 1 339
+XP 1 <$X> 0
+
+1
+2 2
+_X_p_per 1 1 Y
+udef_q 1 0 Y
+2 0 1
+1
+388 1 2
+P 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+0 
+1
+389 2 339
+XP 1 <$X> 0
+
+1
+1 1
+_X_a_at-for-of 1 0 Y
+1 0
+1
+391 1 7
+ADJ 1 <$X> 0
+
+1
+1 1
+_X_a_at-for-of 1 0 Y
+1 0
+1
+392 1 29
+XP 2 <$X> 0 ? -1
+
+1
+2 3
+_X_q_dem 1 0 Y
+generic_entity 1 1 Y
+BV 2 0 1 Y
+1 1
+1
+393 2 145
+N 1 <$X> 0
+
+1
+2 3
+_X_a_1 1 1 Y
+unknown 1 0 Y
+ARG1 2 1 0 Y
+1 1
+1
+394 1 74
+ADV 1 <$X> 0
+
+1
+1 1
+_X_v_about 1 0 Y
+0 
+1
+395 1 61
+S 1 <$X> 0
+
+1
+3 5
+_X_n_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+0 
+1
+398 3 339
+XP 1 <$X> 0
+
+1
+2 3
+_X_n_1 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+399 2 145
+N 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+0 
+1
+400 1 339
+XP 1 <$X> 0
+
+1
+3 5
+_X_u_unknown 1 1 Y
+udef_q 1 2 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+BV 2 2 1 Y
+1 0
+1
+403 1 145
+N 1 <$X> 0
+
+1
+1 1
+_X_v_from 1 0 Y
+0 
+1
+405 1 61
+S 1 <$X> 0
+
+1
+2 3
+_X_n_1 1 0 Y
+udef_q 1 1 Y
+BV 2 1 0 Y
+1 0
+1
+406 1 145
+N 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 0 Y
+pronoun_q 1 2 Y
+ARG1 2 1 0 Y
+BV 2 2 0 Y
+1 1
+1
+407 1 29
+V 1 <$X> 0
+
+1
+1 1
+_X_p_state 1 0 Y
+1 0
+1
+408 1 10
+PP 1 <$X> 0
+
+1
+3 5
+_X_n_of 1 2 Y
+udef_q 1 1 Y
+unknown 1 0 Y
+ARG 2 0 2 Y
+BV 2 1 2 Y
+0 
+1
+409 1 339
+XP 1 <$X> 0
+
+1
+2 3
+_X_u_unknown 1 1 Y
+unknown 1 0 Y
+ARG 2 0 1 Y
+1 1
+1
+411 1 66
+AP 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+1 0
+1
+415 1 29
+V 1 <$X> 0
+
+1
+3 5
+_X_v_1 1 1 Y
+pron 1 2 Y
+pronoun_q 1 0 Y
+ARG1 2 1 2 Y
+BV 2 0 2 Y
+0 
+1
+416 1 61
+S 2 <$X> 0 ! -1
+
+1
+3 5
+_X_n_1 1 0 Y
+udef_q 1 2 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+BV 2 2 0 Y
+1 0
+1
+417 1 145
+N 1 <$X> 0
+
+1
+2 3
+_X_v_modal 1 0 Y
+ellipsis_ref 1 1 Y
+ARG1 2 0 1 Y
+1 1
+1
+418 1 29
+V 1 <$X> 0
+
+1
+2 3
+_X_n_1 1 0 Y
+unknown 1 1 Y
+ARG 2 1 0 Y
+1 0
+1
+421 1 145
+N 1 <$X> 0
+
+1
+1 1
+_X_u_unknown 1 0 Y
+1 0
+1
+422 2 74
+ADV 1 <$X> 0
+
+1
+1 1
+_X_a_with 1 0 Y
+1 0
+1
+423 1 66
+AP 1 <$X> 0
+
+1
+2 3
+_X_v_1 1 0 Y
+_un-_a_rvrs 1 1 Y
+ARG1 2 1 0 Y
+0 
+1
+424 1 61
+S 2 un- 1 <$X> 0
+
+1
+1 1
+_X_u_unknown 1 0 Y
+1 0
+1
+426 1 29
+XP 2 ah -1 <$X> 0
+
+1
+1 1
+_X_u_unknown 1 0 Y
+1 0
+1
+427 1 3
+XP/NP 2 <$X> 0 ah -1
+
+1
+3 5
+_X_u_unknown 1 0 Y
+udef_q 1 1 Y
+unknown 1 2 Y
+ARG 2 2 0 Y
+BV 2 1 0 Y
+1 2
+1
+428 1 145
+N 1 <$X> 0
+

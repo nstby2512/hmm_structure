@@ -1,0 +1,19 @@
+{
+  "_OptionsBase__training": true,
+  "graph_type": "eds",
+  "detect_function": "construction",
+  "modify_tree": "to-left",
+  "modify_label": [],
+  "graph_transformers": [],
+  "remove_disconnected": false,
+  "fully_lexicalized": true,
+  "delexicalize": true,
+  "label_type": "cfg",
+  "remove_null_semantic": [],
+  "ep_permutation": [
+    "stick+span"
+  ],
+  "fix_hyphen": "none",
+  "remove_root_strict": true,
+  "keep_all_samples": false
+}
