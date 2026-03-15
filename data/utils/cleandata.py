@@ -55,7 +55,7 @@ def transform_both_to_conll(input_path, output_path, rule_path):
                             terminal_id, terminal_rule = rule[index*2 - 1][0], rule[index*2 - 1][1:]
                             combination_id, combination_rule = rule[index*2][0], rule[index*2][1:-2]
                             mixrule = terminal_rule + combination_rule
-                        fout.write(f"{index + 1}\t{token}\t{terminal_id}\t{terminal_rule}\t{combination_id}\t{combination_rule}\t{mixrule}\n")
+                        fout.write(f"{index + 1}\t{token}\t{mixrule}\n")
                     
                     # 句子之间加空行
                     fout.write("\n")

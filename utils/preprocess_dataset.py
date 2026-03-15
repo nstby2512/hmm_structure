@@ -58,7 +58,7 @@ def load_shrg_dataset(filename="./cds_mature_re2.conll", line_num=None):
 
     #如何把两个rule排列组合呢？
     sentences = []
-    tokens = {"idx": [], "form": [], "terminal_idx": [], "terminal_rule": [], "combination_idx": [], "combination_rule": [], "mix_rule":[]}
+    tokens = {"idx": [], "form": [], "mix_rule":[]}
     rule_set = set([])
     for i, line in enumerate(lines):
         if line.strip() == "":
@@ -70,10 +70,6 @@ def load_shrg_dataset(filename="./cds_mature_re2.conll", line_num=None):
             tokens = {
                 "idx": [],
                 "form": [],
-                "terminal_idx": [],
-                "terminal_rule": [],
-                "combination_idx": [],
-                "combination_rule": [],
                 "mix_rule":[],
             }
             continue
@@ -81,14 +77,12 @@ def load_shrg_dataset(filename="./cds_mature_re2.conll", line_num=None):
         if line_num is not None and i > line_num:
             break
 
-        fields = line.strip().split()
-        idx, form, terminal_idx, terminal_rule, combination_idx, combination_rule, mix_rule = fields
+        fields = line.strip().split(None, 2)
+        if len(fields) != 3:
+            print(f"Error at line: {fields}")
+        idx, form, mix_rule = fields
         tokens["idx"].append(idx)
         tokens["form"].append(form)
-        tokens["terminal_idx"].append(terminal_idx)
-        tokens["terminal_rule"].append(terminal_rule)
-        tokens["combination_idx"].append(combination_idx)
-        tokens["combination_rule"].append(combination_rule)
         tokens["mix_rule"].append(mix_rule)
 
     logger.info(f"| Number of sentences: {len(sentences)}")

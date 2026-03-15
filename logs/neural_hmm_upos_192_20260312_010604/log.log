@@ -1,0 +1,5 @@
+INFO    [main.py:48 | 2026-03-12_01:06:04] Logging setup complete. Logs will be saved to ./logs/neural_hmm_upos_192_20260312_010604/log.log.
+INFO    [hmm_pipeline.py:260 | 2026-03-12_01:06:04] Using upos as tag
+INFO    [hmm_pipeline.py:263 | 2026-03-12_01:06:04] Using cds-mature as datasets
+INFO    [preprocess_dataset.py:88 | 2026-03-12_01:06:05] | Number of sentences: 55251
+INFO    [hmm_pipeline.py:79 | 2026-03-12_01:06:09] Training HMM by stages

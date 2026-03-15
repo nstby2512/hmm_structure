@@ -284,8 +284,9 @@ def train_and_test(
             input_ids.append(obs_mapping[token])
         examples["input_ids"] = input_ids
         # Using UPoS as tags
+        # 临时修改了examples里用“mixrule”
         tags = []
-        for tag in examples[tag_name]:
+        for tag in examples["mix_rule"]:
             tags.append(tag_mapping[tag])
         examples["tags"] = tags
         return examples
