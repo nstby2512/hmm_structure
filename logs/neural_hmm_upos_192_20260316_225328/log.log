@@ -1,0 +1,14 @@
+INFO    [main.py:48 | 2026-03-16_22:53:28] Logging setup complete. Logs will be saved to ./logs/neural_hmm_upos_192_20260316_225328/log.log.
+INFO    [hmm_pipeline.py:260 | 2026-03-16_22:53:28] Using upos as tag
+INFO    [hmm_pipeline.py:263 | 2026-03-16_22:53:28] Using cds-mature as datasets
+INFO    [preprocess_dataset.py:88 | 2026-03-16_22:53:28] | Number of sentences: 7
+INFO    [hmm_pipeline.py:79 | 2026-03-16_22:53:28] Training HMM by stages
+INFO    [nhmm.py:107 | 2026-03-16_22:53:29] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:53:29] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:53:30] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:53:31] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:53:31] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:53:31] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:53:31] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225328/checkpoints/checkpoint_0.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:53:31] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:53:31] Computing whole-dataset VI

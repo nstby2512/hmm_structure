@@ -1,0 +1,175 @@
+INFO    [main.py:48 | 2026-03-16_22:56:33] Logging setup complete. Logs will be saved to ./logs/neural_hmm_upos_192_20260316_225633/log.log.
+INFO    [hmm_pipeline.py:260 | 2026-03-16_22:56:33] Using upos as tag
+INFO    [hmm_pipeline.py:263 | 2026-03-16_22:56:33] Using cds-mature as datasets
+INFO    [preprocess_dataset.py:88 | 2026-03-16_22:56:33] | Number of sentences: 64
+INFO    [hmm_pipeline.py:79 | 2026-03-16_22:56:33] Training HMM by stages
+INFO    [nhmm.py:107 | 2026-03-16_22:56:35] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:56:35] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:37] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:37] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:37] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:37] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:56:38] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225633/checkpoints/checkpoint_0.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:38] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:38] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:38] | Homogeneity score: 0.8492234537424981
+| Completeness score: 1.0
+| V-measure: 0.918464939457502
+| Variation of information: 0.44444444444444464
+| Normalized VI: 0.08153506054249801
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:38] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/results_0.csv
+INFO    [nhmm.py:107 | 2026-03-16_22:56:38] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:56:38] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:38] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:38] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:39] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:39] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:56:39] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225633/checkpoints/checkpoint_1.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:39] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:39] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:39] | Homogeneity score: 0.8492234537424981
+| Completeness score: 0.918464939457502
+| V-measure: 0.8824880799443541
+| Variation of information: 0.6666666666666679
+| Normalized VI: 0.11751192005564601
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:39] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/results_1.csv
+INFO    [nhmm.py:107 | 2026-03-16_22:56:39] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:56:39] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:39] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:39] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:39] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:39] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:56:39] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225633/checkpoints/checkpoint_2.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:39] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:39] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:39] | Homogeneity score: 0.8492234537424981
+| Completeness score: 0.918464939457502
+| V-measure: 0.8824880799443541
+| Variation of information: 0.6666666666666679
+| Normalized VI: 0.11751192005564601
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:39] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/results_2.csv
+INFO    [nhmm.py:107 | 2026-03-16_22:56:39] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:56:39] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:56:40] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225633/checkpoints/checkpoint_3.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:40] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:40] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:40] | Homogeneity score: 0.8492234537424981
+| Completeness score: 0.918464939457502
+| V-measure: 0.8824880799443541
+| Variation of information: 0.6666666666666679
+| Normalized VI: 0.11751192005564601
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:40] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/results_3.csv
+INFO    [nhmm.py:107 | 2026-03-16_22:56:40] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:56:40] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225633/checkpoints/checkpoint_4.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:40] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:40] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:40] | Homogeneity score: 0.924611726871249
+| Completeness score: 0.924611726871249
+| V-measure: 0.924611726871249
+| Variation of information: 0.44444444444444464
+| Normalized VI: 0.07538827312875093
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:40] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/results_4.csv
+INFO    [nhmm.py:107 | 2026-03-16_22:56:40] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:40] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:56:41] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225633/checkpoints/checkpoint_5.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:41] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:41] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:41] | Homogeneity score: 0.924611726871249
+| Completeness score: 0.924611726871249
+| V-measure: 0.924611726871249
+| Variation of information: 0.44444444444444464
+| Normalized VI: 0.07538827312875093
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:41] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/results_5.csv
+INFO    [nhmm.py:107 | 2026-03-16_22:56:41] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:56:41] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225633/checkpoints/checkpoint_6.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:41] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:41] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:41] | Homogeneity score: 0.924611726871249
+| Completeness score: 0.924611726871249
+| V-measure: 0.924611726871249
+| Variation of information: 0.44444444444444464
+| Normalized VI: 0.07538827312875093
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:41] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/results_6.csv
+INFO    [nhmm.py:107 | 2026-03-16_22:56:41] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:56:41] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225633/checkpoints/checkpoint_7.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:41] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:41] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:41] | Homogeneity score: 0.924611726871249
+| Completeness score: 0.924611726871249
+| V-measure: 0.924611726871249
+| Variation of information: 0.44444444444444464
+| Normalized VI: 0.07538827312875093
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:41] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/results_7.csv
+INFO    [nhmm.py:107 | 2026-03-16_22:56:41] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:41] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:56:41] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225633/checkpoints/checkpoint_8.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:42] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:42] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:42] | Homogeneity score: 0.924611726871249
+| Completeness score: 0.924611726871249
+| V-measure: 0.924611726871249
+| Variation of information: 0.44444444444444464
+| Normalized VI: 0.07538827312875093
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:42] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/results_8.csv
+INFO    [nhmm.py:107 | 2026-03-16_22:56:42] Running neural HMM
+INFO    [nhmm.py:115 | 2026-03-16_22:56:42] Epoch: 1:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:42] Epoch: 2:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:42] Epoch: 3:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:42] Epoch: 4:
+INFO    [nhmm.py:115 | 2026-03-16_22:56:42] Epoch: 5:
+INFO    [hmm_pipeline.py:122 | 2026-03-16_22:56:42] Saving HMM model to ./logs/neural_hmm_upos_192_20260316_225633/checkpoints/checkpoint_9.pt
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:42] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:42] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:42] | Homogeneity score: 0.924611726871249
+| Completeness score: 0.924611726871249
+| V-measure: 0.924611726871249
+| Variation of information: 0.44444444444444464
+| Normalized VI: 0.07538827312875093
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:42] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/results_9.csv
+INFO    [hmm_pipeline.py:136 | 2026-03-16_22:56:42] HMM training done
+INFO    [hmm_pipeline.py:198 | 2026-03-16_22:56:42] Computing whole-dataset V-measure
+INFO    [hmm_pipeline.py:202 | 2026-03-16_22:56:42] Computing whole-dataset VI
+INFO    [hmm_pipeline.py:207 | 2026-03-16_22:56:42] | Homogeneity score: 0.46326912226718386
+| Completeness score: 0.8984585817401409
+| V-measure: 0.6113235668647821
+| Variation of information: 3.9785883454937006
+| Normalized VI: 0.3886764331352195
+
+INFO    [hmm_pipeline.py:216 | 2026-03-16_22:56:42] Saving results to ./logs/neural_hmm_upos_192_20260316_225633/results/final_results.csv

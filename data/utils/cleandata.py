@@ -20,7 +20,7 @@ def transform_both_to_conll(input_path, output_path, rule_path):
         contraction_re = re.compile(r"(\w+)('(s|re|ve|ll|d|m|n't))", re.I)
         for i in range(len(lines)):
             # 只训练几句
-            if  i > 100:
+            if  i > 1000:
                 break
             line = lines[i].strip()
             

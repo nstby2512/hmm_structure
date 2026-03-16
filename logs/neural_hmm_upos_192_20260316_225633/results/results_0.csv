@@ -1,0 +1,5 @@
+id,sentence,VI,normalized-VI,homogeneity,completeness,V-score
+0,-,0.44444444444444464,0.08153506054249801,0.8492234537424981,1.0,0.918464939457502
+1,I don't know,4.440892098500626e-16,1.4009454786722165e-16,1.0,1.0,1.0
+2,acorn,-0.0,nan,1.0,1.0,1.0
+3,he is putting on clothes,0.0,0.0,1.0,1.0,1.0

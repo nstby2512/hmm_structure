@@ -1,1 +1,5 @@
-data/
+data/childes_by_stage/
+data/deepbank/
+log/
+# 删除所有文件下的pycache
+**/__pycache__/
