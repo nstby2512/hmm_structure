@@ -52,7 +52,7 @@ def load_ptb_dataset(filename="./ptb-train.conllu", line_num=None):
 
 
 
-def load_shrg_dataset(filename="./cds_mature_re2.conll", line_num=None):
+def load_shrg_dataset(filename="./cds_mature_few.conll", line_num=None):
     with open(filename, "r") as f:
         lines = f.readlines()
 

@@ -19,6 +19,9 @@ def transform_both_to_conll(input_path, output_path, rule_path):
         #匹配特殊情况('s|)
         contraction_re = re.compile(r"(\w+)('(s|re|ve|ll|d|m|n't))", re.I)
         for i in range(len(lines)):
+            # 只训练几句
+            if  i > 100:
+                break
             line = lines[i].strip()
             
             # 1. 寻找 ID 行
@@ -103,5 +106,5 @@ with open('data/childes_by_stage/mature/mature.derivations.p', 'rb') as f:
 if __name__ == "__main__":
     # der = data['66-0661']
     # pprint(der)
-    transform_both_to_conll('data/childes_by_stage/mature/mature.graphs.txt', 'cds_mature_re2.conll', 'data/childes_by_stage/mature/mature.derivations.p') 
+    transform_both_to_conll('data/childes_by_stage/mature/mature.graphs.txt', 'cds_mature_few.conll', 'data/childes_by_stage/mature/mature.derivations.p') 
     #transform_sentence_to_conll('data/childes_by_stage/mature/mature.graphs.txt', 'cds_mature_sentence.conll', )

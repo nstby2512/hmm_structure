@@ -1,0 +1,29 @@
+1	I	({('_1', 'x3', 'BV'), ('x3', 'pron'), ('_1', 'pronoun_q')}, ('x3',))
+2	don't	({('e2', 'neg')}, ('e2',), set(), ('x3', 'e2'))
+3	know	({('e10', '_know_v_1')}, ('e10',), {('e2', 'e10', 'ARG1'), ('e10', 'x3', 'ARG1')}, ())
+
+1	acorn	({('_1', 'x4', 'BV'), ('x4', '_acorn_n_1'), ('_1', 'udef_q'), ('e2', 'unknown'), ('e2', 'x4', 'ARG')}, ())
+
+1	he	({('_1', 'x3', 'BV'), ('x3', 'pron'), ('_1', 'pronoun_q')}, ('x3',))
+2	is	(set(), None, set(), ('x3',))
+3	putting	({('e2', '_put_v_on')}, ('e2',), {('e2', 'x3', 'ARG1')}, ('e2',))
+4	on	(set(), None, set(), ('e2',))
+5	clothes	({('x8', '_clothes_n_1'), ('_2', 'x8', 'BV'), ('_2', 'udef_q')}, ('x8',), {('e2', 'x8', 'ARG2')}, ())
+
+1	wait	({('_1', 'x3', 'BV'), ('e2', '_wait_v_1'), ('x3', 'pron'), ('_1', 'pronoun_q'), ('e2', 'x3', 'ARG1')}, ('e2',))
+2	golden	({('e10', 'e14', 'ARG2'), ('e14', '_golden_a_1'), ('e10', 'subord')}, ('e10',), {('e10', 'e2', 'ARG1')}, ())
+
+1	um	(set(), None)
+2	I	({('_1', 'x3', 'BV'), ('x3', 'pron'), ('_1', 'pronoun_q')}, ('x3',), set(), ('x3',))
+3	forgot	({('e2', '_forget_v_1')}, ('e2',), {('e2', 'x3', 'ARG1')}, ())
+
+1	skyder	({('_1', 'x4', 'BV'), ('_1', 'udef_q'), ('e2', 'unknown'), ('e2', 'x4', 'ARG'), ('x4', '_skyder/nn_u_unknown')}, ())
+
+1	this	({('_1', '_this_q_dem')}, ('_1',))
+2	boy	({('x3', '_boy_n_1')}, ('x3',), {('_1', 'x3', 'BV')}, ('x3',))
+3	is	(set(), None, set(), ('x3',))
+4	throwing	({('e2', '_throw_v_1')}, ('e2',), {('e2', 'x3', 'ARG1')}, ('e2',))
+5	a	({('_2', '_a_q')}, ('_2',), set(), ('e2', '_2'))
+6	paper	({('e13', 'compound'), ('_3', 'x14', 'BV'), ('x14', '_paper_n_1'), ('_3', 'udef_q'), ('e13', 'x14', 'ARG2')}, ('e13',), set(), ('_2', 'e2', 'e13'))
+7	airplane	({('x8', '_airplane_n_1')}, ('x8',), {('e2', 'x8', 'ARG2'), ('_2', 'x8', 'BV'), ('e13', 'x8', 'ARG1')}, ())
+
