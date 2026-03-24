@@ -1,4 +1,5 @@
 import logging
+import wandb
 from typing import Tuple
 
 import torch
@@ -13,6 +14,15 @@ from pos_tagging.base import BaseUnsupervisedClassifier
 
 logger = logging.getLogger()
 
+wandb.init(
+    mode="online",
+    project="nhmm-GD", 
+    config={               
+        "architecture": "NHMM",
+        "dataset": "PTB"
+        
+    }
+)
 
 class NeuralHMMClassifier(BaseUnsupervisedClassifier):
     def __init__(
@@ -113,6 +123,8 @@ class NeuralHMMClassifier(BaseUnsupervisedClassifier):
         )
         for epoch in tqdm(range(1, 1 + epochs), desc="Neural HMM Training"):
             logger.info(f"Epoch: {epoch}:")
+            # total_loss = 0
+            # l = 0
             for batched_samples, lengths in tqdm(dataloader):
                 prev_log_likelihood = None
                 for _ in range(self.num_inner_loop_updates):
@@ -123,6 +135,8 @@ class NeuralHMMClassifier(BaseUnsupervisedClassifier):
                     transition_probs = transition_probs.unsqueeze(0)
                     emission_probs = emission_probs.T.unsqueeze(1)
                     b, n = batched_samples.shape[:2]
+
+                    # forward
                     alpha = torch.zeros(
                         (batched_samples.shape[0], n, self.num_states),
                         device=self.device,
@@ -138,17 +152,67 @@ class NeuralHMMClassifier(BaseUnsupervisedClassifier):
                             + emission_probs[batched_samples[:, t], ...],
                             dim=1,
                         )
+                    # backward
+                    beta = torch.zeros((b, n, self.num_states), device=self.device)
+                    for t in range(n - 2, -1, -1):
+                        beta[:, t] = torch.logsumexp(
+                            transition_probs
+                            + emission_probs[batched_samples[:, t + 1], ...]
+                            + beta[:, t + 1].unsqueeze(1),
+                            dim=2,
+                        )
+                    # log P(x)
+                    log_Z = torch.logsumexp(alpha[:, n - 1], dim=1, keepdim=True) # [b, 1]
 
-                    # Calculate log likelihood of each sequence
-                    log_lik = torch.logsumexp(
-                        alpha[torch.arange(b), lengths - 1, :], dim=1
+                    # E-step
+                    # p(z_t | x)
+                    log_gamma = alpha + beta - log_Z.unsqueeze(2)
+                    gamma = torch.exp(log_gamma).detach() # [b, n, states]
+
+                    # p(z_t, z_{t-1} | x)
+                    log_xi = (
+                        alpha[:, :-1].unsqueeze(-1)                                      # [b, n-1, prev_state, 1]
+                        + transition_probs.unsqueeze(1)                                  # [1, 1, prev_state, curr_state]
+                        + emission_probs[batched_samples[:, 1:]].squeeze(2).unsqueeze(2) # [b, n-1, 1, curr_state]
+                        + beta[:, 1:].unsqueeze(2)                                       # [b, n-1, 1, curr_state]
+                        - log_Z.unsqueeze(-1).unsqueeze(-1)                              # [b, 1, 1, 1]
                     )
-                    loss = -torch.mean(log_lik)
+                    xi = torch.exp(log_xi).detach() # [b, n-1, prev_state, curr_state]
 
+                    # M-step 
+                    # p(z_t | x) * ln p(x_t | z_t)
+                    emission_log_probs = emission_probs[batched_samples].squeeze(2) # [b, n, states]
+                    loss_emission = (gamma * emission_log_probs).sum()
+
+                    # p(z_t, z_{t-1} | x) * ln p(z_t | z_{t-1})
+                    loss_transition = (xi * transition_probs.unsqueeze(1)).sum()
+
+                    # 初始概率梯度项
+                    loss_start = (gamma[:, 0] * start_probs.unsqueeze(0)).sum()
+
+                    loss = - (loss_start + loss_transition + loss_emission) / b
+
+                    """
+                    待添加EM版本, 且删除tag, 评测暂时为loss (类似于2020论文)
+                    ------Data------
+                    
+                    ------GD------         
+                    1. 忽略评测过程中的其他指标,在wandb记录中仅记录上方loss
+                    ------EM------
+                    2. 在这里(上方)添加E步的forward(本质上为从整句forward到每一个详细的都算出来)
+                    3. 在下方修改M步, 获得与Backpropagation同等级的另一种方式
+                    """
+                    
                     # Backpropagation
                     self.optimizer.zero_grad()
                     loss.backward()
                     self.optimizer.step()
+
+                    # [Original]:Calculate log likelihood of each sequence 
+                    # origin_log_lik = torch.logsumexp(
+                    #     alpha[torch.arange(b), lengths - 1, :], dim=1
+                    # )
+                    # origin_loss = -torch.mean(origin_log_lik)
 
                     if prev_log_likelihood is None:
                         prev_log_likelihood = -loss
@@ -158,6 +222,19 @@ class NeuralHMMClassifier(BaseUnsupervisedClassifier):
                             break
                         else:
                             prev_log_likelihood = -loss
+                    wandb.log({
+                        "loss": prev_log_likelihood})
+                    # total_loss += prev_log_likelihood
+                    # l += 1
+                    # # 计算完 loss 后
+                    # del alpha, beta, log_xi, xi, gamma 
+                    # torch.cuda.empty_cache()
+
+            # total_loss = total_loss / l
+            wandb.log({
+                "loss_per_epoch": prev_log_likelihood,
+                "epoch": epoch
+            })       
 
     def get_probabilities_for_eval(self):
         (

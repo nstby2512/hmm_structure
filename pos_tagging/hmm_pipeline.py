@@ -261,7 +261,7 @@ def train_and_test(
 
     # 增加选择数据集
     logger.info(f"Using {dataset} as datasets")
-    if dataset == 'ptb':
+    if dataset == 'ptb-trains':
         # Load and wrap dataset
         sentences, upos_set, xpos_set = load_ptb_dataset(line_num=subset)
         dataset = wrap_dataset(sentences)
@@ -286,7 +286,7 @@ def train_and_test(
         # Using UPoS as tags
         # 临时修改了examples里用“mixrule”
         tags = []
-        for tag in examples["mix_rule"]:
+        for tag in examples[tag_name]:
             tags.append(tag_mapping[tag])
         examples["tags"] = tags
         return examples
@@ -346,7 +346,7 @@ def test(
 
     # 增加选择数据集
     logger.info(f"Using {dataset} as datasets")
-    if dataset == 'ptb':
+    if dataset == 'ptb-trains':
         # Load and wrap dataset
         sentences, upos_set, xpos_set = load_ptb_dataset(line_num=subset)
         dataset = wrap_dataset(sentences)

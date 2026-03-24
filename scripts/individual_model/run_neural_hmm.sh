@@ -4,6 +4,7 @@ python main.py \
     train-test \
     nhmm \
     upos \
+    ptb-trains \
     --experiment-name $EXPERIMENT_NAME \
-    --max-epochs 10 5 \
+    --max-epochs 20 5 \
     --nhmm-hidden-dim 192 \
